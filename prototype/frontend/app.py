@@ -66,7 +66,7 @@ with tab2:
                     f'<div class="{cls}">'
                     f"<b>{alert['building']}</b> — {alert['date']} — "
                     f"Usage: <b>{alert['usage']:,}L</b> (expected < {alert['expected_upper']:,}L) "
-                    f"<span style='color:{\"red\" if sev==\"HIGH\" else \"orange\"}'><b>[{sev}]</b></span>"
+                    f"<span style='color:{'red' if sev=='HIGH' else 'orange'}'><b>[{sev}]</b></span>"
                     f"</div>", unsafe_allow_html=True
                 )
         else:
