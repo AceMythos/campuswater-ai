@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Boys Hostel - Block A",
+    "type": "hostel",
+    "occupants": 240,
+    "zone": "Hostel Zone"
+  },
+  {
+    "name": "Boys Hostel - Block B",
+    "type": "hostel",
+    "occupants": 280,
+    "zone": "Hostel Zone"
+  },
+  {
+    "name": "Girls Hostel",
+    "type": "hostel",
+    "occupants": 180,
+    "zone": "Hostel Zone"
+  },
+  {
+    "name": "Admin Block",
+    "type": "admin",
+    "occupants": 80,
+    "zone": "Admin Zone"
+  },
+  {
+    "name": "Academic Block",
+    "type": "academic",
+    "occupants": 600,
+    "zone": "Academic Zone"
+  },
+  {
+    "name": "Library",
+    "type": "academic",
+    "occupants": 200,
+    "zone": "Academic Zone"
+  },
+  {
+    "name": "Cafeteria",
+    "type": "utility",
+    "occupants": 150,
+    "zone": "Recreation Zone"
+  },
+  {
+    "name": "Workshop Lab",
+    "type": "utility",
+    "occupants": 60,
+    "zone": "Academic Zone"
+  }
+]

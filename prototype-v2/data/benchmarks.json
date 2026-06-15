@@ -1,0 +1,22 @@
+{
+  "cpheeo_institutional_lpcd": {
+    "value": 135,
+    "source": "CPHEEO Manual on Water Supply & Treatment, Ministry of Housing & Urban Affairs, Govt of India",
+    "note": "Recommended water supply for institutions with bathing facilities"
+  },
+  "bis_is1172_lpcd": {
+    "value": 100,
+    "source": "Bureau of Indian Standards IS 1172:1993",
+    "note": "Minimum water requirement for hostels"
+  },
+  "bwssb_bengaluru_supply_lpcd": {
+    "value": 130,
+    "source": "BWSSB Annual Report 2023-24",
+    "note": "Average per-capita supply in BWSSB areas"
+  },
+  "niti_aayog_water_index": {
+    "value": "1,121 billion cubic meters",
+    "source": "NITI Aayog Composite Water Management Index 2019",
+    "note": "India's total annual water demand projected for 2025"
+  }
+}

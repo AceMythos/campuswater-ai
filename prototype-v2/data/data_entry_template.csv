@@ -1,0 +1,9 @@
+date,building,zone,usage_liters,meter_reading_kL,notes
+2026-06-01,Boys Hostel - Block A,Hostel Zone,,,Enter reading from meter
+2026-06-01,Boys Hostel - Block B,Hostel Zone,,,
+2026-06-01,Girls Hostel,Hostel Zone,,,
+2026-06-01,Admin Block,Admin Zone,,,
+2026-06-01,Academic Block,Academic Zone,,,
+2026-06-01,Library,Academic Zone,,,
+2026-06-01,Cafeteria,Recreation Zone,,,
+2026-06-01,Workshop Lab,Academic Zone,,,
