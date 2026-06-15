@@ -1,0 +1,9 @@
+streamlit>=1.58.0
+fastapi>=0.115.0
+uvicorn>=0.34.0
+pandas>=2.0
+numpy>=1.24
+ollama>=0.6
+sentence-transformers>=3.0
+faiss-cpu>=1.14
+requests>=2.31

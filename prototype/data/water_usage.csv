@@ -1,0 +1,2556 @@
+date,building,zone,usage_liters,temperature_c,rainfall_mm,is_anomaly,day_of_week,month
+2026-01-01,Block A,Hostel Zone,44329,19.6,1.5,0,Thursday,January
+2026-01-01,Block B,Hostel Zone,46455,20.8,8.4,0,Thursday,January
+2026-01-01,Block C,Hostel Zone,39324,21.6,2.6,0,Thursday,January
+2026-01-01,Block D,Hostel Zone,40306,22.4,0.9,0,Thursday,January
+2026-01-01,Admin Block,Admin Zone,9884,15.8,2.4,0,Thursday,January
+2026-01-01,Library,Academic Zone,7446,20.4,2.7,0,Thursday,January
+2026-01-01,Cafeteria,Recreation Zone,12683,19.1,1.7,0,Thursday,January
+2026-01-02,Block A,Hostel Zone,42083,19.3,5.6,0,Friday,January
+2026-01-02,Block B,Hostel Zone,46057,14.1,4.9,0,Friday,January
+2026-01-02,Block C,Hostel Zone,43741,17.0,0.9,0,Friday,January
+2026-01-02,Block D,Hostel Zone,41919,23.2,1.5,0,Friday,January
+2026-01-02,Admin Block,Admin Zone,10773,21.7,7.7,0,Friday,January
+2026-01-02,Library,Academic Zone,6629,19.1,0.9,0,Friday,January
+2026-01-02,Cafeteria,Recreation Zone,14496,23.5,1.9,0,Friday,January
+2026-01-03,Block A,Hostel Zone,28260,23.0,8.2,0,Saturday,January
+2026-01-03,Block B,Hostel Zone,32122,30.1,1.8,0,Saturday,January
+2026-01-03,Block C,Hostel Zone,27429,19.1,7.8,0,Saturday,January
+2026-01-03,Block D,Hostel Zone,29060,17.6,7.1,0,Saturday,January
+2026-01-03,Admin Block,Admin Zone,6646,18.5,6.0,0,Saturday,January
+2026-01-03,Library,Academic Zone,5176,24.1,4.8,0,Saturday,January
+2026-01-03,Cafeteria,Recreation Zone,8383,19.0,9.8,0,Saturday,January
+2026-01-04,Block A,Hostel Zone,52982,15.8,3.0,1,Sunday,January
+2026-01-04,Block B,Hostel Zone,31294,19.5,13.7,0,Sunday,January
+2026-01-04,Block C,Hostel Zone,27620,14.2,4.1,0,Sunday,January
+2026-01-04,Block D,Hostel Zone,29253,18.7,3.6,0,Sunday,January
+2026-01-04,Admin Block,Admin Zone,7277,23.4,7.1,0,Sunday,January
+2026-01-04,Library,Academic Zone,4433,24.2,6.4,0,Sunday,January
+2026-01-04,Cafeteria,Recreation Zone,10439,17.0,2.6,0,Sunday,January
+2026-01-05,Block A,Hostel Zone,92535,22.6,6.6,1,Monday,January
+2026-01-05,Block B,Hostel Zone,40868,21.9,3.7,0,Monday,January
+2026-01-05,Block C,Hostel Zone,38298,19.0,3.1,0,Monday,January
+2026-01-05,Block D,Hostel Zone,45460,24.1,18.9,0,Monday,January
+2026-01-05,Admin Block,Admin Zone,10880,22.3,9.9,0,Monday,January
+2026-01-05,Library,Academic Zone,6613,21.9,9.5,0,Monday,January
+2026-01-05,Cafeteria,Recreation Zone,22208,17.9,13.6,1,Monday,January
+2026-01-06,Block A,Hostel Zone,44251,17.1,7.3,0,Tuesday,January
+2026-01-06,Block B,Hostel Zone,48090,23.8,7.4,0,Tuesday,January
+2026-01-06,Block C,Hostel Zone,47059,17.3,2.0,0,Tuesday,January
+2026-01-06,Block D,Hostel Zone,46583,19.3,4.2,0,Tuesday,January
+2026-01-06,Admin Block,Admin Zone,11898,21.9,2.0,0,Tuesday,January
+2026-01-06,Library,Academic Zone,7130,19.6,3.5,0,Tuesday,January
+2026-01-06,Cafeteria,Recreation Zone,14084,21.4,3.9,0,Tuesday,January
+2026-01-07,Block A,Hostel Zone,41092,22.3,2.9,0,Wednesday,January
+2026-01-07,Block B,Hostel Zone,48403,20.5,5.5,0,Wednesday,January
+2026-01-07,Block C,Hostel Zone,41614,17.6,4.4,0,Wednesday,January
+2026-01-07,Block D,Hostel Zone,39544,23.2,8.6,0,Wednesday,January
+2026-01-07,Admin Block,Admin Zone,11431,18.2,6.1,0,Wednesday,January
+2026-01-07,Library,Academic Zone,9296,22.9,6.6,0,Wednesday,January
+2026-01-07,Cafeteria,Recreation Zone,12095,15.5,2.8,0,Wednesday,January
+2026-01-08,Block A,Hostel Zone,42914,22.1,0.8,0,Thursday,January
+2026-01-08,Block B,Hostel Zone,42063,19.0,2.3,0,Thursday,January
+2026-01-08,Block C,Hostel Zone,43080,20.1,2.4,0,Thursday,January
+2026-01-08,Block D,Hostel Zone,48271,22.5,0.5,0,Thursday,January
+2026-01-08,Admin Block,Admin Zone,10818,17.6,3.8,0,Thursday,January
+2026-01-08,Library,Academic Zone,6667,25.0,2.8,0,Thursday,January
+2026-01-08,Cafeteria,Recreation Zone,12627,16.2,7.9,0,Thursday,January
+2026-01-09,Block A,Hostel Zone,43922,25.0,0.9,0,Friday,January
+2026-01-09,Block B,Hostel Zone,43545,21.3,7.2,0,Friday,January
+2026-01-09,Block C,Hostel Zone,40795,17.2,3.4,0,Friday,January
+2026-01-09,Block D,Hostel Zone,39179,18.7,4.6,0,Friday,January
+2026-01-09,Admin Block,Admin Zone,10709,27.0,1.7,0,Friday,January
+2026-01-09,Library,Academic Zone,7369,20.2,3.0,0,Friday,January
+2026-01-09,Cafeteria,Recreation Zone,11301,23.8,0.5,0,Friday,January
+2026-01-10,Block A,Hostel Zone,29062,18.1,7.7,0,Saturday,January
+2026-01-10,Block B,Hostel Zone,29078,18.1,3.1,0,Saturday,January
+2026-01-10,Block C,Hostel Zone,29199,20.9,2.4,0,Saturday,January
+2026-01-10,Block D,Hostel Zone,31051,14.6,1.3,0,Saturday,January
+2026-01-10,Admin Block,Admin Zone,7417,19.4,11.5,0,Saturday,January
+2026-01-10,Library,Academic Zone,4571,20.0,8.0,0,Saturday,January
+2026-01-10,Cafeteria,Recreation Zone,9367,19.1,3.4,0,Saturday,January
+2026-01-11,Block A,Hostel Zone,27029,25.7,8.6,0,Sunday,January
+2026-01-11,Block B,Hostel Zone,27769,16.4,7.2,0,Sunday,January
+2026-01-11,Block C,Hostel Zone,28693,17.9,4.1,0,Sunday,January
+2026-01-11,Block D,Hostel Zone,31279,19.6,6.5,0,Sunday,January
+2026-01-11,Admin Block,Admin Zone,7878,18.7,4.9,0,Sunday,January
+2026-01-11,Library,Academic Zone,4559,20.7,9.1,0,Sunday,January
+2026-01-11,Cafeteria,Recreation Zone,8543,18.0,10.3,0,Sunday,January
+2026-01-12,Block A,Hostel Zone,43696,24.4,3.3,0,Monday,January
+2026-01-12,Block B,Hostel Zone,45283,23.8,7.2,0,Monday,January
+2026-01-12,Block C,Hostel Zone,40503,21.2,3.2,0,Monday,January
+2026-01-12,Block D,Hostel Zone,102681,20.7,4.2,1,Monday,January
+2026-01-12,Admin Block,Admin Zone,11063,20.2,10.8,0,Monday,January
+2026-01-12,Library,Academic Zone,7651,22.6,4.8,0,Monday,January
+2026-01-12,Cafeteria,Recreation Zone,13205,22.9,2.0,0,Monday,January
+2026-01-13,Block A,Hostel Zone,40591,17.7,4.7,0,Tuesday,January
+2026-01-13,Block B,Hostel Zone,38368,21.1,1.9,0,Tuesday,January
+2026-01-13,Block C,Hostel Zone,42467,16.0,13.3,0,Tuesday,January
+2026-01-13,Block D,Hostel Zone,43267,19.2,10.2,0,Tuesday,January
+2026-01-13,Admin Block,Admin Zone,10561,23.7,3.8,0,Tuesday,January
+2026-01-13,Library,Academic Zone,7074,24.5,5.3,0,Tuesday,January
+2026-01-13,Cafeteria,Recreation Zone,12844,21.9,1.1,0,Tuesday,January
+2026-01-14,Block A,Hostel Zone,44462,17.5,3.3,0,Wednesday,January
+2026-01-14,Block B,Hostel Zone,50921,20.3,4.7,0,Wednesday,January
+2026-01-14,Block C,Hostel Zone,44628,16.9,3.4,0,Wednesday,January
+2026-01-14,Block D,Hostel Zone,45770,24.1,2.9,0,Wednesday,January
+2026-01-14,Admin Block,Admin Zone,10367,14.8,10.8,0,Wednesday,January
+2026-01-14,Library,Academic Zone,6953,22.2,2.8,0,Wednesday,January
+2026-01-14,Cafeteria,Recreation Zone,14746,20.0,7.3,0,Wednesday,January
+2026-01-15,Block A,Hostel Zone,43945,19.9,8.9,0,Thursday,January
+2026-01-15,Block B,Hostel Zone,40077,16.7,5.9,0,Thursday,January
+2026-01-15,Block C,Hostel Zone,40654,22.9,2.9,0,Thursday,January
+2026-01-15,Block D,Hostel Zone,41867,17.6,2.6,0,Thursday,January
+2026-01-15,Admin Block,Admin Zone,10568,16.9,4.4,0,Thursday,January
+2026-01-15,Library,Academic Zone,5808,21.5,9.4,0,Thursday,January
+2026-01-15,Cafeteria,Recreation Zone,13204,19.3,2.2,0,Thursday,January
+2026-01-16,Block A,Hostel Zone,44612,27.1,3.2,0,Friday,January
+2026-01-16,Block B,Hostel Zone,51261,19.3,7.6,0,Friday,January
+2026-01-16,Block C,Hostel Zone,37629,17.1,4.4,0,Friday,January
+2026-01-16,Block D,Hostel Zone,37930,20.6,3.6,0,Friday,January
+2026-01-16,Admin Block,Admin Zone,10618,17.7,3.1,0,Friday,January
+2026-01-16,Library,Academic Zone,8065,22.6,1.9,0,Friday,January
+2026-01-16,Cafeteria,Recreation Zone,13320,18.7,11.6,0,Friday,January
+2026-01-17,Block A,Hostel Zone,26432,15.9,8.0,0,Saturday,January
+2026-01-17,Block B,Hostel Zone,29327,19.3,2.4,0,Saturday,January
+2026-01-17,Block C,Hostel Zone,26178,20.1,2.0,0,Saturday,January
+2026-01-17,Block D,Hostel Zone,29921,19.7,2.6,0,Saturday,January
+2026-01-17,Admin Block,Admin Zone,7535,20.3,7.1,0,Saturday,January
+2026-01-17,Library,Academic Zone,5091,17.7,2.2,0,Saturday,January
+2026-01-17,Cafeteria,Recreation Zone,7600,20.8,1.9,0,Saturday,January
+2026-01-18,Block A,Hostel Zone,25833,20.8,2.4,0,Sunday,January
+2026-01-18,Block B,Hostel Zone,30314,23.0,2.6,0,Sunday,January
+2026-01-18,Block C,Hostel Zone,29650,22.3,0.2,0,Sunday,January
+2026-01-18,Block D,Hostel Zone,27166,21.1,2.5,0,Sunday,January
+2026-01-18,Admin Block,Admin Zone,7383,24.7,5.4,0,Sunday,January
+2026-01-18,Library,Academic Zone,4581,21.2,3.0,0,Sunday,January
+2026-01-18,Cafeteria,Recreation Zone,7313,21.1,9.4,0,Sunday,January
+2026-01-19,Block A,Hostel Zone,41243,14.4,3.1,0,Monday,January
+2026-01-19,Block B,Hostel Zone,39573,20.0,7.5,0,Monday,January
+2026-01-19,Block C,Hostel Zone,33631,15.6,9.1,0,Monday,January
+2026-01-19,Block D,Hostel Zone,45297,23.7,4.8,0,Monday,January
+2026-01-19,Admin Block,Admin Zone,10870,22.5,2.0,0,Monday,January
+2026-01-19,Library,Academic Zone,7964,21.2,8.5,0,Monday,January
+2026-01-19,Cafeteria,Recreation Zone,12780,19.2,1.7,0,Monday,January
+2026-01-20,Block A,Hostel Zone,41177,18.3,7.7,0,Tuesday,January
+2026-01-20,Block B,Hostel Zone,50213,17.7,1.3,0,Tuesday,January
+2026-01-20,Block C,Hostel Zone,41416,22.5,6.7,0,Tuesday,January
+2026-01-20,Block D,Hostel Zone,43330,27.3,4.6,0,Tuesday,January
+2026-01-20,Admin Block,Admin Zone,12178,21.8,2.1,0,Tuesday,January
+2026-01-20,Library,Academic Zone,7374,24.8,2.7,0,Tuesday,January
+2026-01-20,Cafeteria,Recreation Zone,13227,22.3,4.3,0,Tuesday,January
+2026-01-21,Block A,Hostel Zone,46367,19.5,2.9,0,Wednesday,January
+2026-01-21,Block B,Hostel Zone,48388,13.0,1.2,0,Wednesday,January
+2026-01-21,Block C,Hostel Zone,36625,19.2,1.0,0,Wednesday,January
+2026-01-21,Block D,Hostel Zone,43500,16.0,3.5,0,Wednesday,January
+2026-01-21,Admin Block,Admin Zone,11252,19.2,1.5,0,Wednesday,January
+2026-01-21,Library,Academic Zone,7106,20.5,4.2,0,Wednesday,January
+2026-01-21,Cafeteria,Recreation Zone,13298,18.3,2.6,0,Wednesday,January
+2026-01-22,Block A,Hostel Zone,51401,16.7,3.4,0,Thursday,January
+2026-01-22,Block B,Hostel Zone,50750,23.7,0.4,0,Thursday,January
+2026-01-22,Block C,Hostel Zone,41806,19.2,1.1,0,Thursday,January
+2026-01-22,Block D,Hostel Zone,40815,22.8,9.8,0,Thursday,January
+2026-01-22,Admin Block,Admin Zone,10058,17.8,2.7,0,Thursday,January
+2026-01-22,Library,Academic Zone,7384,19.3,3.1,0,Thursday,January
+2026-01-22,Cafeteria,Recreation Zone,13574,20.8,1.6,0,Thursday,January
+2026-01-23,Block A,Hostel Zone,44736,21.0,1.3,0,Friday,January
+2026-01-23,Block B,Hostel Zone,40801,17.6,0.9,0,Friday,January
+2026-01-23,Block C,Hostel Zone,42839,13.8,12.4,0,Friday,January
+2026-01-23,Block D,Hostel Zone,46907,19.9,3.1,0,Friday,January
+2026-01-23,Admin Block,Admin Zone,10610,16.0,7.1,0,Friday,January
+2026-01-23,Library,Academic Zone,6373,20.3,4.8,0,Friday,January
+2026-01-23,Cafeteria,Recreation Zone,12281,23.1,5.9,0,Friday,January
+2026-01-24,Block A,Hostel Zone,32108,24.7,0.6,0,Saturday,January
+2026-01-24,Block B,Hostel Zone,27108,21.6,2.2,0,Saturday,January
+2026-01-24,Block C,Hostel Zone,24113,21.7,1.8,0,Saturday,January
+2026-01-24,Block D,Hostel Zone,25878,17.2,19.7,0,Saturday,January
+2026-01-24,Admin Block,Admin Zone,7160,20.5,2.6,0,Saturday,January
+2026-01-24,Library,Academic Zone,4783,23.4,2.3,0,Saturday,January
+2026-01-24,Cafeteria,Recreation Zone,9010,19.0,2.5,0,Saturday,January
+2026-01-25,Block A,Hostel Zone,32545,21.9,8.2,0,Sunday,January
+2026-01-25,Block B,Hostel Zone,25941,23.4,3.9,0,Sunday,January
+2026-01-25,Block C,Hostel Zone,28592,21.1,6.5,0,Sunday,January
+2026-01-25,Block D,Hostel Zone,32001,23.2,3.9,0,Sunday,January
+2026-01-25,Admin Block,Admin Zone,6162,21.3,4.9,0,Sunday,January
+2026-01-25,Library,Academic Zone,5047,20.4,1.6,0,Sunday,January
+2026-01-25,Cafeteria,Recreation Zone,9631,19.9,6.8,0,Sunday,January
+2026-01-26,Block A,Hostel Zone,41048,22.7,4.5,0,Monday,January
+2026-01-26,Block B,Hostel Zone,43624,20.7,2.8,0,Monday,January
+2026-01-26,Block C,Hostel Zone,40005,20.4,10.8,0,Monday,January
+2026-01-26,Block D,Hostel Zone,44208,20.8,7.7,0,Monday,January
+2026-01-26,Admin Block,Admin Zone,11267,20.1,2.7,0,Monday,January
+2026-01-26,Library,Academic Zone,7907,18.7,10.8,0,Monday,January
+2026-01-26,Cafeteria,Recreation Zone,12393,22.4,1.2,0,Monday,January
+2026-01-27,Block A,Hostel Zone,39502,19.9,5.0,0,Tuesday,January
+2026-01-27,Block B,Hostel Zone,41420,22.0,8.2,0,Tuesday,January
+2026-01-27,Block C,Hostel Zone,40159,16.6,5.5,0,Tuesday,January
+2026-01-27,Block D,Hostel Zone,47587,24.9,2.4,0,Tuesday,January
+2026-01-27,Admin Block,Admin Zone,10206,18.1,9.3,0,Tuesday,January
+2026-01-27,Library,Academic Zone,6894,16.5,2.0,0,Tuesday,January
+2026-01-27,Cafeteria,Recreation Zone,13826,20.6,0.9,0,Tuesday,January
+2026-01-28,Block A,Hostel Zone,39770,20.5,2.5,0,Wednesday,January
+2026-01-28,Block B,Hostel Zone,43895,20.9,5.3,0,Wednesday,January
+2026-01-28,Block C,Hostel Zone,38078,20.3,1.1,0,Wednesday,January
+2026-01-28,Block D,Hostel Zone,40978,18.4,4.9,0,Wednesday,January
+2026-01-28,Admin Block,Admin Zone,7691,17.4,2.8,0,Wednesday,January
+2026-01-28,Library,Academic Zone,7699,21.8,3.1,0,Wednesday,January
+2026-01-28,Cafeteria,Recreation Zone,14318,21.3,7.4,0,Wednesday,January
+2026-01-29,Block A,Hostel Zone,44365,24.1,6.6,0,Thursday,January
+2026-01-29,Block B,Hostel Zone,43958,17.5,5.5,0,Thursday,January
+2026-01-29,Block C,Hostel Zone,39573,20.6,4.3,0,Thursday,January
+2026-01-29,Block D,Hostel Zone,46146,15.9,3.3,0,Thursday,January
+2026-01-29,Admin Block,Admin Zone,10846,19.7,5.1,0,Thursday,January
+2026-01-29,Library,Academic Zone,7206,21.2,8.7,0,Thursday,January
+2026-01-29,Cafeteria,Recreation Zone,12229,23.6,0.9,0,Thursday,January
+2026-01-30,Block A,Hostel Zone,43887,18.4,11.5,0,Friday,January
+2026-01-30,Block B,Hostel Zone,45061,15.7,0.3,0,Friday,January
+2026-01-30,Block C,Hostel Zone,42979,23.0,5.0,0,Friday,January
+2026-01-30,Block D,Hostel Zone,41559,22.0,3.9,0,Friday,January
+2026-01-30,Admin Block,Admin Zone,9612,25.0,4.0,0,Friday,January
+2026-01-30,Library,Academic Zone,7244,16.2,10.8,0,Friday,January
+2026-01-30,Cafeteria,Recreation Zone,13862,19.9,5.4,0,Friday,January
+2026-01-31,Block A,Hostel Zone,29462,21.9,10.1,0,Saturday,January
+2026-01-31,Block B,Hostel Zone,33218,21.5,2.3,0,Saturday,January
+2026-01-31,Block C,Hostel Zone,31164,20.4,2.3,0,Saturday,January
+2026-01-31,Block D,Hostel Zone,27542,23.0,2.9,0,Saturday,January
+2026-01-31,Admin Block,Admin Zone,5728,22.4,5.7,0,Saturday,January
+2026-01-31,Library,Academic Zone,4728,18.3,4.2,0,Saturday,January
+2026-01-31,Cafeteria,Recreation Zone,8059,19.3,4.3,0,Saturday,January
+2026-02-01,Block A,Hostel Zone,30352,16.5,0.5,0,Sunday,February
+2026-02-01,Block B,Hostel Zone,33900,14.6,1.7,0,Sunday,February
+2026-02-01,Block C,Hostel Zone,31969,13.9,1.2,0,Sunday,February
+2026-02-01,Block D,Hostel Zone,31596,19.0,1.8,0,Sunday,February
+2026-02-01,Admin Block,Admin Zone,8235,19.2,4.0,0,Sunday,February
+2026-02-01,Library,Academic Zone,5140,14.4,0.7,0,Sunday,February
+2026-02-01,Cafeteria,Recreation Zone,9358,14.8,1.1,0,Sunday,February
+2026-02-02,Block A,Hostel Zone,57351,16.5,1.2,0,Monday,February
+2026-02-02,Block B,Hostel Zone,49930,17.0,0.9,0,Monday,February
+2026-02-02,Block C,Hostel Zone,40657,14.9,3.1,0,Monday,February
+2026-02-02,Block D,Hostel Zone,43735,22.3,2.3,0,Monday,February
+2026-02-02,Admin Block,Admin Zone,12202,18.3,0.2,0,Monday,February
+2026-02-02,Library,Academic Zone,8508,12.6,0.7,0,Monday,February
+2026-02-02,Cafeteria,Recreation Zone,15784,14.7,0.6,0,Monday,February
+2026-02-03,Block A,Hostel Zone,50228,15.5,1.7,0,Tuesday,February
+2026-02-03,Block B,Hostel Zone,50478,19.8,0.2,0,Tuesday,February
+2026-02-03,Block C,Hostel Zone,48325,16.1,0.3,0,Tuesday,February
+2026-02-03,Block D,Hostel Zone,54621,16.2,1.6,0,Tuesday,February
+2026-02-03,Admin Block,Admin Zone,10188,17.1,0.2,0,Tuesday,February
+2026-02-03,Library,Academic Zone,7881,15.3,0.8,0,Tuesday,February
+2026-02-03,Cafeteria,Recreation Zone,16337,20.0,1.5,0,Tuesday,February
+2026-02-04,Block A,Hostel Zone,50644,15.6,1.0,0,Wednesday,February
+2026-02-04,Block B,Hostel Zone,52221,14.3,1.9,0,Wednesday,February
+2026-02-04,Block C,Hostel Zone,46617,19.1,1.4,0,Wednesday,February
+2026-02-04,Block D,Hostel Zone,41580,25.2,2.4,0,Wednesday,February
+2026-02-04,Admin Block,Admin Zone,11222,14.5,3.7,0,Wednesday,February
+2026-02-04,Library,Academic Zone,8517,13.6,1.3,0,Wednesday,February
+2026-02-04,Cafeteria,Recreation Zone,15747,16.9,2.3,0,Wednesday,February
+2026-02-05,Block A,Hostel Zone,49734,17.7,1.8,0,Thursday,February
+2026-02-05,Block B,Hostel Zone,47263,17.2,2.2,0,Thursday,February
+2026-02-05,Block C,Hostel Zone,45973,18.0,1.5,0,Thursday,February
+2026-02-05,Block D,Hostel Zone,54736,12.7,1.9,0,Thursday,February
+2026-02-05,Admin Block,Admin Zone,12862,16.7,0.4,0,Thursday,February
+2026-02-05,Library,Academic Zone,7444,12.0,0.5,0,Thursday,February
+2026-02-05,Cafeteria,Recreation Zone,17200,12.5,0.7,0,Thursday,February
+2026-02-06,Block A,Hostel Zone,55391,19.4,0.6,0,Friday,February
+2026-02-06,Block B,Hostel Zone,50130,16.3,0.3,0,Friday,February
+2026-02-06,Block C,Hostel Zone,40744,20.5,1.7,0,Friday,February
+2026-02-06,Block D,Hostel Zone,48970,17.5,0.6,0,Friday,February
+2026-02-06,Admin Block,Admin Zone,11965,13.4,0.4,0,Friday,February
+2026-02-06,Library,Academic Zone,6912,17.5,0.5,0,Friday,February
+2026-02-06,Cafeteria,Recreation Zone,16452,18.0,0.5,0,Friday,February
+2026-02-07,Block A,Hostel Zone,37462,17.0,1.5,0,Saturday,February
+2026-02-07,Block B,Hostel Zone,35301,20.4,1.6,0,Saturday,February
+2026-02-07,Block C,Hostel Zone,31628,15.5,1.5,0,Saturday,February
+2026-02-07,Block D,Hostel Zone,29581,21.6,0.9,0,Saturday,February
+2026-02-07,Admin Block,Admin Zone,8650,18.7,0.7,0,Saturday,February
+2026-02-07,Library,Academic Zone,5147,17.2,4.4,0,Saturday,February
+2026-02-07,Cafeteria,Recreation Zone,9190,15.3,1.6,0,Saturday,February
+2026-02-08,Block A,Hostel Zone,32754,15.9,0.2,0,Sunday,February
+2026-02-08,Block B,Hostel Zone,35423,17.3,1.1,0,Sunday,February
+2026-02-08,Block C,Hostel Zone,29269,21.3,2.2,0,Sunday,February
+2026-02-08,Block D,Hostel Zone,36263,17.2,0.7,0,Sunday,February
+2026-02-08,Admin Block,Admin Zone,7913,15.7,0.4,0,Sunday,February
+2026-02-08,Library,Academic Zone,5130,14.1,1.1,0,Sunday,February
+2026-02-08,Cafeteria,Recreation Zone,10391,11.7,1.6,0,Sunday,February
+2026-02-09,Block A,Hostel Zone,57255,18.4,3.8,0,Monday,February
+2026-02-09,Block B,Hostel Zone,49086,16.2,0.5,0,Monday,February
+2026-02-09,Block C,Hostel Zone,49283,21.1,0.9,0,Monday,February
+2026-02-09,Block D,Hostel Zone,54343,18.2,0.7,0,Monday,February
+2026-02-09,Admin Block,Admin Zone,10862,16.6,1.9,0,Monday,February
+2026-02-09,Library,Academic Zone,9674,17.5,0.7,0,Monday,February
+2026-02-09,Cafeteria,Recreation Zone,15743,13.1,0.5,0,Monday,February
+2026-02-10,Block A,Hostel Zone,41768,17.9,4.2,0,Tuesday,February
+2026-02-10,Block B,Hostel Zone,47311,17.1,1.1,0,Tuesday,February
+2026-02-10,Block C,Hostel Zone,47227,16.0,1.7,0,Tuesday,February
+2026-02-10,Block D,Hostel Zone,52377,12.8,0.8,0,Tuesday,February
+2026-02-10,Admin Block,Admin Zone,12268,16.3,0.9,0,Tuesday,February
+2026-02-10,Library,Academic Zone,8289,23.7,0.9,0,Tuesday,February
+2026-02-10,Cafeteria,Recreation Zone,15313,12.4,0.8,0,Tuesday,February
+2026-02-11,Block A,Hostel Zone,45073,17.9,1.2,0,Wednesday,February
+2026-02-11,Block B,Hostel Zone,52288,10.4,1.4,0,Wednesday,February
+2026-02-11,Block C,Hostel Zone,43942,13.4,1.5,0,Wednesday,February
+2026-02-11,Block D,Hostel Zone,49127,20.8,0.7,0,Wednesday,February
+2026-02-11,Admin Block,Admin Zone,11838,17.2,0.7,0,Wednesday,February
+2026-02-11,Library,Academic Zone,8265,16.3,0.2,0,Wednesday,February
+2026-02-11,Cafeteria,Recreation Zone,16417,13.2,0.9,0,Wednesday,February
+2026-02-12,Block A,Hostel Zone,43606,15.7,2.5,0,Thursday,February
+2026-02-12,Block B,Hostel Zone,50702,16.3,1.0,0,Thursday,February
+2026-02-12,Block C,Hostel Zone,44870,17.5,0.5,0,Thursday,February
+2026-02-12,Block D,Hostel Zone,49856,12.8,1.1,0,Thursday,February
+2026-02-12,Admin Block,Admin Zone,12071,21.5,0.5,0,Thursday,February
+2026-02-12,Library,Academic Zone,6674,19.8,0.4,0,Thursday,February
+2026-02-12,Cafeteria,Recreation Zone,16130,14.9,1.0,0,Thursday,February
+2026-02-13,Block A,Hostel Zone,52569,17.2,2.0,0,Friday,February
+2026-02-13,Block B,Hostel Zone,52153,14.1,1.2,0,Friday,February
+2026-02-13,Block C,Hostel Zone,53384,17.1,0.8,0,Friday,February
+2026-02-13,Block D,Hostel Zone,44594,13.4,1.8,0,Friday,February
+2026-02-13,Admin Block,Admin Zone,13374,17.2,0.6,0,Friday,February
+2026-02-13,Library,Academic Zone,8810,14.1,0.3,0,Friday,February
+2026-02-13,Cafeteria,Recreation Zone,14685,18.3,2.5,0,Friday,February
+2026-02-14,Block A,Hostel Zone,30960,19.1,2.9,0,Saturday,February
+2026-02-14,Block B,Hostel Zone,39672,13.8,1.5,0,Saturday,February
+2026-02-14,Block C,Hostel Zone,28665,10.4,1.7,0,Saturday,February
+2026-02-14,Block D,Hostel Zone,33714,17.0,1.0,0,Saturday,February
+2026-02-14,Admin Block,Admin Zone,8722,14.6,2.0,0,Saturday,February
+2026-02-14,Library,Academic Zone,5086,19.0,1.9,0,Saturday,February
+2026-02-14,Cafeteria,Recreation Zone,10348,12.4,1.0,0,Saturday,February
+2026-02-15,Block A,Hostel Zone,32416,16.4,0.3,0,Sunday,February
+2026-02-15,Block B,Hostel Zone,35537,21.4,0.1,0,Sunday,February
+2026-02-15,Block C,Hostel Zone,31476,17.3,2.1,0,Sunday,February
+2026-02-15,Block D,Hostel Zone,55929,12.7,0.9,1,Sunday,February
+2026-02-15,Admin Block,Admin Zone,7605,21.3,1.5,0,Sunday,February
+2026-02-15,Library,Academic Zone,5216,13.0,1.0,0,Sunday,February
+2026-02-15,Cafeteria,Recreation Zone,10212,14.0,1.8,0,Sunday,February
+2026-02-16,Block A,Hostel Zone,43281,13.0,1.9,0,Monday,February
+2026-02-16,Block B,Hostel Zone,50468,21.5,0.8,0,Monday,February
+2026-02-16,Block C,Hostel Zone,40543,20.7,0.2,0,Monday,February
+2026-02-16,Block D,Hostel Zone,55028,14.7,5.1,0,Monday,February
+2026-02-16,Admin Block,Admin Zone,12364,14.3,4.0,0,Monday,February
+2026-02-16,Library,Academic Zone,8949,18.7,0.7,0,Monday,February
+2026-02-16,Cafeteria,Recreation Zone,16666,14.4,1.2,0,Monday,February
+2026-02-17,Block A,Hostel Zone,54747,14.2,0.2,0,Tuesday,February
+2026-02-17,Block B,Hostel Zone,54018,12.2,0.4,0,Tuesday,February
+2026-02-17,Block C,Hostel Zone,53880,15.7,0.5,0,Tuesday,February
+2026-02-17,Block D,Hostel Zone,54773,10.5,0.7,0,Tuesday,February
+2026-02-17,Admin Block,Admin Zone,11144,16.8,0.2,0,Tuesday,February
+2026-02-17,Library,Academic Zone,8834,15.8,1.6,0,Tuesday,February
+2026-02-17,Cafeteria,Recreation Zone,14648,16.3,3.5,0,Tuesday,February
+2026-02-18,Block A,Hostel Zone,52486,18.7,0.5,0,Wednesday,February
+2026-02-18,Block B,Hostel Zone,53276,16.0,0.9,0,Wednesday,February
+2026-02-18,Block C,Hostel Zone,48253,15.7,2.1,0,Wednesday,February
+2026-02-18,Block D,Hostel Zone,46769,16.3,0.6,0,Wednesday,February
+2026-02-18,Admin Block,Admin Zone,12340,12.9,1.9,0,Wednesday,February
+2026-02-18,Library,Academic Zone,7976,16.5,1.6,0,Wednesday,February
+2026-02-18,Cafeteria,Recreation Zone,15166,14.5,2.0,0,Wednesday,February
+2026-02-19,Block A,Hostel Zone,44047,17.7,1.1,0,Thursday,February
+2026-02-19,Block B,Hostel Zone,48656,15.4,0.6,0,Thursday,February
+2026-02-19,Block C,Hostel Zone,43879,13.3,1.2,0,Thursday,February
+2026-02-19,Block D,Hostel Zone,48798,16.8,0.5,0,Thursday,February
+2026-02-19,Admin Block,Admin Zone,12324,17.6,2.1,0,Thursday,February
+2026-02-19,Library,Academic Zone,9315,13.2,1.1,0,Thursday,February
+2026-02-19,Cafeteria,Recreation Zone,14409,14.4,0.6,0,Thursday,February
+2026-02-20,Block A,Hostel Zone,53511,14.0,1.4,0,Friday,February
+2026-02-20,Block B,Hostel Zone,50970,15.5,1.1,0,Friday,February
+2026-02-20,Block C,Hostel Zone,44158,13.4,1.1,0,Friday,February
+2026-02-20,Block D,Hostel Zone,48275,19.8,0.2,0,Friday,February
+2026-02-20,Admin Block,Admin Zone,12436,19.9,1.6,0,Friday,February
+2026-02-20,Library,Academic Zone,8204,18.9,2.2,0,Friday,February
+2026-02-20,Cafeteria,Recreation Zone,16103,15.5,1.6,0,Friday,February
+2026-02-21,Block A,Hostel Zone,31766,15.1,1.4,0,Saturday,February
+2026-02-21,Block B,Hostel Zone,36791,14.1,1.3,0,Saturday,February
+2026-02-21,Block C,Hostel Zone,31341,20.6,1.4,0,Saturday,February
+2026-02-21,Block D,Hostel Zone,33200,12.8,0.9,0,Saturday,February
+2026-02-21,Admin Block,Admin Zone,8935,24.1,0.6,0,Saturday,February
+2026-02-21,Library,Academic Zone,5700,21.8,1.4,0,Saturday,February
+2026-02-21,Cafeteria,Recreation Zone,11275,16.0,1.0,0,Saturday,February
+2026-02-22,Block A,Hostel Zone,26791,18.0,0.5,0,Sunday,February
+2026-02-22,Block B,Hostel Zone,34017,15.2,0.6,0,Sunday,February
+2026-02-22,Block C,Hostel Zone,26201,11.8,2.6,0,Sunday,February
+2026-02-22,Block D,Hostel Zone,34396,16.3,1.5,0,Sunday,February
+2026-02-22,Admin Block,Admin Zone,7644,15.1,1.6,0,Sunday,February
+2026-02-22,Library,Academic Zone,5819,12.3,0.1,0,Sunday,February
+2026-02-22,Cafeteria,Recreation Zone,10303,19.4,0.3,0,Sunday,February
+2026-02-23,Block A,Hostel Zone,50333,17.8,0.4,0,Monday,February
+2026-02-23,Block B,Hostel Zone,55492,13.4,1.3,0,Monday,February
+2026-02-23,Block C,Hostel Zone,51076,16.0,1.3,0,Monday,February
+2026-02-23,Block D,Hostel Zone,49726,15.7,1.5,0,Monday,February
+2026-02-23,Admin Block,Admin Zone,12742,15.6,2.1,0,Monday,February
+2026-02-23,Library,Academic Zone,7816,17.4,0.6,0,Monday,February
+2026-02-23,Cafeteria,Recreation Zone,28173,15.3,2.0,1,Monday,February
+2026-02-24,Block A,Hostel Zone,42629,19.2,3.3,0,Tuesday,February
+2026-02-24,Block B,Hostel Zone,55076,14.4,1.2,0,Tuesday,February
+2026-02-24,Block C,Hostel Zone,51281,13.6,1.3,0,Tuesday,February
+2026-02-24,Block D,Hostel Zone,51040,18.3,1.3,0,Tuesday,February
+2026-02-24,Admin Block,Admin Zone,13220,14.4,0.2,0,Tuesday,February
+2026-02-24,Library,Academic Zone,8738,17.0,3.2,0,Tuesday,February
+2026-02-24,Cafeteria,Recreation Zone,16909,16.6,0.2,0,Tuesday,February
+2026-02-25,Block A,Hostel Zone,47955,9.1,1.2,0,Wednesday,February
+2026-02-25,Block B,Hostel Zone,54315,14.5,1.3,0,Wednesday,February
+2026-02-25,Block C,Hostel Zone,45270,9.7,0.8,0,Wednesday,February
+2026-02-25,Block D,Hostel Zone,47211,12.1,1.0,0,Wednesday,February
+2026-02-25,Admin Block,Admin Zone,11364,14.3,0.9,0,Wednesday,February
+2026-02-25,Library,Academic Zone,7669,10.7,1.2,0,Wednesday,February
+2026-02-25,Cafeteria,Recreation Zone,14346,15.8,0.9,0,Wednesday,February
+2026-02-26,Block A,Hostel Zone,45842,22.0,1.1,0,Thursday,February
+2026-02-26,Block B,Hostel Zone,50359,14.4,0.2,0,Thursday,February
+2026-02-26,Block C,Hostel Zone,40974,11.6,2.1,0,Thursday,February
+2026-02-26,Block D,Hostel Zone,50559,14.5,0.9,0,Thursday,February
+2026-02-26,Admin Block,Admin Zone,11367,15.7,0.5,0,Thursday,February
+2026-02-26,Library,Academic Zone,8494,15.8,0.4,0,Thursday,February
+2026-02-26,Cafeteria,Recreation Zone,34205,17.0,1.9,1,Thursday,February
+2026-02-27,Block A,Hostel Zone,46561,17.4,1.2,0,Friday,February
+2026-02-27,Block B,Hostel Zone,89898,16.0,0.2,1,Friday,February
+2026-02-27,Block C,Hostel Zone,39565,18.5,2.2,0,Friday,February
+2026-02-27,Block D,Hostel Zone,51688,12.8,2.1,0,Friday,February
+2026-02-27,Admin Block,Admin Zone,11980,20.6,1.4,0,Friday,February
+2026-02-27,Library,Academic Zone,8330,18.7,0.2,0,Friday,February
+2026-02-27,Cafeteria,Recreation Zone,17241,18.7,0.4,0,Friday,February
+2026-02-28,Block A,Hostel Zone,31567,15.4,1.9,0,Saturday,February
+2026-02-28,Block B,Hostel Zone,34818,15.9,0.7,0,Saturday,February
+2026-02-28,Block C,Hostel Zone,30756,19.2,3.2,0,Saturday,February
+2026-02-28,Block D,Hostel Zone,38362,15.0,0.8,0,Saturday,February
+2026-02-28,Admin Block,Admin Zone,8151,15.0,1.0,0,Saturday,February
+2026-02-28,Library,Academic Zone,4962,15.3,0.9,0,Saturday,February
+2026-02-28,Cafeteria,Recreation Zone,11504,18.4,0.9,0,Saturday,February
+2026-03-01,Block A,Hostel Zone,33670,10.5,0.0,0,Sunday,March
+2026-03-01,Block B,Hostel Zone,41267,16.9,0.0,0,Sunday,March
+2026-03-01,Block C,Hostel Zone,33669,12.4,0.0,0,Sunday,March
+2026-03-01,Block D,Hostel Zone,37720,9.1,0.0,0,Sunday,March
+2026-03-01,Admin Block,Admin Zone,9468,11.7,0.0,0,Sunday,March
+2026-03-01,Library,Academic Zone,6964,20.9,0.0,0,Sunday,March
+2026-03-01,Cafeteria,Recreation Zone,10775,10.4,0.0,0,Sunday,March
+2026-03-02,Block A,Hostel Zone,58769,16.4,0.0,0,Monday,March
+2026-03-02,Block B,Hostel Zone,62571,14.6,0.0,0,Monday,March
+2026-03-02,Block C,Hostel Zone,60173,14.8,0.0,0,Monday,March
+2026-03-02,Block D,Hostel Zone,54836,15.7,0.0,0,Monday,March
+2026-03-02,Admin Block,Admin Zone,15617,15.7,0.0,0,Monday,March
+2026-03-02,Library,Academic Zone,9341,18.5,0.0,0,Monday,March
+2026-03-02,Cafeteria,Recreation Zone,18855,6.2,0.0,0,Monday,March
+2026-03-03,Block A,Hostel Zone,56488,13.8,0.0,0,Tuesday,March
+2026-03-03,Block B,Hostel Zone,58132,17.6,0.0,0,Tuesday,March
+2026-03-03,Block C,Hostel Zone,58983,16.5,0.0,0,Tuesday,March
+2026-03-03,Block D,Hostel Zone,62565,17.3,0.0,0,Tuesday,March
+2026-03-03,Admin Block,Admin Zone,14918,12.5,0.0,0,Tuesday,March
+2026-03-03,Library,Academic Zone,9081,14.6,0.0,0,Tuesday,March
+2026-03-03,Cafeteria,Recreation Zone,17806,15.1,0.0,0,Tuesday,March
+2026-03-04,Block A,Hostel Zone,57606,12.5,0.0,0,Wednesday,March
+2026-03-04,Block B,Hostel Zone,61604,12.0,0.0,0,Wednesday,March
+2026-03-04,Block C,Hostel Zone,58863,14.4,0.0,0,Wednesday,March
+2026-03-04,Block D,Hostel Zone,58177,10.0,0.0,0,Wednesday,March
+2026-03-04,Admin Block,Admin Zone,10922,15.6,0.0,0,Wednesday,March
+2026-03-04,Library,Academic Zone,9745,17.5,0.0,0,Wednesday,March
+2026-03-04,Cafeteria,Recreation Zone,19527,23.3,0.0,0,Wednesday,March
+2026-03-05,Block A,Hostel Zone,61701,16.0,0.0,0,Thursday,March
+2026-03-05,Block B,Hostel Zone,109137,18.4,0.0,1,Thursday,March
+2026-03-05,Block C,Hostel Zone,94862,12.4,0.0,1,Thursday,March
+2026-03-05,Block D,Hostel Zone,52469,12.5,0.0,0,Thursday,March
+2026-03-05,Admin Block,Admin Zone,13635,14.3,0.0,0,Thursday,March
+2026-03-05,Library,Academic Zone,9804,13.3,0.0,0,Thursday,March
+2026-03-05,Cafeteria,Recreation Zone,26280,17.9,0.0,1,Thursday,March
+2026-03-06,Block A,Hostel Zone,52737,18.2,0.0,0,Friday,March
+2026-03-06,Block B,Hostel Zone,67094,15.0,0.0,0,Friday,March
+2026-03-06,Block C,Hostel Zone,48834,14.4,0.0,0,Friday,March
+2026-03-06,Block D,Hostel Zone,58105,16.0,0.0,0,Friday,March
+2026-03-06,Admin Block,Admin Zone,13973,21.3,0.0,0,Friday,March
+2026-03-06,Library,Academic Zone,8777,16.1,0.0,0,Friday,March
+2026-03-06,Cafeteria,Recreation Zone,19548,10.9,0.0,0,Friday,March
+2026-03-07,Block A,Hostel Zone,40361,13.4,0.0,0,Saturday,March
+2026-03-07,Block B,Hostel Zone,35108,15.4,0.0,0,Saturday,March
+2026-03-07,Block C,Hostel Zone,33873,22.2,0.0,0,Saturday,March
+2026-03-07,Block D,Hostel Zone,40887,14.9,0.0,0,Saturday,March
+2026-03-07,Admin Block,Admin Zone,10456,16.3,0.0,0,Saturday,March
+2026-03-07,Library,Academic Zone,6278,15.6,0.0,0,Saturday,March
+2026-03-07,Cafeteria,Recreation Zone,13487,15.5,0.0,0,Saturday,March
+2026-03-08,Block A,Hostel Zone,40459,17.0,0.0,0,Sunday,March
+2026-03-08,Block B,Hostel Zone,38096,14.7,0.0,0,Sunday,March
+2026-03-08,Block C,Hostel Zone,34754,14.9,0.0,0,Sunday,March
+2026-03-08,Block D,Hostel Zone,39923,11.2,0.0,0,Sunday,March
+2026-03-08,Admin Block,Admin Zone,9860,12.0,0.0,0,Sunday,March
+2026-03-08,Library,Academic Zone,6526,19.7,0.0,0,Sunday,March
+2026-03-08,Cafeteria,Recreation Zone,12613,14.3,0.0,0,Sunday,March
+2026-03-09,Block A,Hostel Zone,57250,12.5,0.0,0,Monday,March
+2026-03-09,Block B,Hostel Zone,61385,16.8,0.0,0,Monday,March
+2026-03-09,Block C,Hostel Zone,55230,14.5,0.0,0,Monday,March
+2026-03-09,Block D,Hostel Zone,56148,14.8,0.0,0,Monday,March
+2026-03-09,Admin Block,Admin Zone,14093,13.7,0.0,0,Monday,March
+2026-03-09,Library,Academic Zone,9637,16.0,0.0,0,Monday,March
+2026-03-09,Cafeteria,Recreation Zone,16037,16.3,0.0,0,Monday,March
+2026-03-10,Block A,Hostel Zone,57209,11.3,0.0,0,Tuesday,March
+2026-03-10,Block B,Hostel Zone,54868,19.5,0.0,0,Tuesday,March
+2026-03-10,Block C,Hostel Zone,57931,14.4,0.0,0,Tuesday,March
+2026-03-10,Block D,Hostel Zone,61644,13.6,0.0,0,Tuesday,March
+2026-03-10,Admin Block,Admin Zone,14377,13.5,0.0,0,Tuesday,March
+2026-03-10,Library,Academic Zone,9103,13.1,0.0,0,Tuesday,March
+2026-03-10,Cafeteria,Recreation Zone,18356,15.5,0.0,0,Tuesday,March
+2026-03-11,Block A,Hostel Zone,62243,9.1,0.0,0,Wednesday,March
+2026-03-11,Block B,Hostel Zone,57723,13.2,0.0,0,Wednesday,March
+2026-03-11,Block C,Hostel Zone,50987,13.8,0.0,0,Wednesday,March
+2026-03-11,Block D,Hostel Zone,51555,21.0,0.0,0,Wednesday,March
+2026-03-11,Admin Block,Admin Zone,14520,14.4,0.0,0,Wednesday,March
+2026-03-11,Library,Academic Zone,9323,4.6,0.0,0,Wednesday,March
+2026-03-11,Cafeteria,Recreation Zone,18524,7.2,0.0,0,Wednesday,March
+2026-03-12,Block A,Hostel Zone,55395,17.9,0.0,0,Thursday,March
+2026-03-12,Block B,Hostel Zone,67039,9.7,0.0,0,Thursday,March
+2026-03-12,Block C,Hostel Zone,58248,7.3,0.0,0,Thursday,March
+2026-03-12,Block D,Hostel Zone,111865,18.7,0.0,1,Thursday,March
+2026-03-12,Admin Block,Admin Zone,12412,13.0,0.0,0,Thursday,March
+2026-03-12,Library,Academic Zone,10045,19.4,0.0,0,Thursday,March
+2026-03-12,Cafeteria,Recreation Zone,18123,12.6,0.0,0,Thursday,March
+2026-03-13,Block A,Hostel Zone,54976,10.2,0.0,0,Friday,March
+2026-03-13,Block B,Hostel Zone,59320,15.8,0.0,0,Friday,March
+2026-03-13,Block C,Hostel Zone,59978,18.0,0.0,0,Friday,March
+2026-03-13,Block D,Hostel Zone,61141,17.5,0.0,0,Friday,March
+2026-03-13,Admin Block,Admin Zone,12903,11.3,0.0,0,Friday,March
+2026-03-13,Library,Academic Zone,10198,15.0,0.0,0,Friday,March
+2026-03-13,Cafeteria,Recreation Zone,18654,13.4,0.0,0,Friday,March
+2026-03-14,Block A,Hostel Zone,78763,14.8,0.0,1,Saturday,March
+2026-03-14,Block B,Hostel Zone,43706,16.7,0.0,0,Saturday,March
+2026-03-14,Block C,Hostel Zone,36918,15.7,0.0,0,Saturday,March
+2026-03-14,Block D,Hostel Zone,37698,12.4,0.0,0,Saturday,March
+2026-03-14,Admin Block,Admin Zone,10222,18.3,0.0,0,Saturday,March
+2026-03-14,Library,Academic Zone,6211,15.4,0.0,0,Saturday,March
+2026-03-14,Cafeteria,Recreation Zone,10942,18.7,0.0,0,Saturday,March
+2026-03-15,Block A,Hostel Zone,36754,9.9,0.0,0,Sunday,March
+2026-03-15,Block B,Hostel Zone,40267,19.2,0.0,0,Sunday,March
+2026-03-15,Block C,Hostel Zone,35741,11.0,0.0,0,Sunday,March
+2026-03-15,Block D,Hostel Zone,37544,11.0,0.0,0,Sunday,March
+2026-03-15,Admin Block,Admin Zone,9423,12.2,0.0,0,Sunday,March
+2026-03-15,Library,Academic Zone,7271,12.5,0.0,0,Sunday,March
+2026-03-15,Cafeteria,Recreation Zone,11115,12.0,0.0,0,Sunday,March
+2026-03-16,Block A,Hostel Zone,59424,14.7,0.0,0,Monday,March
+2026-03-16,Block B,Hostel Zone,69393,19.0,0.0,0,Monday,March
+2026-03-16,Block C,Hostel Zone,59676,17.0,0.0,0,Monday,March
+2026-03-16,Block D,Hostel Zone,61394,16.0,0.0,0,Monday,March
+2026-03-16,Admin Block,Admin Zone,15235,15.1,0.0,0,Monday,March
+2026-03-16,Library,Academic Zone,10039,14.8,0.0,0,Monday,March
+2026-03-16,Cafeteria,Recreation Zone,18605,12.4,0.0,0,Monday,March
+2026-03-17,Block A,Hostel Zone,56994,17.5,0.0,0,Tuesday,March
+2026-03-17,Block B,Hostel Zone,58789,19.7,0.0,0,Tuesday,March
+2026-03-17,Block C,Hostel Zone,52979,15.8,0.0,0,Tuesday,March
+2026-03-17,Block D,Hostel Zone,61472,12.9,0.0,0,Tuesday,March
+2026-03-17,Admin Block,Admin Zone,14323,12.9,0.0,0,Tuesday,March
+2026-03-17,Library,Academic Zone,10366,16.2,0.0,0,Tuesday,March
+2026-03-17,Cafeteria,Recreation Zone,18109,17.2,0.0,0,Tuesday,March
+2026-03-18,Block A,Hostel Zone,60740,14.4,0.0,0,Wednesday,March
+2026-03-18,Block B,Hostel Zone,66453,22.1,0.0,0,Wednesday,March
+2026-03-18,Block C,Hostel Zone,54009,21.4,0.0,0,Wednesday,March
+2026-03-18,Block D,Hostel Zone,55950,20.2,0.0,0,Wednesday,March
+2026-03-18,Admin Block,Admin Zone,14612,13.6,0.0,0,Wednesday,March
+2026-03-18,Library,Academic Zone,9619,9.2,0.0,0,Wednesday,March
+2026-03-18,Cafeteria,Recreation Zone,17976,20.2,0.0,0,Wednesday,March
+2026-03-19,Block A,Hostel Zone,56315,14.2,0.0,0,Thursday,March
+2026-03-19,Block B,Hostel Zone,56114,12.9,0.0,0,Thursday,March
+2026-03-19,Block C,Hostel Zone,50408,12.5,0.0,0,Thursday,March
+2026-03-19,Block D,Hostel Zone,61306,13.0,0.0,0,Thursday,March
+2026-03-19,Admin Block,Admin Zone,14255,16.0,0.0,0,Thursday,March
+2026-03-19,Library,Academic Zone,9607,18.2,0.0,0,Thursday,March
+2026-03-19,Cafeteria,Recreation Zone,18529,14.1,0.0,0,Thursday,March
+2026-03-20,Block A,Hostel Zone,58359,11.7,0.0,0,Friday,March
+2026-03-20,Block B,Hostel Zone,63920,12.2,0.0,0,Friday,March
+2026-03-20,Block C,Hostel Zone,62904,14.2,0.0,0,Friday,March
+2026-03-20,Block D,Hostel Zone,57779,14.1,0.0,0,Friday,March
+2026-03-20,Admin Block,Admin Zone,15091,12.8,0.0,0,Friday,March
+2026-03-20,Library,Academic Zone,10384,21.3,0.0,0,Friday,March
+2026-03-20,Cafeteria,Recreation Zone,14644,15.0,0.0,0,Friday,March
+2026-03-21,Block A,Hostel Zone,39407,17.8,0.0,0,Saturday,March
+2026-03-21,Block B,Hostel Zone,37807,16.3,0.0,0,Saturday,March
+2026-03-21,Block C,Hostel Zone,39327,14.3,0.0,0,Saturday,March
+2026-03-21,Block D,Hostel Zone,40014,14.9,0.0,0,Saturday,March
+2026-03-21,Admin Block,Admin Zone,10724,18.0,0.0,0,Saturday,March
+2026-03-21,Library,Academic Zone,6468,8.7,0.0,0,Saturday,March
+2026-03-21,Cafeteria,Recreation Zone,10734,14.4,0.0,0,Saturday,March
+2026-03-22,Block A,Hostel Zone,41544,14.2,0.0,0,Sunday,March
+2026-03-22,Block B,Hostel Zone,38820,15.6,0.0,0,Sunday,March
+2026-03-22,Block C,Hostel Zone,40763,11.8,0.0,0,Sunday,March
+2026-03-22,Block D,Hostel Zone,37242,14.4,0.0,0,Sunday,March
+2026-03-22,Admin Block,Admin Zone,9383,14.4,0.0,0,Sunday,March
+2026-03-22,Library,Academic Zone,6707,17.0,0.0,0,Sunday,March
+2026-03-22,Cafeteria,Recreation Zone,12398,11.6,0.0,0,Sunday,March
+2026-03-23,Block A,Hostel Zone,64067,17.1,0.0,0,Monday,March
+2026-03-23,Block B,Hostel Zone,60623,16.6,0.0,0,Monday,March
+2026-03-23,Block C,Hostel Zone,56042,17.8,0.0,0,Monday,March
+2026-03-23,Block D,Hostel Zone,53075,13.1,0.0,0,Monday,March
+2026-03-23,Admin Block,Admin Zone,13973,10.8,0.0,0,Monday,March
+2026-03-23,Library,Academic Zone,9624,18.5,0.0,0,Monday,March
+2026-03-23,Cafeteria,Recreation Zone,17053,17.6,0.0,0,Monday,March
+2026-03-24,Block A,Hostel Zone,57357,12.5,0.0,0,Tuesday,March
+2026-03-24,Block B,Hostel Zone,63468,10.9,0.0,0,Tuesday,March
+2026-03-24,Block C,Hostel Zone,57572,12.2,0.0,0,Tuesday,March
+2026-03-24,Block D,Hostel Zone,60445,10.3,0.0,0,Tuesday,March
+2026-03-24,Admin Block,Admin Zone,15742,17.0,0.0,0,Tuesday,March
+2026-03-24,Library,Academic Zone,9857,15.9,0.0,0,Tuesday,March
+2026-03-24,Cafeteria,Recreation Zone,18181,18.5,0.0,0,Tuesday,March
+2026-03-25,Block A,Hostel Zone,52915,14.3,0.0,0,Wednesday,March
+2026-03-25,Block B,Hostel Zone,58274,11.4,0.0,0,Wednesday,March
+2026-03-25,Block C,Hostel Zone,57947,19.0,0.0,0,Wednesday,March
+2026-03-25,Block D,Hostel Zone,68302,19.9,0.0,0,Wednesday,March
+2026-03-25,Admin Block,Admin Zone,16201,16.5,0.0,0,Wednesday,March
+2026-03-25,Library,Academic Zone,9441,16.7,0.0,0,Wednesday,March
+2026-03-25,Cafeteria,Recreation Zone,19275,20.9,0.0,0,Wednesday,March
+2026-03-26,Block A,Hostel Zone,60173,14.5,0.0,0,Thursday,March
+2026-03-26,Block B,Hostel Zone,61218,12.8,0.0,0,Thursday,March
+2026-03-26,Block C,Hostel Zone,49874,16.1,0.0,0,Thursday,March
+2026-03-26,Block D,Hostel Zone,56302,19.7,0.0,0,Thursday,March
+2026-03-26,Admin Block,Admin Zone,13271,24.2,0.0,0,Thursday,March
+2026-03-26,Library,Academic Zone,8716,20.3,0.0,0,Thursday,March
+2026-03-26,Cafeteria,Recreation Zone,16837,14.6,0.0,0,Thursday,March
+2026-03-27,Block A,Hostel Zone,60469,16.9,0.0,0,Friday,March
+2026-03-27,Block B,Hostel Zone,62613,15.2,0.0,0,Friday,March
+2026-03-27,Block C,Hostel Zone,54332,14.4,0.0,0,Friday,March
+2026-03-27,Block D,Hostel Zone,55697,12.9,0.0,0,Friday,March
+2026-03-27,Admin Block,Admin Zone,14072,14.8,0.0,0,Friday,March
+2026-03-27,Library,Academic Zone,9129,18.2,0.0,0,Friday,March
+2026-03-27,Cafeteria,Recreation Zone,17493,13.6,0.0,0,Friday,March
+2026-03-28,Block A,Hostel Zone,37234,16.0,0.0,0,Saturday,March
+2026-03-28,Block B,Hostel Zone,38031,13.9,0.0,0,Saturday,March
+2026-03-28,Block C,Hostel Zone,33368,15.1,0.0,0,Saturday,March
+2026-03-28,Block D,Hostel Zone,33630,17.7,0.0,0,Saturday,March
+2026-03-28,Admin Block,Admin Zone,8689,8.0,0.0,0,Saturday,March
+2026-03-28,Library,Academic Zone,6817,16.2,0.0,0,Saturday,March
+2026-03-28,Cafeteria,Recreation Zone,10863,13.5,0.0,0,Saturday,March
+2026-03-29,Block A,Hostel Zone,43635,17.9,0.0,0,Sunday,March
+2026-03-29,Block B,Hostel Zone,39083,9.1,0.0,0,Sunday,March
+2026-03-29,Block C,Hostel Zone,35917,20.7,0.0,0,Sunday,March
+2026-03-29,Block D,Hostel Zone,35332,17.0,0.0,0,Sunday,March
+2026-03-29,Admin Block,Admin Zone,8703,13.2,0.0,0,Sunday,March
+2026-03-29,Library,Academic Zone,6626,13.7,0.0,0,Sunday,March
+2026-03-29,Cafeteria,Recreation Zone,12212,12.8,0.0,0,Sunday,March
+2026-03-30,Block A,Hostel Zone,59450,16.4,0.0,0,Monday,March
+2026-03-30,Block B,Hostel Zone,64536,12.5,0.0,0,Monday,March
+2026-03-30,Block C,Hostel Zone,56508,16.1,0.0,0,Monday,March
+2026-03-30,Block D,Hostel Zone,60956,14.9,0.0,0,Monday,March
+2026-03-30,Admin Block,Admin Zone,13644,12.8,0.0,0,Monday,March
+2026-03-30,Library,Academic Zone,7971,6.8,0.0,0,Monday,March
+2026-03-30,Cafeteria,Recreation Zone,19687,13.9,0.0,0,Monday,March
+2026-03-31,Block A,Hostel Zone,47782,16.5,0.0,0,Tuesday,March
+2026-03-31,Block B,Hostel Zone,61476,13.5,0.0,0,Tuesday,March
+2026-03-31,Block C,Hostel Zone,56469,13.3,0.0,0,Tuesday,March
+2026-03-31,Block D,Hostel Zone,54968,13.4,0.0,0,Tuesday,March
+2026-03-31,Admin Block,Admin Zone,15848,12.8,0.0,0,Tuesday,March
+2026-03-31,Library,Academic Zone,10171,15.3,0.0,0,Tuesday,March
+2026-03-31,Cafeteria,Recreation Zone,19866,14.4,0.0,0,Tuesday,March
+2026-04-01,Block A,Hostel Zone,68918,16.9,3.1,0,Wednesday,April
+2026-04-01,Block B,Hostel Zone,75928,13.7,2.2,0,Wednesday,April
+2026-04-01,Block C,Hostel Zone,68514,19.5,0.7,0,Wednesday,April
+2026-04-01,Block D,Hostel Zone,66378,19.3,0.8,0,Wednesday,April
+2026-04-01,Admin Block,Admin Zone,15939,12.9,1.4,0,Wednesday,April
+2026-04-01,Library,Academic Zone,10026,16.6,0.0,0,Wednesday,April
+2026-04-01,Cafeteria,Recreation Zone,24137,15.2,1.6,0,Wednesday,April
+2026-04-02,Block A,Hostel Zone,74300,13.5,3.4,0,Thursday,April
+2026-04-02,Block B,Hostel Zone,68859,18.1,0.5,0,Thursday,April
+2026-04-02,Block C,Hostel Zone,60389,20.0,0.9,0,Thursday,April
+2026-04-02,Block D,Hostel Zone,68860,21.5,0.1,0,Thursday,April
+2026-04-02,Admin Block,Admin Zone,16469,19.1,1.2,0,Thursday,April
+2026-04-02,Library,Academic Zone,11793,20.1,1.4,0,Thursday,April
+2026-04-02,Cafeteria,Recreation Zone,22807,11.4,0.5,0,Thursday,April
+2026-04-03,Block A,Hostel Zone,68713,17.9,0.4,0,Friday,April
+2026-04-03,Block B,Hostel Zone,83959,20.9,1.7,0,Friday,April
+2026-04-03,Block C,Hostel Zone,65630,22.6,1.4,0,Friday,April
+2026-04-03,Block D,Hostel Zone,60903,10.6,0.5,0,Friday,April
+2026-04-03,Admin Block,Admin Zone,16732,15.4,1.7,0,Friday,April
+2026-04-03,Library,Academic Zone,9861,19.6,0.8,0,Friday,April
+2026-04-03,Cafeteria,Recreation Zone,17116,15.4,0.7,0,Friday,April
+2026-04-04,Block A,Hostel Zone,47828,11.8,0.7,0,Saturday,April
+2026-04-04,Block B,Hostel Zone,42035,14.0,0.1,0,Saturday,April
+2026-04-04,Block C,Hostel Zone,42965,17.7,1.1,0,Saturday,April
+2026-04-04,Block D,Hostel Zone,43227,16.8,1.2,0,Saturday,April
+2026-04-04,Admin Block,Admin Zone,10737,16.9,1.4,0,Saturday,April
+2026-04-04,Library,Academic Zone,6826,15.7,0.7,0,Saturday,April
+2026-04-04,Cafeteria,Recreation Zone,15080,15.3,0.2,0,Saturday,April
+2026-04-05,Block A,Hostel Zone,49035,13.1,0.2,0,Sunday,April
+2026-04-05,Block B,Hostel Zone,44835,17.0,0.8,0,Sunday,April
+2026-04-05,Block C,Hostel Zone,41136,12.7,0.9,0,Sunday,April
+2026-04-05,Block D,Hostel Zone,39618,17.3,1.5,0,Sunday,April
+2026-04-05,Admin Block,Admin Zone,10814,20.5,2.9,0,Sunday,April
+2026-04-05,Library,Academic Zone,7479,21.2,3.2,0,Sunday,April
+2026-04-05,Cafeteria,Recreation Zone,13245,16.8,2.6,0,Sunday,April
+2026-04-06,Block A,Hostel Zone,55816,13.0,1.8,0,Monday,April
+2026-04-06,Block B,Hostel Zone,67715,18.4,0.2,0,Monday,April
+2026-04-06,Block C,Hostel Zone,63000,17.6,2.7,0,Monday,April
+2026-04-06,Block D,Hostel Zone,61243,20.4,0.8,0,Monday,April
+2026-04-06,Admin Block,Admin Zone,18745,19.6,1.5,0,Monday,April
+2026-04-06,Library,Academic Zone,10023,9.6,2.6,0,Monday,April
+2026-04-06,Cafeteria,Recreation Zone,20202,12.7,0.5,0,Monday,April
+2026-04-07,Block A,Hostel Zone,65049,12.9,1.4,0,Tuesday,April
+2026-04-07,Block B,Hostel Zone,73146,15.3,0.7,0,Tuesday,April
+2026-04-07,Block C,Hostel Zone,62941,15.3,1.0,0,Tuesday,April
+2026-04-07,Block D,Hostel Zone,67137,16.2,1.4,0,Tuesday,April
+2026-04-07,Admin Block,Admin Zone,16461,13.3,2.1,0,Tuesday,April
+2026-04-07,Library,Academic Zone,11788,10.0,2.5,0,Tuesday,April
+2026-04-07,Cafeteria,Recreation Zone,20255,18.2,0.7,0,Tuesday,April
+2026-04-08,Block A,Hostel Zone,65654,13.6,1.8,0,Wednesday,April
+2026-04-08,Block B,Hostel Zone,66016,10.5,0.6,0,Wednesday,April
+2026-04-08,Block C,Hostel Zone,57196,16.7,1.7,0,Wednesday,April
+2026-04-08,Block D,Hostel Zone,71484,13.9,0.3,0,Wednesday,April
+2026-04-08,Admin Block,Admin Zone,16043,16.8,3.1,0,Wednesday,April
+2026-04-08,Library,Academic Zone,10281,17.9,0.9,0,Wednesday,April
+2026-04-08,Cafeteria,Recreation Zone,19040,14.1,1.9,0,Wednesday,April
+2026-04-09,Block A,Hostel Zone,60168,15.2,2.5,0,Thursday,April
+2026-04-09,Block B,Hostel Zone,65987,20.3,0.8,0,Thursday,April
+2026-04-09,Block C,Hostel Zone,62432,18.2,2.4,0,Thursday,April
+2026-04-09,Block D,Hostel Zone,65404,18.5,0.3,0,Thursday,April
+2026-04-09,Admin Block,Admin Zone,18900,19.8,1.3,0,Thursday,April
+2026-04-09,Library,Academic Zone,11204,17.6,2.9,0,Thursday,April
+2026-04-09,Cafeteria,Recreation Zone,21189,18.3,0.6,0,Thursday,April
+2026-04-10,Block A,Hostel Zone,71011,17.7,2.1,0,Friday,April
+2026-04-10,Block B,Hostel Zone,79887,11.2,3.6,0,Friday,April
+2026-04-10,Block C,Hostel Zone,59746,18.5,1.7,0,Friday,April
+2026-04-10,Block D,Hostel Zone,60500,19.6,1.4,0,Friday,April
+2026-04-10,Admin Block,Admin Zone,15438,20.1,0.9,0,Friday,April
+2026-04-10,Library,Academic Zone,18017,13.1,3.7,1,Friday,April
+2026-04-10,Cafeteria,Recreation Zone,19796,13.7,1.3,0,Friday,April
+2026-04-11,Block A,Hostel Zone,47473,11.3,2.3,0,Saturday,April
+2026-04-11,Block B,Hostel Zone,42913,15.5,1.3,0,Saturday,April
+2026-04-11,Block C,Hostel Zone,36030,18.3,2.3,0,Saturday,April
+2026-04-11,Block D,Hostel Zone,76711,17.1,1.8,1,Saturday,April
+2026-04-11,Admin Block,Admin Zone,10035,19.8,0.3,0,Saturday,April
+2026-04-11,Library,Academic Zone,6843,15.2,0.6,0,Saturday,April
+2026-04-11,Cafeteria,Recreation Zone,14117,15.2,1.4,0,Saturday,April
+2026-04-12,Block A,Hostel Zone,40923,20.4,1.1,0,Sunday,April
+2026-04-12,Block B,Hostel Zone,45792,18.2,5.6,0,Sunday,April
+2026-04-12,Block C,Hostel Zone,35033,19.0,0.3,0,Sunday,April
+2026-04-12,Block D,Hostel Zone,42934,16.2,1.4,0,Sunday,April
+2026-04-12,Admin Block,Admin Zone,12168,17.4,0.5,0,Sunday,April
+2026-04-12,Library,Academic Zone,6399,14.0,0.8,0,Sunday,April
+2026-04-12,Cafeteria,Recreation Zone,14039,13.3,2.3,0,Sunday,April
+2026-04-13,Block A,Hostel Zone,70584,18.6,2.9,0,Monday,April
+2026-04-13,Block B,Hostel Zone,82125,13.3,0.9,0,Monday,April
+2026-04-13,Block C,Hostel Zone,62260,24.0,0.6,0,Monday,April
+2026-04-13,Block D,Hostel Zone,68681,13.6,1.8,0,Monday,April
+2026-04-13,Admin Block,Admin Zone,14877,22.3,1.1,0,Monday,April
+2026-04-13,Library,Academic Zone,11847,11.7,1.4,0,Monday,April
+2026-04-13,Cafeteria,Recreation Zone,22830,14.8,4.2,0,Monday,April
+2026-04-14,Block A,Hostel Zone,68904,21.7,0.8,0,Tuesday,April
+2026-04-14,Block B,Hostel Zone,69504,20.0,0.4,0,Tuesday,April
+2026-04-14,Block C,Hostel Zone,62036,21.1,1.3,0,Tuesday,April
+2026-04-14,Block D,Hostel Zone,62325,15.8,0.7,0,Tuesday,April
+2026-04-14,Admin Block,Admin Zone,17167,13.4,0.1,0,Tuesday,April
+2026-04-14,Library,Academic Zone,10434,15.7,2.2,0,Tuesday,April
+2026-04-14,Cafeteria,Recreation Zone,19526,22.2,1.3,0,Tuesday,April
+2026-04-15,Block A,Hostel Zone,68947,23.7,0.7,0,Wednesday,April
+2026-04-15,Block B,Hostel Zone,60906,13.3,0.4,0,Wednesday,April
+2026-04-15,Block C,Hostel Zone,61658,16.6,0.6,0,Wednesday,April
+2026-04-15,Block D,Hostel Zone,68770,19.4,1.3,0,Wednesday,April
+2026-04-15,Admin Block,Admin Zone,18402,15.7,2.0,0,Wednesday,April
+2026-04-15,Library,Academic Zone,10975,16.1,0.6,0,Wednesday,April
+2026-04-15,Cafeteria,Recreation Zone,20986,19.9,1.4,0,Wednesday,April
+2026-04-16,Block A,Hostel Zone,78277,15.1,0.6,0,Thursday,April
+2026-04-16,Block B,Hostel Zone,75440,18.0,0.6,0,Thursday,April
+2026-04-16,Block C,Hostel Zone,65694,8.7,1.3,0,Thursday,April
+2026-04-16,Block D,Hostel Zone,70177,14.6,2.0,0,Thursday,April
+2026-04-16,Admin Block,Admin Zone,19198,13.8,1.2,0,Thursday,April
+2026-04-16,Library,Academic Zone,10519,15.5,0.3,0,Thursday,April
+2026-04-16,Cafeteria,Recreation Zone,21405,17.6,2.4,0,Thursday,April
+2026-04-17,Block A,Hostel Zone,63276,20.1,1.7,0,Friday,April
+2026-04-17,Block B,Hostel Zone,73320,16.0,0.3,0,Friday,April
+2026-04-17,Block C,Hostel Zone,66046,20.5,1.7,0,Friday,April
+2026-04-17,Block D,Hostel Zone,71382,12.9,0.4,0,Friday,April
+2026-04-17,Admin Block,Admin Zone,16282,14.7,1.0,0,Friday,April
+2026-04-17,Library,Academic Zone,8453,22.5,1.0,0,Friday,April
+2026-04-17,Cafeteria,Recreation Zone,21013,16.7,0.6,0,Friday,April
+2026-04-18,Block A,Hostel Zone,44714,19.4,4.1,0,Saturday,April
+2026-04-18,Block B,Hostel Zone,49159,14.9,2.0,0,Saturday,April
+2026-04-18,Block C,Hostel Zone,42011,16.1,0.2,0,Saturday,April
+2026-04-18,Block D,Hostel Zone,45511,17.3,1.2,0,Saturday,April
+2026-04-18,Admin Block,Admin Zone,11904,10.0,0.4,0,Saturday,April
+2026-04-18,Library,Academic Zone,8402,16.7,1.6,0,Saturday,April
+2026-04-18,Cafeteria,Recreation Zone,12779,11.5,1.7,0,Saturday,April
+2026-04-19,Block A,Hostel Zone,47835,13.6,0.3,0,Sunday,April
+2026-04-19,Block B,Hostel Zone,47090,16.5,0.2,0,Sunday,April
+2026-04-19,Block C,Hostel Zone,40297,19.6,3.3,0,Sunday,April
+2026-04-19,Block D,Hostel Zone,38777,14.0,1.5,0,Sunday,April
+2026-04-19,Admin Block,Admin Zone,9088,19.7,0.5,0,Sunday,April
+2026-04-19,Library,Academic Zone,8319,14.6,0.4,0,Sunday,April
+2026-04-19,Cafeteria,Recreation Zone,10900,14.8,3.0,0,Sunday,April
+2026-04-20,Block A,Hostel Zone,76084,22.6,3.1,0,Monday,April
+2026-04-20,Block B,Hostel Zone,77163,14.5,2.1,0,Monday,April
+2026-04-20,Block C,Hostel Zone,58009,18.4,2.9,0,Monday,April
+2026-04-20,Block D,Hostel Zone,65466,14.5,1.4,0,Monday,April
+2026-04-20,Admin Block,Admin Zone,37725,19.3,0.5,1,Monday,April
+2026-04-20,Library,Academic Zone,11606,16.7,0.5,0,Monday,April
+2026-04-20,Cafeteria,Recreation Zone,20598,18.1,1.3,0,Monday,April
+2026-04-21,Block A,Hostel Zone,71933,15.4,2.7,0,Tuesday,April
+2026-04-21,Block B,Hostel Zone,71193,18.8,0.5,0,Tuesday,April
+2026-04-21,Block C,Hostel Zone,60239,22.7,2.7,0,Tuesday,April
+2026-04-21,Block D,Hostel Zone,63698,16.9,1.2,0,Tuesday,April
+2026-04-21,Admin Block,Admin Zone,14846,20.1,0.8,0,Tuesday,April
+2026-04-21,Library,Academic Zone,12221,19.9,4.5,0,Tuesday,April
+2026-04-21,Cafeteria,Recreation Zone,18250,13.4,2.2,0,Tuesday,April
+2026-04-22,Block A,Hostel Zone,64774,17.7,4.0,0,Wednesday,April
+2026-04-22,Block B,Hostel Zone,70384,14.0,2.3,0,Wednesday,April
+2026-04-22,Block C,Hostel Zone,66322,16.9,1.8,0,Wednesday,April
+2026-04-22,Block D,Hostel Zone,71594,13.4,0.9,0,Wednesday,April
+2026-04-22,Admin Block,Admin Zone,17264,21.2,0.1,0,Wednesday,April
+2026-04-22,Library,Academic Zone,11081,13.8,1.9,0,Wednesday,April
+2026-04-22,Cafeteria,Recreation Zone,19320,14.4,0.9,0,Wednesday,April
+2026-04-23,Block A,Hostel Zone,70184,15.3,1.5,0,Thursday,April
+2026-04-23,Block B,Hostel Zone,61888,12.9,0.5,0,Thursday,April
+2026-04-23,Block C,Hostel Zone,63302,17.1,1.3,0,Thursday,April
+2026-04-23,Block D,Hostel Zone,64564,17.6,1.3,0,Thursday,April
+2026-04-23,Admin Block,Admin Zone,17042,16.8,4.3,0,Thursday,April
+2026-04-23,Library,Academic Zone,11914,14.5,2.5,0,Thursday,April
+2026-04-23,Cafeteria,Recreation Zone,18617,15.9,1.4,0,Thursday,April
+2026-04-24,Block A,Hostel Zone,68370,14.2,0.4,0,Friday,April
+2026-04-24,Block B,Hostel Zone,74998,16.6,1.0,0,Friday,April
+2026-04-24,Block C,Hostel Zone,61699,19.5,1.3,0,Friday,April
+2026-04-24,Block D,Hostel Zone,74270,23.8,1.4,0,Friday,April
+2026-04-24,Admin Block,Admin Zone,17062,17.5,2.5,0,Friday,April
+2026-04-24,Library,Academic Zone,11974,14.6,1.4,0,Friday,April
+2026-04-24,Cafeteria,Recreation Zone,20820,16.9,0.5,0,Friday,April
+2026-04-25,Block A,Hostel Zone,41203,14.8,2.7,0,Saturday,April
+2026-04-25,Block B,Hostel Zone,47010,15.5,0.3,0,Saturday,April
+2026-04-25,Block C,Hostel Zone,37865,19.4,1.0,0,Saturday,April
+2026-04-25,Block D,Hostel Zone,40977,16.4,1.0,0,Saturday,April
+2026-04-25,Admin Block,Admin Zone,10946,11.4,0.2,0,Saturday,April
+2026-04-25,Library,Academic Zone,7660,14.9,0.4,0,Saturday,April
+2026-04-25,Cafeteria,Recreation Zone,11243,10.3,1.2,0,Saturday,April
+2026-04-26,Block A,Hostel Zone,44150,16.4,0.8,0,Sunday,April
+2026-04-26,Block B,Hostel Zone,46322,14.2,1.6,0,Sunday,April
+2026-04-26,Block C,Hostel Zone,42826,15.5,0.5,0,Sunday,April
+2026-04-26,Block D,Hostel Zone,44425,20.6,0.3,0,Sunday,April
+2026-04-26,Admin Block,Admin Zone,10946,15.0,0.6,0,Sunday,April
+2026-04-26,Library,Academic Zone,6201,17.2,1.1,0,Sunday,April
+2026-04-26,Cafeteria,Recreation Zone,14074,11.5,0.5,0,Sunday,April
+2026-04-27,Block A,Hostel Zone,73148,18.3,0.7,0,Monday,April
+2026-04-27,Block B,Hostel Zone,64390,14.0,0.2,0,Monday,April
+2026-04-27,Block C,Hostel Zone,65875,10.1,1.0,0,Monday,April
+2026-04-27,Block D,Hostel Zone,61906,13.2,1.6,0,Monday,April
+2026-04-27,Admin Block,Admin Zone,15831,16.9,2.7,0,Monday,April
+2026-04-27,Library,Academic Zone,10861,17.0,1.1,0,Monday,April
+2026-04-27,Cafeteria,Recreation Zone,20161,15.8,1.3,0,Monday,April
+2026-04-28,Block A,Hostel Zone,61724,12.0,0.4,0,Tuesday,April
+2026-04-28,Block B,Hostel Zone,71278,16.4,0.1,0,Tuesday,April
+2026-04-28,Block C,Hostel Zone,67494,20.2,0.5,0,Tuesday,April
+2026-04-28,Block D,Hostel Zone,68148,15.2,1.0,0,Tuesday,April
+2026-04-28,Admin Block,Admin Zone,17298,15.9,0.8,0,Tuesday,April
+2026-04-28,Library,Academic Zone,11278,14.3,2.5,0,Tuesday,April
+2026-04-28,Cafeteria,Recreation Zone,20070,15.3,2.5,0,Tuesday,April
+2026-04-29,Block A,Hostel Zone,68788,19.4,0.3,0,Wednesday,April
+2026-04-29,Block B,Hostel Zone,72056,13.1,0.5,0,Wednesday,April
+2026-04-29,Block C,Hostel Zone,61904,19.3,0.3,0,Wednesday,April
+2026-04-29,Block D,Hostel Zone,62290,20.6,1.0,0,Wednesday,April
+2026-04-29,Admin Block,Admin Zone,14661,20.2,0.4,0,Wednesday,April
+2026-04-29,Library,Academic Zone,10060,19.8,0.3,0,Wednesday,April
+2026-04-29,Cafeteria,Recreation Zone,21679,15.0,0.6,0,Wednesday,April
+2026-04-30,Block A,Hostel Zone,60616,16.2,1.4,0,Thursday,April
+2026-04-30,Block B,Hostel Zone,79691,12.2,1.3,0,Thursday,April
+2026-04-30,Block C,Hostel Zone,62229,18.1,0.6,0,Thursday,April
+2026-04-30,Block D,Hostel Zone,74068,19.2,1.3,0,Thursday,April
+2026-04-30,Admin Block,Admin Zone,16242,11.3,1.4,0,Thursday,April
+2026-04-30,Library,Academic Zone,11195,16.1,1.6,0,Thursday,April
+2026-04-30,Cafeteria,Recreation Zone,21856,15.6,1.8,0,Thursday,April
+2026-05-01,Block A,Hostel Zone,75947,18.8,8.3,0,Friday,May
+2026-05-01,Block B,Hostel Zone,78085,21.7,5.7,0,Friday,May
+2026-05-01,Block C,Hostel Zone,71653,25.0,1.8,0,Friday,May
+2026-05-01,Block D,Hostel Zone,69680,23.9,6.4,0,Friday,May
+2026-05-01,Admin Block,Admin Zone,17072,23.0,2.0,0,Friday,May
+2026-05-01,Library,Academic Zone,11239,12.2,13.5,0,Friday,May
+2026-05-01,Cafeteria,Recreation Zone,23083,19.2,3.2,0,Friday,May
+2026-05-02,Block A,Hostel Zone,51290,16.4,1.4,0,Saturday,May
+2026-05-02,Block B,Hostel Zone,52108,22.7,7.1,0,Saturday,May
+2026-05-02,Block C,Hostel Zone,39461,22.6,3.1,0,Saturday,May
+2026-05-02,Block D,Hostel Zone,46332,18.2,7.6,0,Saturday,May
+2026-05-02,Admin Block,Admin Zone,11737,19.0,5.4,0,Saturday,May
+2026-05-02,Library,Academic Zone,8395,17.5,1.4,0,Saturday,May
+2026-05-02,Cafeteria,Recreation Zone,15747,21.9,0.6,0,Saturday,May
+2026-05-03,Block A,Hostel Zone,45545,25.7,5.3,0,Sunday,May
+2026-05-03,Block B,Hostel Zone,52099,18.9,2.3,0,Sunday,May
+2026-05-03,Block C,Hostel Zone,53835,23.9,10.9,0,Sunday,May
+2026-05-03,Block D,Hostel Zone,43473,20.2,4.6,0,Sunday,May
+2026-05-03,Admin Block,Admin Zone,12644,16.9,3.4,0,Sunday,May
+2026-05-03,Library,Academic Zone,9676,15.8,4.5,0,Sunday,May
+2026-05-03,Cafeteria,Recreation Zone,17444,17.7,5.8,0,Sunday,May
+2026-05-04,Block A,Hostel Zone,62684,20.0,7.4,0,Monday,May
+2026-05-04,Block B,Hostel Zone,64284,19.0,4.3,0,Monday,May
+2026-05-04,Block C,Hostel Zone,68038,27.2,5.5,0,Monday,May
+2026-05-04,Block D,Hostel Zone,58050,18.1,2.3,0,Monday,May
+2026-05-04,Admin Block,Admin Zone,17256,20.4,2.3,0,Monday,May
+2026-05-04,Library,Academic Zone,12018,18.3,2.7,0,Monday,May
+2026-05-04,Cafeteria,Recreation Zone,19809,25.1,13.4,0,Monday,May
+2026-05-05,Block A,Hostel Zone,68625,19.0,4.9,0,Tuesday,May
+2026-05-05,Block B,Hostel Zone,75086,20.8,8.4,0,Tuesday,May
+2026-05-05,Block C,Hostel Zone,74338,15.8,11.9,0,Tuesday,May
+2026-05-05,Block D,Hostel Zone,73407,22.6,4.1,0,Tuesday,May
+2026-05-05,Admin Block,Admin Zone,15796,20.9,4.8,0,Tuesday,May
+2026-05-05,Library,Academic Zone,13202,24.1,0.8,0,Tuesday,May
+2026-05-05,Cafeteria,Recreation Zone,23512,20.6,4.9,0,Tuesday,May
+2026-05-06,Block A,Hostel Zone,66700,21.0,7.5,0,Wednesday,May
+2026-05-06,Block B,Hostel Zone,71235,21.0,7.1,0,Wednesday,May
+2026-05-06,Block C,Hostel Zone,75813,19.5,11.9,0,Wednesday,May
+2026-05-06,Block D,Hostel Zone,71434,20.3,1.4,0,Wednesday,May
+2026-05-06,Admin Block,Admin Zone,17989,19.1,3.1,0,Wednesday,May
+2026-05-06,Library,Academic Zone,13718,14.3,4.0,0,Wednesday,May
+2026-05-06,Cafeteria,Recreation Zone,21760,20.2,2.0,0,Wednesday,May
+2026-05-07,Block A,Hostel Zone,79180,18.8,4.7,0,Thursday,May
+2026-05-07,Block B,Hostel Zone,79675,17.3,1.3,0,Thursday,May
+2026-05-07,Block C,Hostel Zone,72854,18.2,3.7,0,Thursday,May
+2026-05-07,Block D,Hostel Zone,70374,23.6,2.8,0,Thursday,May
+2026-05-07,Admin Block,Admin Zone,17850,20.7,2.3,0,Thursday,May
+2026-05-07,Library,Academic Zone,11035,16.7,15.4,0,Thursday,May
+2026-05-07,Cafeteria,Recreation Zone,22236,14.3,1.4,0,Thursday,May
+2026-05-08,Block A,Hostel Zone,62803,25.1,8.3,0,Friday,May
+2026-05-08,Block B,Hostel Zone,72565,25.0,3.3,0,Friday,May
+2026-05-08,Block C,Hostel Zone,70089,20.2,6.5,0,Friday,May
+2026-05-08,Block D,Hostel Zone,83786,15.4,0.1,0,Friday,May
+2026-05-08,Admin Block,Admin Zone,17030,19.9,8.2,0,Friday,May
+2026-05-08,Library,Academic Zone,11884,18.1,4.4,0,Friday,May
+2026-05-08,Cafeteria,Recreation Zone,19299,20.3,2.9,0,Friday,May
+2026-05-09,Block A,Hostel Zone,51449,23.0,2.3,0,Saturday,May
+2026-05-09,Block B,Hostel Zone,48944,18.5,3.6,0,Saturday,May
+2026-05-09,Block C,Hostel Zone,48184,25.4,3.2,0,Saturday,May
+2026-05-09,Block D,Hostel Zone,45544,22.9,2.8,0,Saturday,May
+2026-05-09,Admin Block,Admin Zone,12442,18.8,4.0,0,Saturday,May
+2026-05-09,Library,Academic Zone,7960,22.8,2.8,0,Saturday,May
+2026-05-09,Cafeteria,Recreation Zone,16445,15.3,4.2,0,Saturday,May
+2026-05-10,Block A,Hostel Zone,50548,15.1,6.4,0,Sunday,May
+2026-05-10,Block B,Hostel Zone,51855,18.1,3.5,0,Sunday,May
+2026-05-10,Block C,Hostel Zone,42010,18.3,3.4,0,Sunday,May
+2026-05-10,Block D,Hostel Zone,52537,14.4,3.2,0,Sunday,May
+2026-05-10,Admin Block,Admin Zone,12118,23.3,7.8,0,Sunday,May
+2026-05-10,Library,Academic Zone,8272,14.6,1.4,0,Sunday,May
+2026-05-10,Cafeteria,Recreation Zone,14712,27.5,4.0,0,Sunday,May
+2026-05-11,Block A,Hostel Zone,83414,21.3,9.9,0,Monday,May
+2026-05-11,Block B,Hostel Zone,73338,17.4,0.5,0,Monday,May
+2026-05-11,Block C,Hostel Zone,77626,19.8,8.7,0,Monday,May
+2026-05-11,Block D,Hostel Zone,70836,14.8,4.3,0,Monday,May
+2026-05-11,Admin Block,Admin Zone,18380,26.6,4.4,0,Monday,May
+2026-05-11,Library,Academic Zone,12550,23.2,4.8,0,Monday,May
+2026-05-11,Cafeteria,Recreation Zone,21160,24.3,1.9,0,Monday,May
+2026-05-12,Block A,Hostel Zone,68209,16.3,4.0,0,Tuesday,May
+2026-05-12,Block B,Hostel Zone,80145,16.6,7.9,0,Tuesday,May
+2026-05-12,Block C,Hostel Zone,60788,16.3,0.5,0,Tuesday,May
+2026-05-12,Block D,Hostel Zone,73476,19.8,5.5,0,Tuesday,May
+2026-05-12,Admin Block,Admin Zone,18562,20.1,9.1,0,Tuesday,May
+2026-05-12,Library,Academic Zone,13036,18.6,4.8,0,Tuesday,May
+2026-05-12,Cafeteria,Recreation Zone,21181,22.0,1.0,0,Tuesday,May
+2026-05-13,Block A,Hostel Zone,71355,23.6,0.9,0,Wednesday,May
+2026-05-13,Block B,Hostel Zone,74743,18.0,2.9,0,Wednesday,May
+2026-05-13,Block C,Hostel Zone,61944,16.1,1.5,0,Wednesday,May
+2026-05-13,Block D,Hostel Zone,68786,20.3,4.5,0,Wednesday,May
+2026-05-13,Admin Block,Admin Zone,16505,23.4,0.7,0,Wednesday,May
+2026-05-13,Library,Academic Zone,11208,22.8,2.5,0,Wednesday,May
+2026-05-13,Cafeteria,Recreation Zone,25760,18.8,8.7,0,Wednesday,May
+2026-05-14,Block A,Hostel Zone,81877,21.3,11.5,0,Thursday,May
+2026-05-14,Block B,Hostel Zone,64373,19.0,4.7,0,Thursday,May
+2026-05-14,Block C,Hostel Zone,74856,14.1,3.9,0,Thursday,May
+2026-05-14,Block D,Hostel Zone,62010,20.1,1.5,0,Thursday,May
+2026-05-14,Admin Block,Admin Zone,17984,18.2,5.3,0,Thursday,May
+2026-05-14,Library,Academic Zone,12666,22.0,8.5,0,Thursday,May
+2026-05-14,Cafeteria,Recreation Zone,23485,25.2,0.2,0,Thursday,May
+2026-05-15,Block A,Hostel Zone,68661,20.7,5.6,0,Friday,May
+2026-05-15,Block B,Hostel Zone,65946,18.5,5.7,0,Friday,May
+2026-05-15,Block C,Hostel Zone,56347,26.1,7.7,0,Friday,May
+2026-05-15,Block D,Hostel Zone,76217,18.8,2.5,0,Friday,May
+2026-05-15,Admin Block,Admin Zone,18353,21.8,2.5,0,Friday,May
+2026-05-15,Library,Academic Zone,12422,15.8,1.9,0,Friday,May
+2026-05-15,Cafeteria,Recreation Zone,20927,23.2,8.0,0,Friday,May
+2026-05-16,Block A,Hostel Zone,53525,24.0,3.8,0,Saturday,May
+2026-05-16,Block B,Hostel Zone,54883,21.6,7.7,0,Saturday,May
+2026-05-16,Block C,Hostel Zone,45974,18.1,4.8,0,Saturday,May
+2026-05-16,Block D,Hostel Zone,51790,18.9,0.3,0,Saturday,May
+2026-05-16,Admin Block,Admin Zone,13182,23.8,1.9,0,Saturday,May
+2026-05-16,Library,Academic Zone,7332,20.3,2.8,0,Saturday,May
+2026-05-16,Cafeteria,Recreation Zone,14965,22.9,4.9,0,Saturday,May
+2026-05-17,Block A,Hostel Zone,46203,23.5,3.3,0,Sunday,May
+2026-05-17,Block B,Hostel Zone,52678,15.3,6.2,0,Sunday,May
+2026-05-17,Block C,Hostel Zone,48884,14.2,2.2,0,Sunday,May
+2026-05-17,Block D,Hostel Zone,50176,19.0,2.8,0,Sunday,May
+2026-05-17,Admin Block,Admin Zone,11613,23.4,5.2,0,Sunday,May
+2026-05-17,Library,Academic Zone,8125,18.2,1.4,0,Sunday,May
+2026-05-17,Cafeteria,Recreation Zone,13505,23.6,13.4,0,Sunday,May
+2026-05-18,Block A,Hostel Zone,66427,21.9,7.6,0,Monday,May
+2026-05-18,Block B,Hostel Zone,79676,21.0,9.8,0,Monday,May
+2026-05-18,Block C,Hostel Zone,73476,22.9,2.8,0,Monday,May
+2026-05-18,Block D,Hostel Zone,78560,16.4,5.2,0,Monday,May
+2026-05-18,Admin Block,Admin Zone,17366,18.0,5.7,0,Monday,May
+2026-05-18,Library,Academic Zone,11535,21.2,1.8,0,Monday,May
+2026-05-18,Cafeteria,Recreation Zone,23533,17.4,2.1,0,Monday,May
+2026-05-19,Block A,Hostel Zone,78816,17.1,1.1,0,Tuesday,May
+2026-05-19,Block B,Hostel Zone,79039,19.4,6.8,0,Tuesday,May
+2026-05-19,Block C,Hostel Zone,71019,22.0,3.9,0,Tuesday,May
+2026-05-19,Block D,Hostel Zone,68578,18.2,3.6,0,Tuesday,May
+2026-05-19,Admin Block,Admin Zone,16816,21.0,1.9,0,Tuesday,May
+2026-05-19,Library,Academic Zone,13397,16.2,9.3,0,Tuesday,May
+2026-05-19,Cafeteria,Recreation Zone,24752,19.8,2.6,0,Tuesday,May
+2026-05-20,Block A,Hostel Zone,79634,20.8,6.0,0,Wednesday,May
+2026-05-20,Block B,Hostel Zone,71682,22.2,2.4,0,Wednesday,May
+2026-05-20,Block C,Hostel Zone,70248,20.3,1.6,0,Wednesday,May
+2026-05-20,Block D,Hostel Zone,85604,21.1,6.4,0,Wednesday,May
+2026-05-20,Admin Block,Admin Zone,17956,19.3,10.5,0,Wednesday,May
+2026-05-20,Library,Academic Zone,12906,19.8,3.3,0,Wednesday,May
+2026-05-20,Cafeteria,Recreation Zone,23181,19.1,1.6,0,Wednesday,May
+2026-05-21,Block A,Hostel Zone,82544,22.4,2.3,0,Thursday,May
+2026-05-21,Block B,Hostel Zone,71898,20.0,7.6,0,Thursday,May
+2026-05-21,Block C,Hostel Zone,66223,19.1,2.9,0,Thursday,May
+2026-05-21,Block D,Hostel Zone,80983,20.1,4.5,0,Thursday,May
+2026-05-21,Admin Block,Admin Zone,17319,22.5,7.0,0,Thursday,May
+2026-05-21,Library,Academic Zone,12226,25.3,2.8,0,Thursday,May
+2026-05-21,Cafeteria,Recreation Zone,21843,16.8,3.6,0,Thursday,May
+2026-05-22,Block A,Hostel Zone,69019,24.0,3.8,0,Friday,May
+2026-05-22,Block B,Hostel Zone,79702,23.9,12.6,0,Friday,May
+2026-05-22,Block C,Hostel Zone,61324,17.8,2.4,0,Friday,May
+2026-05-22,Block D,Hostel Zone,74479,13.9,3.4,0,Friday,May
+2026-05-22,Admin Block,Admin Zone,19646,16.5,16.7,0,Friday,May
+2026-05-22,Library,Academic Zone,12078,19.7,12.2,0,Friday,May
+2026-05-22,Cafeteria,Recreation Zone,21930,15.9,5.7,0,Friday,May
+2026-05-23,Block A,Hostel Zone,52619,21.3,6.4,0,Saturday,May
+2026-05-23,Block B,Hostel Zone,49775,15.7,4.0,0,Saturday,May
+2026-05-23,Block C,Hostel Zone,38879,11.5,12.7,0,Saturday,May
+2026-05-23,Block D,Hostel Zone,47841,19.5,1.1,0,Saturday,May
+2026-05-23,Admin Block,Admin Zone,11854,21.9,16.2,0,Saturday,May
+2026-05-23,Library,Academic Zone,8422,17.6,3.4,0,Saturday,May
+2026-05-23,Cafeteria,Recreation Zone,16910,19.2,3.2,0,Saturday,May
+2026-05-24,Block A,Hostel Zone,43893,21.7,0.1,0,Sunday,May
+2026-05-24,Block B,Hostel Zone,54082,15.1,1.3,0,Sunday,May
+2026-05-24,Block C,Hostel Zone,49074,23.1,11.5,0,Sunday,May
+2026-05-24,Block D,Hostel Zone,48471,18.3,7.8,0,Sunday,May
+2026-05-24,Admin Block,Admin Zone,13188,18.0,0.8,0,Sunday,May
+2026-05-24,Library,Academic Zone,8009,20.7,3.3,0,Sunday,May
+2026-05-24,Cafeteria,Recreation Zone,15445,18.5,4.6,0,Sunday,May
+2026-05-25,Block A,Hostel Zone,66801,15.7,3.0,0,Monday,May
+2026-05-25,Block B,Hostel Zone,84769,19.7,11.5,0,Monday,May
+2026-05-25,Block C,Hostel Zone,66157,21.8,2.8,0,Monday,May
+2026-05-25,Block D,Hostel Zone,78635,20.4,1.4,0,Monday,May
+2026-05-25,Admin Block,Admin Zone,19190,20.3,0.4,0,Monday,May
+2026-05-25,Library,Academic Zone,14138,20.1,14.5,0,Monday,May
+2026-05-25,Cafeteria,Recreation Zone,20520,19.9,4.6,0,Monday,May
+2026-05-26,Block A,Hostel Zone,71877,20.1,6.2,0,Tuesday,May
+2026-05-26,Block B,Hostel Zone,68681,22.1,4.6,0,Tuesday,May
+2026-05-26,Block C,Hostel Zone,80662,26.1,8.8,0,Tuesday,May
+2026-05-26,Block D,Hostel Zone,72558,19.3,3.0,0,Tuesday,May
+2026-05-26,Admin Block,Admin Zone,18710,18.0,1.0,0,Tuesday,May
+2026-05-26,Library,Academic Zone,13334,16.2,6.7,0,Tuesday,May
+2026-05-26,Cafeteria,Recreation Zone,23150,23.1,1.4,0,Tuesday,May
+2026-05-27,Block A,Hostel Zone,71098,20.0,1.7,0,Wednesday,May
+2026-05-27,Block B,Hostel Zone,77241,22.2,7.2,0,Wednesday,May
+2026-05-27,Block C,Hostel Zone,63448,10.5,3.2,0,Wednesday,May
+2026-05-27,Block D,Hostel Zone,80991,15.5,5.7,0,Wednesday,May
+2026-05-27,Admin Block,Admin Zone,15108,19.5,1.9,0,Wednesday,May
+2026-05-27,Library,Academic Zone,11590,19.8,3.7,0,Wednesday,May
+2026-05-27,Cafeteria,Recreation Zone,18957,22.2,3.9,0,Wednesday,May
+2026-05-28,Block A,Hostel Zone,74751,24.7,3.4,0,Thursday,May
+2026-05-28,Block B,Hostel Zone,85904,18.7,1.1,0,Thursday,May
+2026-05-28,Block C,Hostel Zone,71211,18.9,5.7,0,Thursday,May
+2026-05-28,Block D,Hostel Zone,81902,17.4,4.1,0,Thursday,May
+2026-05-28,Admin Block,Admin Zone,16213,22.0,3.6,0,Thursday,May
+2026-05-28,Library,Academic Zone,12988,16.8,3.1,0,Thursday,May
+2026-05-28,Cafeteria,Recreation Zone,52752,21.8,6.5,1,Thursday,May
+2026-05-29,Block A,Hostel Zone,67860,18.6,10.2,0,Friday,May
+2026-05-29,Block B,Hostel Zone,73068,22.1,3.7,0,Friday,May
+2026-05-29,Block C,Hostel Zone,68671,24.2,2.6,0,Friday,May
+2026-05-29,Block D,Hostel Zone,76917,21.6,4.7,0,Friday,May
+2026-05-29,Admin Block,Admin Zone,17217,20.2,7.7,0,Friday,May
+2026-05-29,Library,Academic Zone,13012,18.6,2.0,0,Friday,May
+2026-05-29,Cafeteria,Recreation Zone,20200,17.9,4.8,0,Friday,May
+2026-05-30,Block A,Hostel Zone,48236,20.4,2.7,0,Saturday,May
+2026-05-30,Block B,Hostel Zone,51584,23.8,1.3,0,Saturday,May
+2026-05-30,Block C,Hostel Zone,47225,16.0,5.7,0,Saturday,May
+2026-05-30,Block D,Hostel Zone,51692,21.8,8.3,0,Saturday,May
+2026-05-30,Admin Block,Admin Zone,13423,17.4,5.9,0,Saturday,May
+2026-05-30,Library,Academic Zone,7789,21.5,2.1,0,Saturday,May
+2026-05-30,Cafeteria,Recreation Zone,17064,17.5,1.3,0,Saturday,May
+2026-05-31,Block A,Hostel Zone,48357,18.0,0.7,0,Sunday,May
+2026-05-31,Block B,Hostel Zone,46795,18.8,1.7,0,Sunday,May
+2026-05-31,Block C,Hostel Zone,47774,18.7,2.8,0,Sunday,May
+2026-05-31,Block D,Hostel Zone,44827,18.4,10.1,0,Sunday,May
+2026-05-31,Admin Block,Admin Zone,12203,22.6,8.6,0,Sunday,May
+2026-05-31,Library,Academic Zone,7820,25.0,5.2,0,Sunday,May
+2026-05-31,Cafeteria,Recreation Zone,13741,21.1,2.9,0,Sunday,May
+2026-06-01,Block A,Hostel Zone,76309,28.3,0.7,0,Monday,June
+2026-06-01,Block B,Hostel Zone,85731,26.4,8.4,0,Monday,June
+2026-06-01,Block C,Hostel Zone,78821,27.9,2.2,0,Monday,June
+2026-06-01,Block D,Hostel Zone,89927,28.6,4.4,0,Monday,June
+2026-06-01,Admin Block,Admin Zone,16721,25.7,19.3,0,Monday,June
+2026-06-01,Library,Academic Zone,11564,27.0,7.1,0,Monday,June
+2026-06-01,Cafeteria,Recreation Zone,25384,24.0,3.3,0,Monday,June
+2026-06-02,Block A,Hostel Zone,79677,23.8,4.8,0,Tuesday,June
+2026-06-02,Block B,Hostel Zone,78060,24.1,21.7,0,Tuesday,June
+2026-06-02,Block C,Hostel Zone,68580,28.9,2.0,0,Tuesday,June
+2026-06-02,Block D,Hostel Zone,68039,26.2,0.6,0,Tuesday,June
+2026-06-02,Admin Block,Admin Zone,17333,22.1,12.5,0,Tuesday,June
+2026-06-02,Library,Academic Zone,14113,25.6,35.3,0,Tuesday,June
+2026-06-02,Cafeteria,Recreation Zone,22148,24.3,7.6,0,Tuesday,June
+2026-06-03,Block A,Hostel Zone,78275,27.1,48.9,0,Wednesday,June
+2026-06-03,Block B,Hostel Zone,75061,26.6,1.3,0,Wednesday,June
+2026-06-03,Block C,Hostel Zone,69865,28.1,11.9,0,Wednesday,June
+2026-06-03,Block D,Hostel Zone,75381,24.0,23.5,0,Wednesday,June
+2026-06-03,Admin Block,Admin Zone,19819,25.2,5.4,0,Wednesday,June
+2026-06-03,Library,Academic Zone,12523,26.5,9.4,0,Wednesday,June
+2026-06-03,Cafeteria,Recreation Zone,24145,24.4,1.7,0,Wednesday,June
+2026-06-04,Block A,Hostel Zone,63940,28.1,19.7,0,Thursday,June
+2026-06-04,Block B,Hostel Zone,79652,27.2,12.3,0,Thursday,June
+2026-06-04,Block C,Hostel Zone,73095,27.7,31.9,0,Thursday,June
+2026-06-04,Block D,Hostel Zone,72241,26.5,1.5,0,Thursday,June
+2026-06-04,Admin Block,Admin Zone,20978,23.4,0.8,0,Thursday,June
+2026-06-04,Library,Academic Zone,12458,27.2,10.8,0,Thursday,June
+2026-06-04,Cafeteria,Recreation Zone,22790,27.2,13.8,0,Thursday,June
+2026-06-05,Block A,Hostel Zone,74997,24.1,17.1,0,Friday,June
+2026-06-05,Block B,Hostel Zone,67454,21.3,8.5,0,Friday,June
+2026-06-05,Block C,Hostel Zone,80989,21.5,7.0,0,Friday,June
+2026-06-05,Block D,Hostel Zone,71717,27.7,9.7,0,Friday,June
+2026-06-05,Admin Block,Admin Zone,18871,26.0,22.0,0,Friday,June
+2026-06-05,Library,Academic Zone,10749,25.7,16.2,0,Friday,June
+2026-06-05,Cafeteria,Recreation Zone,27752,25.3,4.5,0,Friday,June
+2026-06-06,Block A,Hostel Zone,52424,24.2,2.2,0,Saturday,June
+2026-06-06,Block B,Hostel Zone,60271,27.7,3.0,0,Saturday,June
+2026-06-06,Block C,Hostel Zone,50926,23.2,4.3,0,Saturday,June
+2026-06-06,Block D,Hostel Zone,51238,28.1,12.0,0,Saturday,June
+2026-06-06,Admin Block,Admin Zone,12512,27.4,3.1,0,Saturday,June
+2026-06-06,Library,Academic Zone,8374,24.9,2.2,0,Saturday,June
+2026-06-06,Cafeteria,Recreation Zone,14060,19.3,1.7,0,Saturday,June
+2026-06-07,Block A,Hostel Zone,53182,24.2,7.9,0,Sunday,June
+2026-06-07,Block B,Hostel Zone,50281,26.8,6.7,0,Sunday,June
+2026-06-07,Block C,Hostel Zone,47785,25.4,9.0,0,Sunday,June
+2026-06-07,Block D,Hostel Zone,49586,25.4,11.1,0,Sunday,June
+2026-06-07,Admin Block,Admin Zone,12933,26.4,14.0,0,Sunday,June
+2026-06-07,Library,Academic Zone,8024,23.3,5.1,0,Sunday,June
+2026-06-07,Cafeteria,Recreation Zone,16269,28.1,6.0,0,Sunday,June
+2026-06-08,Block A,Hostel Zone,79661,21.5,33.3,0,Monday,June
+2026-06-08,Block B,Hostel Zone,74136,22.4,8.3,0,Monday,June
+2026-06-08,Block C,Hostel Zone,65057,25.0,10.2,0,Monday,June
+2026-06-08,Block D,Hostel Zone,134442,22.4,21.1,1,Monday,June
+2026-06-08,Admin Block,Admin Zone,17573,21.6,2.9,0,Monday,June
+2026-06-08,Library,Academic Zone,12736,18.8,17.5,0,Monday,June
+2026-06-08,Cafeteria,Recreation Zone,23166,25.0,11.7,0,Monday,June
+2026-06-09,Block A,Hostel Zone,76237,28.0,9.5,0,Tuesday,June
+2026-06-09,Block B,Hostel Zone,77212,25.6,4.2,0,Tuesday,June
+2026-06-09,Block C,Hostel Zone,57666,24.3,21.5,0,Tuesday,June
+2026-06-09,Block D,Hostel Zone,82735,24.0,5.1,0,Tuesday,June
+2026-06-09,Admin Block,Admin Zone,18198,28.0,36.0,0,Tuesday,June
+2026-06-09,Library,Academic Zone,13638,23.5,13.9,0,Tuesday,June
+2026-06-09,Cafeteria,Recreation Zone,23514,22.7,14.7,0,Tuesday,June
+2026-06-10,Block A,Hostel Zone,76623,23.5,8.5,0,Wednesday,June
+2026-06-10,Block B,Hostel Zone,64734,23.8,0.3,0,Wednesday,June
+2026-06-10,Block C,Hostel Zone,69298,26.2,12.3,0,Wednesday,June
+2026-06-10,Block D,Hostel Zone,87660,26.2,3.9,0,Wednesday,June
+2026-06-10,Admin Block,Admin Zone,16627,28.6,4.2,0,Wednesday,June
+2026-06-10,Library,Academic Zone,12648,24.9,21.7,0,Wednesday,June
+2026-06-10,Cafeteria,Recreation Zone,22277,20.3,10.5,0,Wednesday,June
+2026-06-11,Block A,Hostel Zone,78840,23.8,14.8,0,Thursday,June
+2026-06-11,Block B,Hostel Zone,76589,20.6,4.1,0,Thursday,June
+2026-06-11,Block C,Hostel Zone,69459,19.1,4.4,0,Thursday,June
+2026-06-11,Block D,Hostel Zone,78106,26.3,4.8,0,Thursday,June
+2026-06-11,Admin Block,Admin Zone,19413,23.2,14.0,0,Thursday,June
+2026-06-11,Library,Academic Zone,11146,27.2,30.8,0,Thursday,June
+2026-06-11,Cafeteria,Recreation Zone,24102,28.3,3.1,0,Thursday,June
+2026-06-12,Block A,Hostel Zone,66071,21.2,13.5,0,Friday,June
+2026-06-12,Block B,Hostel Zone,72689,27.5,19.0,0,Friday,June
+2026-06-12,Block C,Hostel Zone,68286,27.7,4.6,0,Friday,June
+2026-06-12,Block D,Hostel Zone,84956,31.0,12.5,0,Friday,June
+2026-06-12,Admin Block,Admin Zone,18407,24.1,10.3,0,Friday,June
+2026-06-12,Library,Academic Zone,12737,20.5,6.3,0,Friday,June
+2026-06-12,Cafeteria,Recreation Zone,22890,28.7,6.8,0,Friday,June
+2026-06-13,Block A,Hostel Zone,47298,24.5,20.7,0,Saturday,June
+2026-06-13,Block B,Hostel Zone,52218,26.6,13.3,0,Saturday,June
+2026-06-13,Block C,Hostel Zone,48197,25.5,3.5,0,Saturday,June
+2026-06-13,Block D,Hostel Zone,51769,25.0,1.7,0,Saturday,June
+2026-06-13,Admin Block,Admin Zone,11784,28.7,7.2,0,Saturday,June
+2026-06-13,Library,Academic Zone,7806,23.5,15.7,0,Saturday,June
+2026-06-13,Cafeteria,Recreation Zone,14765,26.3,6.5,0,Saturday,June
+2026-06-14,Block A,Hostel Zone,45711,26.3,16.6,0,Sunday,June
+2026-06-14,Block B,Hostel Zone,49229,24.5,5.6,0,Sunday,June
+2026-06-14,Block C,Hostel Zone,40190,25.1,11.3,0,Sunday,June
+2026-06-14,Block D,Hostel Zone,52407,22.5,1.7,0,Sunday,June
+2026-06-14,Admin Block,Admin Zone,10676,24.2,4.9,0,Sunday,June
+2026-06-14,Library,Academic Zone,8125,24.3,6.4,0,Sunday,June
+2026-06-14,Cafeteria,Recreation Zone,17301,24.1,1.2,0,Sunday,June
+2026-06-15,Block A,Hostel Zone,70000,24.7,21.5,0,Monday,June
+2026-06-15,Block B,Hostel Zone,82307,27.2,11.6,0,Monday,June
+2026-06-15,Block C,Hostel Zone,71870,23.4,12.3,0,Monday,June
+2026-06-15,Block D,Hostel Zone,70883,30.1,8.5,0,Monday,June
+2026-06-15,Admin Block,Admin Zone,17396,23.8,3.3,0,Monday,June
+2026-06-15,Library,Academic Zone,11151,18.5,17.6,0,Monday,June
+2026-06-15,Cafeteria,Recreation Zone,20636,23.1,9.7,0,Monday,June
+2026-06-16,Block A,Hostel Zone,63542,25.9,10.5,0,Tuesday,June
+2026-06-16,Block B,Hostel Zone,71580,25.6,4.5,0,Tuesday,June
+2026-06-16,Block C,Hostel Zone,70582,28.4,12.7,0,Tuesday,June
+2026-06-16,Block D,Hostel Zone,72316,23.1,3.2,0,Tuesday,June
+2026-06-16,Admin Block,Admin Zone,17866,21.5,14.4,0,Tuesday,June
+2026-06-16,Library,Academic Zone,12310,17.8,4.3,0,Tuesday,June
+2026-06-16,Cafeteria,Recreation Zone,20079,25.3,6.3,0,Tuesday,June
+2026-06-17,Block A,Hostel Zone,77387,26.1,10.7,0,Wednesday,June
+2026-06-17,Block B,Hostel Zone,79178,22.4,5.3,0,Wednesday,June
+2026-06-17,Block C,Hostel Zone,72996,27.3,10.6,0,Wednesday,June
+2026-06-17,Block D,Hostel Zone,67836,30.1,3.0,0,Wednesday,June
+2026-06-17,Admin Block,Admin Zone,16608,28.3,3.3,0,Wednesday,June
+2026-06-17,Library,Academic Zone,12277,28.3,4.4,0,Wednesday,June
+2026-06-17,Cafeteria,Recreation Zone,25192,23.3,6.4,0,Wednesday,June
+2026-06-18,Block A,Hostel Zone,75627,23.9,5.5,0,Thursday,June
+2026-06-18,Block B,Hostel Zone,135560,21.1,13.0,1,Thursday,June
+2026-06-18,Block C,Hostel Zone,59527,25.1,12.8,0,Thursday,June
+2026-06-18,Block D,Hostel Zone,77260,26.3,21.1,0,Thursday,June
+2026-06-18,Admin Block,Admin Zone,16910,23.1,9.3,0,Thursday,June
+2026-06-18,Library,Academic Zone,10289,29.8,12.1,0,Thursday,June
+2026-06-18,Cafeteria,Recreation Zone,24558,27.2,8.7,0,Thursday,June
+2026-06-19,Block A,Hostel Zone,71983,27.5,2.7,0,Friday,June
+2026-06-19,Block B,Hostel Zone,78897,22.6,4.2,0,Friday,June
+2026-06-19,Block C,Hostel Zone,72538,27.2,6.8,0,Friday,June
+2026-06-19,Block D,Hostel Zone,80550,26.3,5.9,0,Friday,June
+2026-06-19,Admin Block,Admin Zone,16864,20.5,4.7,0,Friday,June
+2026-06-19,Library,Academic Zone,11700,25.1,2.2,0,Friday,June
+2026-06-19,Cafeteria,Recreation Zone,23064,24.7,10.7,0,Friday,June
+2026-06-20,Block A,Hostel Zone,56382,26.4,19.9,0,Saturday,June
+2026-06-20,Block B,Hostel Zone,48561,23.9,13.2,0,Saturday,June
+2026-06-20,Block C,Hostel Zone,41610,23.5,14.0,0,Saturday,June
+2026-06-20,Block D,Hostel Zone,59260,26.4,24.0,0,Saturday,June
+2026-06-20,Admin Block,Admin Zone,11300,29.4,4.4,0,Saturday,June
+2026-06-20,Library,Academic Zone,8278,20.6,14.4,0,Saturday,June
+2026-06-20,Cafeteria,Recreation Zone,15661,25.6,6.7,0,Saturday,June
+2026-06-21,Block A,Hostel Zone,50046,27.1,5.8,0,Sunday,June
+2026-06-21,Block B,Hostel Zone,54471,21.3,8.3,0,Sunday,June
+2026-06-21,Block C,Hostel Zone,44090,19.1,8.4,0,Sunday,June
+2026-06-21,Block D,Hostel Zone,47687,27.5,29.6,0,Sunday,June
+2026-06-21,Admin Block,Admin Zone,13646,22.8,31.9,0,Sunday,June
+2026-06-21,Library,Academic Zone,8164,20.4,16.1,0,Sunday,June
+2026-06-21,Cafeteria,Recreation Zone,14659,26.1,18.3,0,Sunday,June
+2026-06-22,Block A,Hostel Zone,76796,20.7,13.6,0,Monday,June
+2026-06-22,Block B,Hostel Zone,78199,27.9,7.3,0,Monday,June
+2026-06-22,Block C,Hostel Zone,76173,25.6,5.9,0,Monday,June
+2026-06-22,Block D,Hostel Zone,82791,25.3,4.3,0,Monday,June
+2026-06-22,Admin Block,Admin Zone,18671,24.7,9.5,0,Monday,June
+2026-06-22,Library,Academic Zone,11542,26.4,12.9,0,Monday,June
+2026-06-22,Cafeteria,Recreation Zone,24145,26.1,5.7,0,Monday,June
+2026-06-23,Block A,Hostel Zone,75787,25.9,6.6,0,Tuesday,June
+2026-06-23,Block B,Hostel Zone,70255,24.0,12.4,0,Tuesday,June
+2026-06-23,Block C,Hostel Zone,55496,29.1,23.5,0,Tuesday,June
+2026-06-23,Block D,Hostel Zone,79884,28.2,16.7,0,Tuesday,June
+2026-06-23,Admin Block,Admin Zone,18524,28.4,7.7,0,Tuesday,June
+2026-06-23,Library,Academic Zone,10863,23.8,10.0,0,Tuesday,June
+2026-06-23,Cafeteria,Recreation Zone,23414,20.6,20.9,0,Tuesday,June
+2026-06-24,Block A,Hostel Zone,72200,25.5,14.1,0,Wednesday,June
+2026-06-24,Block B,Hostel Zone,95456,25.1,19.7,0,Wednesday,June
+2026-06-24,Block C,Hostel Zone,51444,21.7,9.2,0,Wednesday,June
+2026-06-24,Block D,Hostel Zone,70623,24.0,5.1,0,Wednesday,June
+2026-06-24,Admin Block,Admin Zone,17615,24.4,21.3,0,Wednesday,June
+2026-06-24,Library,Academic Zone,12548,19.8,18.5,0,Wednesday,June
+2026-06-24,Cafeteria,Recreation Zone,27149,23.4,6.1,0,Wednesday,June
+2026-06-25,Block A,Hostel Zone,137655,26.8,8.7,1,Thursday,June
+2026-06-25,Block B,Hostel Zone,75717,27.9,10.4,0,Thursday,June
+2026-06-25,Block C,Hostel Zone,79109,24.2,8.9,0,Thursday,June
+2026-06-25,Block D,Hostel Zone,70104,27.6,11.2,0,Thursday,June
+2026-06-25,Admin Block,Admin Zone,19262,26.0,11.6,0,Thursday,June
+2026-06-25,Library,Academic Zone,12219,23.7,25.1,0,Thursday,June
+2026-06-25,Cafeteria,Recreation Zone,52463,21.9,6.4,1,Thursday,June
+2026-06-26,Block A,Hostel Zone,60473,25.3,10.7,0,Friday,June
+2026-06-26,Block B,Hostel Zone,86070,24.4,9.8,0,Friday,June
+2026-06-26,Block C,Hostel Zone,69843,21.3,12.2,0,Friday,June
+2026-06-26,Block D,Hostel Zone,65622,26.1,11.9,0,Friday,June
+2026-06-26,Admin Block,Admin Zone,19851,21.3,8.2,0,Friday,June
+2026-06-26,Library,Academic Zone,12435,21.3,3.8,0,Friday,June
+2026-06-26,Cafeteria,Recreation Zone,24035,27.9,4.7,0,Friday,June
+2026-06-27,Block A,Hostel Zone,50038,26.5,5.1,0,Saturday,June
+2026-06-27,Block B,Hostel Zone,52251,22.8,9.7,0,Saturday,June
+2026-06-27,Block C,Hostel Zone,41627,27.1,4.0,0,Saturday,June
+2026-06-27,Block D,Hostel Zone,45208,26.1,8.5,0,Saturday,June
+2026-06-27,Admin Block,Admin Zone,13177,26.4,23.5,0,Saturday,June
+2026-06-27,Library,Academic Zone,7751,24.0,1.5,0,Saturday,June
+2026-06-27,Cafeteria,Recreation Zone,15971,25.4,8.3,0,Saturday,June
+2026-06-28,Block A,Hostel Zone,47549,26.1,13.7,0,Sunday,June
+2026-06-28,Block B,Hostel Zone,58035,25.4,7.6,0,Sunday,June
+2026-06-28,Block C,Hostel Zone,38891,25.9,13.5,0,Sunday,June
+2026-06-28,Block D,Hostel Zone,51853,22.5,8.7,0,Sunday,June
+2026-06-28,Admin Block,Admin Zone,11660,24.6,4.0,0,Sunday,June
+2026-06-28,Library,Academic Zone,8342,25.8,4.8,0,Sunday,June
+2026-06-28,Cafeteria,Recreation Zone,15251,30.6,3.6,0,Sunday,June
+2026-06-29,Block A,Hostel Zone,75842,29.1,10.5,0,Monday,June
+2026-06-29,Block B,Hostel Zone,83799,27.0,25.8,0,Monday,June
+2026-06-29,Block C,Hostel Zone,64712,23.2,2.0,0,Monday,June
+2026-06-29,Block D,Hostel Zone,87850,24.8,20.0,0,Monday,June
+2026-06-29,Admin Block,Admin Zone,17340,23.3,3.8,0,Monday,June
+2026-06-29,Library,Academic Zone,13107,22.3,0.4,0,Monday,June
+2026-06-29,Cafeteria,Recreation Zone,22837,23.1,2.6,0,Monday,June
+2026-06-30,Block A,Hostel Zone,80634,24.5,9.8,0,Tuesday,June
+2026-06-30,Block B,Hostel Zone,75401,23.8,2.3,0,Tuesday,June
+2026-06-30,Block C,Hostel Zone,78809,27.4,2.5,0,Tuesday,June
+2026-06-30,Block D,Hostel Zone,61741,29.2,10.2,0,Tuesday,June
+2026-06-30,Admin Block,Admin Zone,16637,23.6,6.3,0,Tuesday,June
+2026-06-30,Library,Academic Zone,11083,20.4,18.6,0,Tuesday,June
+2026-06-30,Cafeteria,Recreation Zone,26343,17.5,10.5,0,Tuesday,June
+2026-07-01,Block A,Hostel Zone,71683,33.2,10.8,0,Wednesday,July
+2026-07-01,Block B,Hostel Zone,70328,27.6,29.1,0,Wednesday,July
+2026-07-01,Block C,Hostel Zone,71800,32.4,1.7,0,Wednesday,July
+2026-07-01,Block D,Hostel Zone,71715,31.5,29.0,0,Wednesday,July
+2026-07-01,Admin Block,Admin Zone,18375,31.9,13.3,0,Wednesday,July
+2026-07-01,Library,Academic Zone,13057,25.2,27.8,0,Wednesday,July
+2026-07-01,Cafeteria,Recreation Zone,23408,30.3,0.8,0,Wednesday,July
+2026-07-02,Block A,Hostel Zone,67692,34.0,28.8,0,Thursday,July
+2026-07-02,Block B,Hostel Zone,90864,30.0,2.7,0,Thursday,July
+2026-07-02,Block C,Hostel Zone,74946,32.0,2.3,0,Thursday,July
+2026-07-02,Block D,Hostel Zone,65219,30.4,12.7,0,Thursday,July
+2026-07-02,Admin Block,Admin Zone,19162,28.4,11.3,0,Thursday,July
+2026-07-02,Library,Academic Zone,12677,27.6,46.0,0,Thursday,July
+2026-07-02,Cafeteria,Recreation Zone,28555,32.7,22.7,0,Thursday,July
+2026-07-03,Block A,Hostel Zone,79670,32.9,12.5,0,Friday,July
+2026-07-03,Block B,Hostel Zone,76430,28.9,17.3,0,Friday,July
+2026-07-03,Block C,Hostel Zone,65989,35.0,19.6,0,Friday,July
+2026-07-03,Block D,Hostel Zone,80083,33.6,43.4,0,Friday,July
+2026-07-03,Admin Block,Admin Zone,18711,27.6,12.9,0,Friday,July
+2026-07-03,Library,Academic Zone,12577,32.3,5.1,0,Friday,July
+2026-07-03,Cafeteria,Recreation Zone,23618,33.5,4.0,0,Friday,July
+2026-07-04,Block A,Hostel Zone,42578,33.4,5.4,0,Saturday,July
+2026-07-04,Block B,Hostel Zone,49147,29.0,2.6,0,Saturday,July
+2026-07-04,Block C,Hostel Zone,50439,29.4,17.7,0,Saturday,July
+2026-07-04,Block D,Hostel Zone,45982,29.6,24.3,0,Saturday,July
+2026-07-04,Admin Block,Admin Zone,12021,35.0,9.7,0,Saturday,July
+2026-07-04,Library,Academic Zone,8138,24.1,7.6,0,Saturday,July
+2026-07-04,Cafeteria,Recreation Zone,14242,28.5,3.1,0,Saturday,July
+2026-07-05,Block A,Hostel Zone,48645,32.5,22.2,0,Sunday,July
+2026-07-05,Block B,Hostel Zone,50253,36.2,13.6,0,Sunday,July
+2026-07-05,Block C,Hostel Zone,44816,26.0,5.9,0,Sunday,July
+2026-07-05,Block D,Hostel Zone,52350,31.2,16.1,0,Sunday,July
+2026-07-05,Admin Block,Admin Zone,13546,37.9,19.2,0,Sunday,July
+2026-07-05,Library,Academic Zone,9560,31.8,14.3,0,Sunday,July
+2026-07-05,Cafeteria,Recreation Zone,14788,32.6,8.3,0,Sunday,July
+2026-07-06,Block A,Hostel Zone,70584,31.6,14.4,0,Monday,July
+2026-07-06,Block B,Hostel Zone,79893,26.2,21.1,0,Monday,July
+2026-07-06,Block C,Hostel Zone,76664,30.2,8.4,0,Monday,July
+2026-07-06,Block D,Hostel Zone,81314,30.4,3.7,0,Monday,July
+2026-07-06,Admin Block,Admin Zone,17187,29.6,21.6,0,Monday,July
+2026-07-06,Library,Academic Zone,26893,30.3,11.0,1,Monday,July
+2026-07-06,Cafeteria,Recreation Zone,21096,26.6,13.4,0,Monday,July
+2026-07-07,Block A,Hostel Zone,76665,30.7,7.6,0,Tuesday,July
+2026-07-07,Block B,Hostel Zone,78523,27.3,25.9,0,Tuesday,July
+2026-07-07,Block C,Hostel Zone,63014,31.1,25.5,0,Tuesday,July
+2026-07-07,Block D,Hostel Zone,66579,29.4,4.9,0,Tuesday,July
+2026-07-07,Admin Block,Admin Zone,16913,32.6,11.4,0,Tuesday,July
+2026-07-07,Library,Academic Zone,12237,34.6,6.4,0,Tuesday,July
+2026-07-07,Cafeteria,Recreation Zone,20061,32.5,15.7,0,Tuesday,July
+2026-07-08,Block A,Hostel Zone,69387,27.6,4.4,0,Wednesday,July
+2026-07-08,Block B,Hostel Zone,77276,30.1,8.4,0,Wednesday,July
+2026-07-08,Block C,Hostel Zone,156295,23.6,11.1,1,Wednesday,July
+2026-07-08,Block D,Hostel Zone,74454,28.9,9.3,0,Wednesday,July
+2026-07-08,Admin Block,Admin Zone,16062,28.5,7.4,0,Wednesday,July
+2026-07-08,Library,Academic Zone,12795,31.3,2.9,0,Wednesday,July
+2026-07-08,Cafeteria,Recreation Zone,21995,24.2,23.2,0,Wednesday,July
+2026-07-09,Block A,Hostel Zone,81734,28.2,20.7,0,Thursday,July
+2026-07-09,Block B,Hostel Zone,65243,26.0,9.0,0,Thursday,July
+2026-07-09,Block C,Hostel Zone,68668,26.4,5.5,0,Thursday,July
+2026-07-09,Block D,Hostel Zone,83128,27.8,11.5,0,Thursday,July
+2026-07-09,Admin Block,Admin Zone,18746,33.5,4.9,0,Thursday,July
+2026-07-09,Library,Academic Zone,12078,32.9,20.2,0,Thursday,July
+2026-07-09,Cafeteria,Recreation Zone,17756,29.6,8.2,0,Thursday,July
+2026-07-10,Block A,Hostel Zone,70376,25.6,25.2,0,Friday,July
+2026-07-10,Block B,Hostel Zone,73694,26.7,13.4,0,Friday,July
+2026-07-10,Block C,Hostel Zone,74960,34.7,4.1,0,Friday,July
+2026-07-10,Block D,Hostel Zone,73702,28.0,8.2,0,Friday,July
+2026-07-10,Admin Block,Admin Zone,18955,26.7,9.7,0,Friday,July
+2026-07-10,Library,Academic Zone,11837,34.1,17.6,0,Friday,July
+2026-07-10,Cafeteria,Recreation Zone,24110,30.6,24.4,0,Friday,July
+2026-07-11,Block A,Hostel Zone,51586,28.1,8.6,0,Saturday,July
+2026-07-11,Block B,Hostel Zone,56682,33.1,0.7,0,Saturday,July
+2026-07-11,Block C,Hostel Zone,43557,31.1,38.6,0,Saturday,July
+2026-07-11,Block D,Hostel Zone,45180,32.0,8.7,0,Saturday,July
+2026-07-11,Admin Block,Admin Zone,11509,31.5,18.1,0,Saturday,July
+2026-07-11,Library,Academic Zone,8970,30.1,4.8,0,Saturday,July
+2026-07-11,Cafeteria,Recreation Zone,14650,23.4,21.4,0,Saturday,July
+2026-07-12,Block A,Hostel Zone,49409,31.0,5.2,0,Sunday,July
+2026-07-12,Block B,Hostel Zone,50751,30.9,14.0,0,Sunday,July
+2026-07-12,Block C,Hostel Zone,43986,36.1,16.3,0,Sunday,July
+2026-07-12,Block D,Hostel Zone,47953,32.2,52.9,0,Sunday,July
+2026-07-12,Admin Block,Admin Zone,11352,29.8,8.6,0,Sunday,July
+2026-07-12,Library,Academic Zone,7283,30.2,22.1,0,Sunday,July
+2026-07-12,Cafeteria,Recreation Zone,16207,32.0,5.0,0,Sunday,July
+2026-07-13,Block A,Hostel Zone,80976,29.1,32.1,0,Monday,July
+2026-07-13,Block B,Hostel Zone,75689,27.7,5.6,0,Monday,July
+2026-07-13,Block C,Hostel Zone,67612,28.2,23.1,0,Monday,July
+2026-07-13,Block D,Hostel Zone,73506,28.2,15.5,0,Monday,July
+2026-07-13,Admin Block,Admin Zone,15315,32.9,22.8,0,Monday,July
+2026-07-13,Library,Academic Zone,11049,36.2,6.3,0,Monday,July
+2026-07-13,Cafeteria,Recreation Zone,24674,32.1,6.1,0,Monday,July
+2026-07-14,Block A,Hostel Zone,85361,31.2,17.5,0,Tuesday,July
+2026-07-14,Block B,Hostel Zone,74068,25.8,13.9,0,Tuesday,July
+2026-07-14,Block C,Hostel Zone,60933,26.2,20.8,0,Tuesday,July
+2026-07-14,Block D,Hostel Zone,73398,30.3,9.0,0,Tuesday,July
+2026-07-14,Admin Block,Admin Zone,19491,28.7,39.4,0,Tuesday,July
+2026-07-14,Library,Academic Zone,11955,29.5,24.5,0,Tuesday,July
+2026-07-14,Cafeteria,Recreation Zone,23808,29.7,2.6,0,Tuesday,July
+2026-07-15,Block A,Hostel Zone,64706,32.2,12.4,0,Wednesday,July
+2026-07-15,Block B,Hostel Zone,74986,24.8,41.4,0,Wednesday,July
+2026-07-15,Block C,Hostel Zone,74539,33.4,19.6,0,Wednesday,July
+2026-07-15,Block D,Hostel Zone,65631,24.1,11.1,0,Wednesday,July
+2026-07-15,Admin Block,Admin Zone,17765,29.4,16.7,0,Wednesday,July
+2026-07-15,Library,Academic Zone,12231,36.3,23.5,0,Wednesday,July
+2026-07-15,Cafeteria,Recreation Zone,22808,36.2,3.1,0,Wednesday,July
+2026-07-16,Block A,Hostel Zone,65210,31.3,22.6,0,Thursday,July
+2026-07-16,Block B,Hostel Zone,81757,25.2,7.1,0,Thursday,July
+2026-07-16,Block C,Hostel Zone,65824,28.4,23.1,0,Thursday,July
+2026-07-16,Block D,Hostel Zone,65580,28.9,18.0,0,Thursday,July
+2026-07-16,Admin Block,Admin Zone,18663,30.2,8.7,0,Thursday,July
+2026-07-16,Library,Academic Zone,12270,24.6,16.0,0,Thursday,July
+2026-07-16,Cafeteria,Recreation Zone,24429,34.1,17.9,0,Thursday,July
+2026-07-17,Block A,Hostel Zone,71235,33.9,13.9,0,Friday,July
+2026-07-17,Block B,Hostel Zone,80631,27.4,30.7,0,Friday,July
+2026-07-17,Block C,Hostel Zone,66946,28.1,0.4,0,Friday,July
+2026-07-17,Block D,Hostel Zone,71169,29.6,3.5,0,Friday,July
+2026-07-17,Admin Block,Admin Zone,17733,24.3,11.3,0,Friday,July
+2026-07-17,Library,Academic Zone,11151,27.7,6.5,0,Friday,July
+2026-07-17,Cafeteria,Recreation Zone,21840,23.2,16.0,0,Friday,July
+2026-07-18,Block A,Hostel Zone,42050,26.9,2.9,0,Saturday,July
+2026-07-18,Block B,Hostel Zone,47270,27.9,13.7,0,Saturday,July
+2026-07-18,Block C,Hostel Zone,48798,29.6,4.1,0,Saturday,July
+2026-07-18,Block D,Hostel Zone,52581,27.5,8.4,0,Saturday,July
+2026-07-18,Admin Block,Admin Zone,10090,33.0,1.8,0,Saturday,July
+2026-07-18,Library,Academic Zone,8460,29.3,15.6,0,Saturday,July
+2026-07-18,Cafeteria,Recreation Zone,14774,32.3,5.7,0,Saturday,July
+2026-07-19,Block A,Hostel Zone,47089,29.3,3.2,0,Sunday,July
+2026-07-19,Block B,Hostel Zone,47894,30.6,24.3,0,Sunday,July
+2026-07-19,Block C,Hostel Zone,48822,33.0,27.8,0,Sunday,July
+2026-07-19,Block D,Hostel Zone,42492,27.2,17.2,0,Sunday,July
+2026-07-19,Admin Block,Admin Zone,10769,33.2,10.2,0,Sunday,July
+2026-07-19,Library,Academic Zone,8095,30.6,4.0,0,Sunday,July
+2026-07-19,Cafeteria,Recreation Zone,16841,27.7,9.8,0,Sunday,July
+2026-07-20,Block A,Hostel Zone,75990,37.6,0.3,0,Monday,July
+2026-07-20,Block B,Hostel Zone,79193,28.9,22.1,0,Monday,July
+2026-07-20,Block C,Hostel Zone,106744,33.5,18.0,1,Monday,July
+2026-07-20,Block D,Hostel Zone,74142,31.7,7.1,0,Monday,July
+2026-07-20,Admin Block,Admin Zone,20377,33.8,17.8,0,Monday,July
+2026-07-20,Library,Academic Zone,12628,28.4,8.3,0,Monday,July
+2026-07-20,Cafeteria,Recreation Zone,23185,22.0,2.7,0,Monday,July
+2026-07-21,Block A,Hostel Zone,81659,31.8,17.1,0,Tuesday,July
+2026-07-21,Block B,Hostel Zone,79551,27.8,6.8,0,Tuesday,July
+2026-07-21,Block C,Hostel Zone,69004,35.0,10.3,0,Tuesday,July
+2026-07-21,Block D,Hostel Zone,72282,34.0,20.5,0,Tuesday,July
+2026-07-21,Admin Block,Admin Zone,18055,31.7,18.2,0,Tuesday,July
+2026-07-21,Library,Academic Zone,11965,26.0,21.0,0,Tuesday,July
+2026-07-21,Cafeteria,Recreation Zone,23752,33.1,17.5,0,Tuesday,July
+2026-07-22,Block A,Hostel Zone,73487,33.5,4.3,0,Wednesday,July
+2026-07-22,Block B,Hostel Zone,71151,31.1,8.9,0,Wednesday,July
+2026-07-22,Block C,Hostel Zone,68040,25.4,9.7,0,Wednesday,July
+2026-07-22,Block D,Hostel Zone,83232,23.9,3.9,0,Wednesday,July
+2026-07-22,Admin Block,Admin Zone,15470,34.0,16.8,0,Wednesday,July
+2026-07-22,Library,Academic Zone,10689,31.5,5.1,0,Wednesday,July
+2026-07-22,Cafeteria,Recreation Zone,22568,24.9,24.4,0,Wednesday,July
+2026-07-23,Block A,Hostel Zone,62695,32.8,20.4,0,Thursday,July
+2026-07-23,Block B,Hostel Zone,69537,36.6,12.5,0,Thursday,July
+2026-07-23,Block C,Hostel Zone,72885,23.3,41.0,0,Thursday,July
+2026-07-23,Block D,Hostel Zone,59982,30.6,4.6,0,Thursday,July
+2026-07-23,Admin Block,Admin Zone,17935,34.5,16.9,0,Thursday,July
+2026-07-23,Library,Academic Zone,10577,31.4,6.8,0,Thursday,July
+2026-07-23,Cafeteria,Recreation Zone,22039,29.2,9.5,0,Thursday,July
+2026-07-24,Block A,Hostel Zone,70260,29.9,2.6,0,Friday,July
+2026-07-24,Block B,Hostel Zone,73453,26.3,9.6,0,Friday,July
+2026-07-24,Block C,Hostel Zone,75696,30.6,20.0,0,Friday,July
+2026-07-24,Block D,Hostel Zone,80506,32.0,11.7,0,Friday,July
+2026-07-24,Admin Block,Admin Zone,16299,34.6,14.9,0,Friday,July
+2026-07-24,Library,Academic Zone,12012,28.8,2.6,0,Friday,July
+2026-07-24,Cafeteria,Recreation Zone,21370,27.2,13.6,0,Friday,July
+2026-07-25,Block A,Hostel Zone,48013,33.9,29.5,0,Saturday,July
+2026-07-25,Block B,Hostel Zone,55249,32.3,2.6,0,Saturday,July
+2026-07-25,Block C,Hostel Zone,46663,29.7,4.5,0,Saturday,July
+2026-07-25,Block D,Hostel Zone,49448,30.4,6.7,0,Saturday,July
+2026-07-25,Admin Block,Admin Zone,10375,32.3,14.3,0,Saturday,July
+2026-07-25,Library,Academic Zone,8399,26.8,4.5,0,Saturday,July
+2026-07-25,Cafeteria,Recreation Zone,16525,29.8,22.0,0,Saturday,July
+2026-07-26,Block A,Hostel Zone,39786,25.8,28.4,0,Sunday,July
+2026-07-26,Block B,Hostel Zone,41562,32.1,26.0,0,Sunday,July
+2026-07-26,Block C,Hostel Zone,51681,30.9,6.1,0,Sunday,July
+2026-07-26,Block D,Hostel Zone,47796,30.7,24.6,0,Sunday,July
+2026-07-26,Admin Block,Admin Zone,12644,33.3,31.8,0,Sunday,July
+2026-07-26,Library,Academic Zone,8104,30.8,6.9,0,Sunday,July
+2026-07-26,Cafeteria,Recreation Zone,17151,27.3,31.6,0,Sunday,July
+2026-07-27,Block A,Hostel Zone,75376,30.9,21.1,0,Monday,July
+2026-07-27,Block B,Hostel Zone,95206,26.9,11.4,0,Monday,July
+2026-07-27,Block C,Hostel Zone,74658,25.5,6.3,0,Monday,July
+2026-07-27,Block D,Hostel Zone,68419,31.6,11.6,0,Monday,July
+2026-07-27,Admin Block,Admin Zone,17887,29.4,2.9,0,Monday,July
+2026-07-27,Library,Academic Zone,12429,31.5,23.5,0,Monday,July
+2026-07-27,Cafeteria,Recreation Zone,23486,30.7,16.9,0,Monday,July
+2026-07-28,Block A,Hostel Zone,60235,31.2,5.4,0,Tuesday,July
+2026-07-28,Block B,Hostel Zone,88274,29.5,4.2,0,Tuesday,July
+2026-07-28,Block C,Hostel Zone,63439,32.5,10.5,0,Tuesday,July
+2026-07-28,Block D,Hostel Zone,79961,29.3,9.3,0,Tuesday,July
+2026-07-28,Admin Block,Admin Zone,19886,30.0,2.8,0,Tuesday,July
+2026-07-28,Library,Academic Zone,12785,33.4,28.1,0,Tuesday,July
+2026-07-28,Cafeteria,Recreation Zone,22516,28.6,18.5,0,Tuesday,July
+2026-07-29,Block A,Hostel Zone,75775,33.5,16.5,0,Wednesday,July
+2026-07-29,Block B,Hostel Zone,71247,27.3,1.3,0,Wednesday,July
+2026-07-29,Block C,Hostel Zone,59743,28.1,7.6,0,Wednesday,July
+2026-07-29,Block D,Hostel Zone,76694,25.7,37.1,0,Wednesday,July
+2026-07-29,Admin Block,Admin Zone,14765,29.5,24.9,0,Wednesday,July
+2026-07-29,Library,Academic Zone,12092,28.4,38.6,0,Wednesday,July
+2026-07-29,Cafeteria,Recreation Zone,23587,30.0,4.5,0,Wednesday,July
+2026-07-30,Block A,Hostel Zone,71562,28.7,15.6,0,Thursday,July
+2026-07-30,Block B,Hostel Zone,189673,31.2,4.2,1,Thursday,July
+2026-07-30,Block C,Hostel Zone,59963,32.4,7.3,0,Thursday,July
+2026-07-30,Block D,Hostel Zone,70728,37.3,17.2,0,Thursday,July
+2026-07-30,Admin Block,Admin Zone,16990,37.4,4.5,0,Thursday,July
+2026-07-30,Library,Academic Zone,11364,30.1,37.1,0,Thursday,July
+2026-07-30,Cafeteria,Recreation Zone,24219,31.9,6.1,0,Thursday,July
+2026-07-31,Block A,Hostel Zone,83284,35.8,15.2,0,Friday,July
+2026-07-31,Block B,Hostel Zone,64863,29.9,8.1,0,Friday,July
+2026-07-31,Block C,Hostel Zone,62185,26.0,8.6,0,Friday,July
+2026-07-31,Block D,Hostel Zone,69142,28.3,9.8,0,Friday,July
+2026-07-31,Admin Block,Admin Zone,15780,27.8,10.8,0,Friday,July
+2026-07-31,Library,Academic Zone,13731,34.6,7.3,0,Friday,July
+2026-07-31,Cafeteria,Recreation Zone,22501,26.3,17.4,0,Friday,July
+2026-08-01,Block A,Hostel Zone,42706,35.3,15.1,0,Saturday,August
+2026-08-01,Block B,Hostel Zone,41385,36.5,16.2,0,Saturday,August
+2026-08-01,Block C,Hostel Zone,44257,35.4,5.3,0,Saturday,August
+2026-08-01,Block D,Hostel Zone,43789,27.3,37.9,0,Saturday,August
+2026-08-01,Admin Block,Admin Zone,11688,31.5,32.3,0,Saturday,August
+2026-08-01,Library,Academic Zone,6603,38.9,15.2,0,Saturday,August
+2026-08-01,Cafeteria,Recreation Zone,14589,34.6,21.4,0,Saturday,August
+2026-08-02,Block A,Hostel Zone,41626,33.7,5.5,0,Sunday,August
+2026-08-02,Block B,Hostel Zone,52884,33.2,18.7,0,Sunday,August
+2026-08-02,Block C,Hostel Zone,42287,38.0,10.6,0,Sunday,August
+2026-08-02,Block D,Hostel Zone,44178,32.7,10.9,0,Sunday,August
+2026-08-02,Admin Block,Admin Zone,11892,28.3,32.6,0,Sunday,August
+2026-08-02,Library,Academic Zone,6984,32.9,11.5,0,Sunday,August
+2026-08-02,Cafeteria,Recreation Zone,14576,29.3,8.8,0,Sunday,August
+2026-08-03,Block A,Hostel Zone,74708,31.7,16.8,0,Monday,August
+2026-08-03,Block B,Hostel Zone,76667,34.4,18.5,0,Monday,August
+2026-08-03,Block C,Hostel Zone,64107,32.2,15.2,0,Monday,August
+2026-08-03,Block D,Hostel Zone,61853,33.5,17.0,0,Monday,August
+2026-08-03,Admin Block,Admin Zone,15641,34.6,18.9,0,Monday,August
+2026-08-03,Library,Academic Zone,12418,27.8,24.8,0,Monday,August
+2026-08-03,Cafeteria,Recreation Zone,20311,30.3,3.6,0,Monday,August
+2026-08-04,Block A,Hostel Zone,58809,39.9,30.9,0,Tuesday,August
+2026-08-04,Block B,Hostel Zone,67124,30.4,33.4,0,Tuesday,August
+2026-08-04,Block C,Hostel Zone,67385,32.1,12.4,0,Tuesday,August
+2026-08-04,Block D,Hostel Zone,67601,31.4,17.3,0,Tuesday,August
+2026-08-04,Admin Block,Admin Zone,17507,33.0,23.8,0,Tuesday,August
+2026-08-04,Library,Academic Zone,12293,36.3,28.6,0,Tuesday,August
+2026-08-04,Cafeteria,Recreation Zone,21912,33.6,7.4,0,Tuesday,August
+2026-08-05,Block A,Hostel Zone,65107,37.4,9.8,0,Wednesday,August
+2026-08-05,Block B,Hostel Zone,70564,34.6,5.5,0,Wednesday,August
+2026-08-05,Block C,Hostel Zone,63196,34.4,22.4,0,Wednesday,August
+2026-08-05,Block D,Hostel Zone,62306,28.9,6.8,0,Wednesday,August
+2026-08-05,Admin Block,Admin Zone,17890,32.7,26.7,0,Wednesday,August
+2026-08-05,Library,Academic Zone,10674,35.0,3.5,0,Wednesday,August
+2026-08-05,Cafeteria,Recreation Zone,17539,36.0,30.4,0,Wednesday,August
+2026-08-06,Block A,Hostel Zone,68354,34.1,2.6,0,Thursday,August
+2026-08-06,Block B,Hostel Zone,70549,32.9,42.4,0,Thursday,August
+2026-08-06,Block C,Hostel Zone,66515,34.4,6.8,0,Thursday,August
+2026-08-06,Block D,Hostel Zone,66906,31.3,35.1,0,Thursday,August
+2026-08-06,Admin Block,Admin Zone,15319,35.9,36.1,0,Thursday,August
+2026-08-06,Library,Academic Zone,10810,33.7,23.3,0,Thursday,August
+2026-08-06,Cafeteria,Recreation Zone,20441,31.3,8.9,0,Thursday,August
+2026-08-07,Block A,Hostel Zone,56305,33.0,16.2,0,Friday,August
+2026-08-07,Block B,Hostel Zone,75252,29.3,34.8,0,Friday,August
+2026-08-07,Block C,Hostel Zone,63149,41.8,7.2,0,Friday,August
+2026-08-07,Block D,Hostel Zone,60008,33.0,14.1,0,Friday,August
+2026-08-07,Admin Block,Admin Zone,14893,36.3,1.9,0,Friday,August
+2026-08-07,Library,Academic Zone,10908,30.7,17.6,0,Friday,August
+2026-08-07,Cafeteria,Recreation Zone,17603,30.9,32.2,0,Friday,August
+2026-08-08,Block A,Hostel Zone,42629,31.1,25.4,0,Saturday,August
+2026-08-08,Block B,Hostel Zone,45801,28.7,38.0,0,Saturday,August
+2026-08-08,Block C,Hostel Zone,35772,34.2,37.3,0,Saturday,August
+2026-08-08,Block D,Hostel Zone,47692,28.3,11.3,0,Saturday,August
+2026-08-08,Admin Block,Admin Zone,11496,32.1,38.2,0,Saturday,August
+2026-08-08,Library,Academic Zone,6387,32.9,19.6,0,Saturday,August
+2026-08-08,Cafeteria,Recreation Zone,14325,37.8,8.2,0,Saturday,August
+2026-08-09,Block A,Hostel Zone,46941,36.5,11.4,0,Sunday,August
+2026-08-09,Block B,Hostel Zone,39145,31.1,11.2,0,Sunday,August
+2026-08-09,Block C,Hostel Zone,38296,39.6,51.4,0,Sunday,August
+2026-08-09,Block D,Hostel Zone,44670,32.2,12.8,0,Sunday,August
+2026-08-09,Admin Block,Admin Zone,12088,28.0,34.7,0,Sunday,August
+2026-08-09,Library,Academic Zone,6792,34.6,11.6,0,Sunday,August
+2026-08-09,Cafeteria,Recreation Zone,14023,34.0,1.6,0,Sunday,August
+2026-08-10,Block A,Hostel Zone,77483,34.1,16.0,0,Monday,August
+2026-08-10,Block B,Hostel Zone,82135,32.4,21.6,0,Monday,August
+2026-08-10,Block C,Hostel Zone,62950,34.1,16.3,0,Monday,August
+2026-08-10,Block D,Hostel Zone,68386,38.7,19.2,0,Monday,August
+2026-08-10,Admin Block,Admin Zone,18533,40.8,11.4,0,Monday,August
+2026-08-10,Library,Academic Zone,12576,33.9,5.6,0,Monday,August
+2026-08-10,Cafeteria,Recreation Zone,17820,33.0,91.4,0,Monday,August
+2026-08-11,Block A,Hostel Zone,59432,33.6,17.6,0,Tuesday,August
+2026-08-11,Block B,Hostel Zone,74109,34.4,26.1,0,Tuesday,August
+2026-08-11,Block C,Hostel Zone,65531,33.3,12.7,0,Tuesday,August
+2026-08-11,Block D,Hostel Zone,69121,35.7,10.8,0,Tuesday,August
+2026-08-11,Admin Block,Admin Zone,16311,32.6,25.6,0,Tuesday,August
+2026-08-11,Library,Academic Zone,19326,30.9,13.0,1,Tuesday,August
+2026-08-11,Cafeteria,Recreation Zone,22450,36.6,21.4,0,Tuesday,August
+2026-08-12,Block A,Hostel Zone,68366,33.9,18.3,0,Wednesday,August
+2026-08-12,Block B,Hostel Zone,69912,35.6,26.5,0,Wednesday,August
+2026-08-12,Block C,Hostel Zone,63271,36.7,24.8,0,Wednesday,August
+2026-08-12,Block D,Hostel Zone,66824,31.7,21.4,0,Wednesday,August
+2026-08-12,Admin Block,Admin Zone,13903,36.3,66.9,0,Wednesday,August
+2026-08-12,Library,Academic Zone,11839,33.0,13.5,0,Wednesday,August
+2026-08-12,Cafeteria,Recreation Zone,23539,38.7,11.9,0,Wednesday,August
+2026-08-13,Block A,Hostel Zone,76663,33.5,32.7,0,Thursday,August
+2026-08-13,Block B,Hostel Zone,76419,33.6,28.4,0,Thursday,August
+2026-08-13,Block C,Hostel Zone,60301,30.7,4.4,0,Thursday,August
+2026-08-13,Block D,Hostel Zone,71428,30.2,8.0,0,Thursday,August
+2026-08-13,Admin Block,Admin Zone,15955,34.7,53.7,0,Thursday,August
+2026-08-13,Library,Academic Zone,11105,33.5,14.4,0,Thursday,August
+2026-08-13,Cafeteria,Recreation Zone,19954,31.4,56.6,0,Thursday,August
+2026-08-14,Block A,Hostel Zone,67718,29.9,6.5,0,Friday,August
+2026-08-14,Block B,Hostel Zone,73957,33.3,25.6,0,Friday,August
+2026-08-14,Block C,Hostel Zone,70947,33.9,3.5,0,Friday,August
+2026-08-14,Block D,Hostel Zone,80437,37.8,12.5,0,Friday,August
+2026-08-14,Admin Block,Admin Zone,15945,38.7,16.0,0,Friday,August
+2026-08-14,Library,Academic Zone,11792,30.9,4.6,0,Friday,August
+2026-08-14,Cafeteria,Recreation Zone,19345,36.2,1.6,0,Friday,August
+2026-08-15,Block A,Hostel Zone,42383,37.2,7.2,0,Saturday,August
+2026-08-15,Block B,Hostel Zone,49474,29.8,12.3,0,Saturday,August
+2026-08-15,Block C,Hostel Zone,39748,35.7,23.9,0,Saturday,August
+2026-08-15,Block D,Hostel Zone,48481,31.3,41.5,0,Saturday,August
+2026-08-15,Admin Block,Admin Zone,11224,33.8,53.7,0,Saturday,August
+2026-08-15,Library,Academic Zone,7098,34.8,29.1,0,Saturday,August
+2026-08-15,Cafeteria,Recreation Zone,13455,31.3,22.9,0,Saturday,August
+2026-08-16,Block A,Hostel Zone,45773,34.3,53.3,0,Sunday,August
+2026-08-16,Block B,Hostel Zone,42011,32.6,23.0,0,Sunday,August
+2026-08-16,Block C,Hostel Zone,47085,34.9,14.3,0,Sunday,August
+2026-08-16,Block D,Hostel Zone,44416,32.5,25.6,0,Sunday,August
+2026-08-16,Admin Block,Admin Zone,11633,28.5,32.0,0,Sunday,August
+2026-08-16,Library,Academic Zone,7417,40.5,8.0,0,Sunday,August
+2026-08-16,Cafeteria,Recreation Zone,28744,32.4,15.4,1,Sunday,August
+2026-08-17,Block A,Hostel Zone,68962,28.4,11.9,0,Monday,August
+2026-08-17,Block B,Hostel Zone,63787,33.8,3.9,0,Monday,August
+2026-08-17,Block C,Hostel Zone,69381,36.0,8.0,0,Monday,August
+2026-08-17,Block D,Hostel Zone,67306,39.0,60.2,0,Monday,August
+2026-08-17,Admin Block,Admin Zone,18290,31.5,29.9,0,Monday,August
+2026-08-17,Library,Academic Zone,12133,32.9,23.9,0,Monday,August
+2026-08-17,Cafeteria,Recreation Zone,19177,36.8,6.7,0,Monday,August
+2026-08-18,Block A,Hostel Zone,62972,29.6,6.6,0,Tuesday,August
+2026-08-18,Block B,Hostel Zone,77033,30.6,20.3,0,Tuesday,August
+2026-08-18,Block C,Hostel Zone,61340,35.5,20.4,0,Tuesday,August
+2026-08-18,Block D,Hostel Zone,72153,37.8,14.9,0,Tuesday,August
+2026-08-18,Admin Block,Admin Zone,13585,34.2,25.7,0,Tuesday,August
+2026-08-18,Library,Academic Zone,11348,32.6,24.3,0,Tuesday,August
+2026-08-18,Cafeteria,Recreation Zone,20141,31.8,15.8,0,Tuesday,August
+2026-08-19,Block A,Hostel Zone,54171,35.1,5.9,0,Wednesday,August
+2026-08-19,Block B,Hostel Zone,54762,33.1,16.6,0,Wednesday,August
+2026-08-19,Block C,Hostel Zone,55896,33.1,24.8,0,Wednesday,August
+2026-08-19,Block D,Hostel Zone,68731,31.3,17.6,0,Wednesday,August
+2026-08-19,Admin Block,Admin Zone,14945,36.4,41.0,0,Wednesday,August
+2026-08-19,Library,Academic Zone,12615,32.9,3.0,0,Wednesday,August
+2026-08-19,Cafeteria,Recreation Zone,19119,32.0,18.4,0,Wednesday,August
+2026-08-20,Block A,Hostel Zone,71624,32.5,55.0,0,Thursday,August
+2026-08-20,Block B,Hostel Zone,65352,29.9,20.5,0,Thursday,August
+2026-08-20,Block C,Hostel Zone,61289,27.3,15.2,0,Thursday,August
+2026-08-20,Block D,Hostel Zone,64821,37.8,37.4,0,Thursday,August
+2026-08-20,Admin Block,Admin Zone,16576,30.7,34.6,0,Thursday,August
+2026-08-20,Library,Academic Zone,11313,26.9,24.6,0,Thursday,August
+2026-08-20,Cafeteria,Recreation Zone,22116,34.5,11.6,0,Thursday,August
+2026-08-21,Block A,Hostel Zone,72562,33.2,10.0,0,Friday,August
+2026-08-21,Block B,Hostel Zone,75855,36.3,8.4,0,Friday,August
+2026-08-21,Block C,Hostel Zone,58932,32.1,22.2,0,Friday,August
+2026-08-21,Block D,Hostel Zone,73985,31.9,20.6,0,Friday,August
+2026-08-21,Admin Block,Admin Zone,15779,33.5,0.9,0,Friday,August
+2026-08-21,Library,Academic Zone,22332,29.4,34.7,1,Friday,August
+2026-08-21,Cafeteria,Recreation Zone,21805,35.6,7.6,0,Friday,August
+2026-08-22,Block A,Hostel Zone,45470,33.0,20.8,0,Saturday,August
+2026-08-22,Block B,Hostel Zone,47557,31.4,14.4,0,Saturday,August
+2026-08-22,Block C,Hostel Zone,40038,38.0,30.9,0,Saturday,August
+2026-08-22,Block D,Hostel Zone,45999,35.1,7.4,0,Saturday,August
+2026-08-22,Admin Block,Admin Zone,9942,36.5,11.5,0,Saturday,August
+2026-08-22,Library,Academic Zone,7331,31.2,11.3,0,Saturday,August
+2026-08-22,Cafeteria,Recreation Zone,15012,35.7,4.5,0,Saturday,August
+2026-08-23,Block A,Hostel Zone,45552,31.3,8.3,0,Sunday,August
+2026-08-23,Block B,Hostel Zone,49350,33.9,33.0,0,Sunday,August
+2026-08-23,Block C,Hostel Zone,43986,36.9,7.4,0,Sunday,August
+2026-08-23,Block D,Hostel Zone,47648,30.8,50.2,0,Sunday,August
+2026-08-23,Admin Block,Admin Zone,10671,38.0,15.7,0,Sunday,August
+2026-08-23,Library,Academic Zone,6907,34.3,37.0,0,Sunday,August
+2026-08-23,Cafeteria,Recreation Zone,12699,30.5,5.2,0,Sunday,August
+2026-08-24,Block A,Hostel Zone,58171,34.5,38.6,0,Monday,August
+2026-08-24,Block B,Hostel Zone,71180,36.3,24.6,0,Monday,August
+2026-08-24,Block C,Hostel Zone,53065,31.6,19.9,0,Monday,August
+2026-08-24,Block D,Hostel Zone,66051,33.0,8.0,0,Monday,August
+2026-08-24,Admin Block,Admin Zone,15854,39.1,12.0,0,Monday,August
+2026-08-24,Library,Academic Zone,10599,35.3,13.2,0,Monday,August
+2026-08-24,Cafeteria,Recreation Zone,23437,38.5,29.2,0,Monday,August
+2026-08-25,Block A,Hostel Zone,109452,29.4,21.5,1,Tuesday,August
+2026-08-25,Block B,Hostel Zone,75170,31.7,30.9,0,Tuesday,August
+2026-08-25,Block C,Hostel Zone,62487,35.3,43.3,0,Tuesday,August
+2026-08-25,Block D,Hostel Zone,67361,34.7,4.4,0,Tuesday,August
+2026-08-25,Admin Block,Admin Zone,17325,30.0,8.4,0,Tuesday,August
+2026-08-25,Library,Academic Zone,12081,33.1,40.1,0,Tuesday,August
+2026-08-25,Cafeteria,Recreation Zone,18139,37.6,20.5,0,Tuesday,August
+2026-08-26,Block A,Hostel Zone,67122,32.4,15.6,0,Wednesday,August
+2026-08-26,Block B,Hostel Zone,68439,33.7,22.7,0,Wednesday,August
+2026-08-26,Block C,Hostel Zone,67083,33.2,11.7,0,Wednesday,August
+2026-08-26,Block D,Hostel Zone,66096,35.7,27.8,0,Wednesday,August
+2026-08-26,Admin Block,Admin Zone,16589,34.6,10.0,0,Wednesday,August
+2026-08-26,Library,Academic Zone,11662,36.1,44.7,0,Wednesday,August
+2026-08-26,Cafeteria,Recreation Zone,18370,29.8,27.4,0,Wednesday,August
+2026-08-27,Block A,Hostel Zone,72249,33.3,40.6,0,Thursday,August
+2026-08-27,Block B,Hostel Zone,74287,37.2,27.7,0,Thursday,August
+2026-08-27,Block C,Hostel Zone,58851,31.7,20.1,0,Thursday,August
+2026-08-27,Block D,Hostel Zone,65531,36.7,16.3,0,Thursday,August
+2026-08-27,Admin Block,Admin Zone,17982,34.3,17.0,0,Thursday,August
+2026-08-27,Library,Academic Zone,10339,33.9,34.8,0,Thursday,August
+2026-08-27,Cafeteria,Recreation Zone,39986,36.5,9.8,1,Thursday,August
+2026-08-28,Block A,Hostel Zone,61813,35.0,4.4,0,Friday,August
+2026-08-28,Block B,Hostel Zone,69476,32.0,1.5,0,Friday,August
+2026-08-28,Block C,Hostel Zone,71071,35.8,19.7,0,Friday,August
+2026-08-28,Block D,Hostel Zone,64488,31.0,30.5,0,Friday,August
+2026-08-28,Admin Block,Admin Zone,17793,36.5,22.5,0,Friday,August
+2026-08-28,Library,Academic Zone,10988,33.0,27.6,0,Friday,August
+2026-08-28,Cafeteria,Recreation Zone,20890,30.7,12.5,0,Friday,August
+2026-08-29,Block A,Hostel Zone,42882,35.6,11.3,0,Saturday,August
+2026-08-29,Block B,Hostel Zone,49347,40.6,9.0,0,Saturday,August
+2026-08-29,Block C,Hostel Zone,41214,34.7,23.0,0,Saturday,August
+2026-08-29,Block D,Hostel Zone,40522,36.6,5.1,0,Saturday,August
+2026-08-29,Admin Block,Admin Zone,10258,39.8,17.4,0,Saturday,August
+2026-08-29,Library,Academic Zone,6956,32.1,28.4,0,Saturday,August
+2026-08-29,Cafeteria,Recreation Zone,14695,38.2,51.6,0,Saturday,August
+2026-08-30,Block A,Hostel Zone,42427,42.6,9.4,0,Sunday,August
+2026-08-30,Block B,Hostel Zone,48148,29.7,12.8,0,Sunday,August
+2026-08-30,Block C,Hostel Zone,37527,37.6,23.7,0,Sunday,August
+2026-08-30,Block D,Hostel Zone,44113,30.1,6.3,0,Sunday,August
+2026-08-30,Admin Block,Admin Zone,10857,37.6,37.7,0,Sunday,August
+2026-08-30,Library,Academic Zone,7289,29.6,10.4,0,Sunday,August
+2026-08-30,Cafeteria,Recreation Zone,12696,32.1,33.2,0,Sunday,August
+2026-08-31,Block A,Hostel Zone,65863,36.0,27.0,0,Monday,August
+2026-08-31,Block B,Hostel Zone,72097,34.2,11.8,0,Monday,August
+2026-08-31,Block C,Hostel Zone,63491,32.8,10.7,0,Monday,August
+2026-08-31,Block D,Hostel Zone,69247,36.0,4.8,0,Monday,August
+2026-08-31,Admin Block,Admin Zone,18268,30.9,17.3,0,Monday,August
+2026-08-31,Library,Academic Zone,10701,32.2,24.1,0,Monday,August
+2026-08-31,Cafeteria,Recreation Zone,48282,36.4,14.5,1,Monday,August
+2026-09-01,Block A,Hostel Zone,47377,42.3,18.7,0,Tuesday,September
+2026-09-01,Block B,Hostel Zone,68701,35.3,11.1,0,Tuesday,September
+2026-09-01,Block C,Hostel Zone,57017,32.2,17.0,0,Tuesday,September
+2026-09-01,Block D,Hostel Zone,66583,36.5,36.4,0,Tuesday,September
+2026-09-01,Admin Block,Admin Zone,14089,30.8,17.5,0,Tuesday,September
+2026-09-01,Library,Academic Zone,9849,33.5,16.6,0,Tuesday,September
+2026-09-01,Cafeteria,Recreation Zone,17092,39.9,9.1,0,Tuesday,September
+2026-09-02,Block A,Hostel Zone,54388,35.9,21.0,0,Wednesday,September
+2026-09-02,Block B,Hostel Zone,69021,36.9,19.1,0,Wednesday,September
+2026-09-02,Block C,Hostel Zone,55398,32.8,8.0,0,Wednesday,September
+2026-09-02,Block D,Hostel Zone,54430,33.5,7.4,0,Wednesday,September
+2026-09-02,Admin Block,Admin Zone,14380,32.6,19.7,0,Wednesday,September
+2026-09-02,Library,Academic Zone,9849,36.7,16.3,0,Wednesday,September
+2026-09-02,Cafeteria,Recreation Zone,19915,36.8,4.8,0,Wednesday,September
+2026-09-03,Block A,Hostel Zone,59107,32.5,11.2,0,Thursday,September
+2026-09-03,Block B,Hostel Zone,61471,39.9,4.6,0,Thursday,September
+2026-09-03,Block C,Hostel Zone,55649,39.5,31.0,0,Thursday,September
+2026-09-03,Block D,Hostel Zone,57628,30.7,11.6,0,Thursday,September
+2026-09-03,Admin Block,Admin Zone,16843,37.9,28.4,0,Thursday,September
+2026-09-03,Library,Academic Zone,9449,34.9,1.4,0,Thursday,September
+2026-09-03,Cafeteria,Recreation Zone,16356,35.2,9.2,0,Thursday,September
+2026-09-04,Block A,Hostel Zone,54964,40.8,6.1,0,Friday,September
+2026-09-04,Block B,Hostel Zone,59601,41.0,44.1,0,Friday,September
+2026-09-04,Block C,Hostel Zone,49394,34.8,17.6,0,Friday,September
+2026-09-04,Block D,Hostel Zone,115005,37.8,32.2,1,Friday,September
+2026-09-04,Admin Block,Admin Zone,15309,31.1,17.8,0,Friday,September
+2026-09-04,Library,Academic Zone,8902,33.6,10.6,0,Friday,September
+2026-09-04,Cafeteria,Recreation Zone,18672,35.5,6.9,0,Friday,September
+2026-09-05,Block A,Hostel Zone,40086,38.8,7.7,0,Saturday,September
+2026-09-05,Block B,Hostel Zone,41095,35.1,12.4,0,Saturday,September
+2026-09-05,Block C,Hostel Zone,35041,36.7,18.7,0,Saturday,September
+2026-09-05,Block D,Hostel Zone,40326,39.0,32.7,0,Saturday,September
+2026-09-05,Admin Block,Admin Zone,9222,34.6,3.9,0,Saturday,September
+2026-09-05,Library,Academic Zone,6625,33.4,26.7,0,Saturday,September
+2026-09-05,Cafeteria,Recreation Zone,11859,38.2,16.7,0,Saturday,September
+2026-09-06,Block A,Hostel Zone,41944,38.5,16.2,0,Sunday,September
+2026-09-06,Block B,Hostel Zone,38893,28.5,7.5,0,Sunday,September
+2026-09-06,Block C,Hostel Zone,36687,37.5,11.5,0,Sunday,September
+2026-09-06,Block D,Hostel Zone,42533,37.0,14.3,0,Sunday,September
+2026-09-06,Admin Block,Admin Zone,8917,34.5,17.6,0,Sunday,September
+2026-09-06,Library,Academic Zone,5807,34.5,12.7,0,Sunday,September
+2026-09-06,Cafeteria,Recreation Zone,12850,37.6,7.2,0,Sunday,September
+2026-09-07,Block A,Hostel Zone,58887,34.5,20.6,0,Monday,September
+2026-09-07,Block B,Hostel Zone,70172,32.3,25.7,0,Monday,September
+2026-09-07,Block C,Hostel Zone,53018,30.6,35.0,0,Monday,September
+2026-09-07,Block D,Hostel Zone,58682,35.8,10.4,0,Monday,September
+2026-09-07,Admin Block,Admin Zone,13607,37.4,31.7,0,Monday,September
+2026-09-07,Library,Academic Zone,9304,36.3,8.6,0,Monday,September
+2026-09-07,Cafeteria,Recreation Zone,17267,26.6,2.7,0,Monday,September
+2026-09-08,Block A,Hostel Zone,71391,32.7,15.2,0,Tuesday,September
+2026-09-08,Block B,Hostel Zone,57243,34.3,11.3,0,Tuesday,September
+2026-09-08,Block C,Hostel Zone,60151,37.3,13.6,0,Tuesday,September
+2026-09-08,Block D,Hostel Zone,59268,35.0,17.4,0,Tuesday,September
+2026-09-08,Admin Block,Admin Zone,12872,37.0,32.1,0,Tuesday,September
+2026-09-08,Library,Academic Zone,9359,34.2,18.1,0,Tuesday,September
+2026-09-08,Cafeteria,Recreation Zone,19437,41.6,17.7,0,Tuesday,September
+2026-09-09,Block A,Hostel Zone,51625,34.9,12.0,0,Wednesday,September
+2026-09-09,Block B,Hostel Zone,59013,36.8,3.6,0,Wednesday,September
+2026-09-09,Block C,Hostel Zone,56978,33.6,8.4,0,Wednesday,September
+2026-09-09,Block D,Hostel Zone,54198,33.5,20.0,0,Wednesday,September
+2026-09-09,Admin Block,Admin Zone,12878,35.8,3.1,0,Wednesday,September
+2026-09-09,Library,Academic Zone,10343,37.8,11.2,0,Wednesday,September
+2026-09-09,Cafeteria,Recreation Zone,17632,35.7,11.7,0,Wednesday,September
+2026-09-10,Block A,Hostel Zone,67672,35.0,2.4,0,Thursday,September
+2026-09-10,Block B,Hostel Zone,67585,31.9,31.5,0,Thursday,September
+2026-09-10,Block C,Hostel Zone,50841,35.6,16.5,0,Thursday,September
+2026-09-10,Block D,Hostel Zone,51106,34.2,16.9,0,Thursday,September
+2026-09-10,Admin Block,Admin Zone,13939,33.8,6.4,0,Thursday,September
+2026-09-10,Library,Academic Zone,10499,33.4,35.7,0,Thursday,September
+2026-09-10,Cafeteria,Recreation Zone,18330,33.4,50.1,0,Thursday,September
+2026-09-11,Block A,Hostel Zone,57515,33.1,30.0,0,Friday,September
+2026-09-11,Block B,Hostel Zone,55972,30.6,34.4,0,Friday,September
+2026-09-11,Block C,Hostel Zone,56573,32.0,72.9,0,Friday,September
+2026-09-11,Block D,Hostel Zone,62476,32.4,36.0,0,Friday,September
+2026-09-11,Admin Block,Admin Zone,12648,28.4,6.8,0,Friday,September
+2026-09-11,Library,Academic Zone,10325,33.1,2.2,0,Friday,September
+2026-09-11,Cafeteria,Recreation Zone,21432,34.7,30.9,0,Friday,September
+2026-09-12,Block A,Hostel Zone,41556,34.4,33.9,0,Saturday,September
+2026-09-12,Block B,Hostel Zone,42297,39.4,29.9,0,Saturday,September
+2026-09-12,Block C,Hostel Zone,39150,30.7,55.5,0,Saturday,September
+2026-09-12,Block D,Hostel Zone,39611,32.4,20.0,0,Saturday,September
+2026-09-12,Admin Block,Admin Zone,8946,34.4,30.0,0,Saturday,September
+2026-09-12,Library,Academic Zone,6190,37.2,1.9,0,Saturday,September
+2026-09-12,Cafeteria,Recreation Zone,10729,35.2,48.7,0,Saturday,September
+2026-09-13,Block A,Hostel Zone,37083,37.4,14.7,0,Sunday,September
+2026-09-13,Block B,Hostel Zone,40006,34.4,36.2,0,Sunday,September
+2026-09-13,Block C,Hostel Zone,41986,38.7,7.0,0,Sunday,September
+2026-09-13,Block D,Hostel Zone,34957,35.4,14.6,0,Sunday,September
+2026-09-13,Admin Block,Admin Zone,9589,35.8,1.9,0,Sunday,September
+2026-09-13,Library,Academic Zone,6570,33.9,21.1,0,Sunday,September
+2026-09-13,Cafeteria,Recreation Zone,10784,40.3,22.8,0,Sunday,September
+2026-09-14,Block A,Hostel Zone,61150,34.8,7.6,0,Monday,September
+2026-09-14,Block B,Hostel Zone,64219,31.7,4.8,0,Monday,September
+2026-09-14,Block C,Hostel Zone,53275,36.7,22.1,0,Monday,September
+2026-09-14,Block D,Hostel Zone,56027,36.2,20.1,0,Monday,September
+2026-09-14,Admin Block,Admin Zone,11588,34.4,14.1,0,Monday,September
+2026-09-14,Library,Academic Zone,10235,30.5,18.0,0,Monday,September
+2026-09-14,Cafeteria,Recreation Zone,18441,35.4,4.0,0,Monday,September
+2026-09-15,Block A,Hostel Zone,53784,37.2,22.3,0,Tuesday,September
+2026-09-15,Block B,Hostel Zone,60626,32.5,31.1,0,Tuesday,September
+2026-09-15,Block C,Hostel Zone,54931,37.9,19.9,0,Tuesday,September
+2026-09-15,Block D,Hostel Zone,64280,39.1,1.0,0,Tuesday,September
+2026-09-15,Admin Block,Admin Zone,13068,42.6,14.8,0,Tuesday,September
+2026-09-15,Library,Academic Zone,10373,33.3,20.8,0,Tuesday,September
+2026-09-15,Cafeteria,Recreation Zone,17079,33.1,20.7,0,Tuesday,September
+2026-09-16,Block A,Hostel Zone,61949,36.8,16.3,0,Wednesday,September
+2026-09-16,Block B,Hostel Zone,59075,40.0,8.6,0,Wednesday,September
+2026-09-16,Block C,Hostel Zone,54852,34.1,18.7,0,Wednesday,September
+2026-09-16,Block D,Hostel Zone,59809,34.5,16.4,0,Wednesday,September
+2026-09-16,Admin Block,Admin Zone,14988,34.3,4.8,0,Wednesday,September
+2026-09-16,Library,Academic Zone,10959,38.7,8.4,0,Wednesday,September
+2026-09-16,Cafeteria,Recreation Zone,18479,32.3,9.8,0,Wednesday,September
+2026-09-17,Block A,Hostel Zone,61188,31.6,33.3,0,Thursday,September
+2026-09-17,Block B,Hostel Zone,61314,32.7,1.4,0,Thursday,September
+2026-09-17,Block C,Hostel Zone,49029,39.1,25.7,0,Thursday,September
+2026-09-17,Block D,Hostel Zone,65393,34.8,45.4,0,Thursday,September
+2026-09-17,Admin Block,Admin Zone,13863,33.7,18.7,0,Thursday,September
+2026-09-17,Library,Academic Zone,8408,34.0,16.3,0,Thursday,September
+2026-09-17,Cafeteria,Recreation Zone,19640,41.3,22.7,0,Thursday,September
+2026-09-18,Block A,Hostel Zone,53063,38.8,7.0,0,Friday,September
+2026-09-18,Block B,Hostel Zone,69186,32.8,24.6,0,Friday,September
+2026-09-18,Block C,Hostel Zone,60539,42.5,11.5,0,Friday,September
+2026-09-18,Block D,Hostel Zone,56015,40.3,34.2,0,Friday,September
+2026-09-18,Admin Block,Admin Zone,13434,35.0,25.4,0,Friday,September
+2026-09-18,Library,Academic Zone,10394,37.9,7.3,0,Friday,September
+2026-09-18,Cafeteria,Recreation Zone,19855,34.3,19.4,0,Friday,September
+2026-09-19,Block A,Hostel Zone,35334,29.8,12.8,0,Saturday,September
+2026-09-19,Block B,Hostel Zone,41492,32.4,4.1,0,Saturday,September
+2026-09-19,Block C,Hostel Zone,41848,38.4,26.3,0,Saturday,September
+2026-09-19,Block D,Hostel Zone,44524,34.0,4.5,0,Saturday,September
+2026-09-19,Admin Block,Admin Zone,9900,32.8,17.7,0,Saturday,September
+2026-09-19,Library,Academic Zone,7004,31.0,8.8,0,Saturday,September
+2026-09-19,Cafeteria,Recreation Zone,12073,36.4,12.5,0,Saturday,September
+2026-09-20,Block A,Hostel Zone,45000,33.8,27.6,0,Sunday,September
+2026-09-20,Block B,Hostel Zone,41671,38.3,1.0,0,Sunday,September
+2026-09-20,Block C,Hostel Zone,36854,36.3,2.9,0,Sunday,September
+2026-09-20,Block D,Hostel Zone,39984,34.1,14.9,0,Sunday,September
+2026-09-20,Admin Block,Admin Zone,9912,28.2,22.9,0,Sunday,September
+2026-09-20,Library,Academic Zone,7045,40.4,13.5,0,Sunday,September
+2026-09-20,Cafeteria,Recreation Zone,12535,32.9,14.1,0,Sunday,September
+2026-09-21,Block A,Hostel Zone,59173,42.5,15.5,0,Monday,September
+2026-09-21,Block B,Hostel Zone,60230,33.7,34.2,0,Monday,September
+2026-09-21,Block C,Hostel Zone,53399,34.1,77.3,0,Monday,September
+2026-09-21,Block D,Hostel Zone,60771,30.7,51.1,0,Monday,September
+2026-09-21,Admin Block,Admin Zone,15721,34.1,19.7,0,Monday,September
+2026-09-21,Library,Academic Zone,9472,35.0,7.0,0,Monday,September
+2026-09-21,Cafeteria,Recreation Zone,19370,32.0,8.4,0,Monday,September
+2026-09-22,Block A,Hostel Zone,60792,38.1,19.5,0,Tuesday,September
+2026-09-22,Block B,Hostel Zone,55178,33.4,4.7,0,Tuesday,September
+2026-09-22,Block C,Hostel Zone,53926,39.5,36.3,0,Tuesday,September
+2026-09-22,Block D,Hostel Zone,53453,31.2,24.1,0,Tuesday,September
+2026-09-22,Admin Block,Admin Zone,13690,39.9,8.6,0,Tuesday,September
+2026-09-22,Library,Academic Zone,9260,37.5,14.0,0,Tuesday,September
+2026-09-22,Cafeteria,Recreation Zone,18356,31.6,11.6,0,Tuesday,September
+2026-09-23,Block A,Hostel Zone,51892,38.6,30.0,0,Wednesday,September
+2026-09-23,Block B,Hostel Zone,61535,35.4,51.8,0,Wednesday,September
+2026-09-23,Block C,Hostel Zone,58027,30.9,6.9,0,Wednesday,September
+2026-09-23,Block D,Hostel Zone,60611,37.4,34.3,0,Wednesday,September
+2026-09-23,Admin Block,Admin Zone,14799,36.9,14.2,0,Wednesday,September
+2026-09-23,Library,Academic Zone,9925,30.2,20.3,0,Wednesday,September
+2026-09-23,Cafeteria,Recreation Zone,16491,35.4,23.5,0,Wednesday,September
+2026-09-24,Block A,Hostel Zone,52434,39.1,19.8,0,Thursday,September
+2026-09-24,Block B,Hostel Zone,61625,35.7,24.9,0,Thursday,September
+2026-09-24,Block C,Hostel Zone,57542,34.6,5.8,0,Thursday,September
+2026-09-24,Block D,Hostel Zone,111317,34.6,30.2,1,Thursday,September
+2026-09-24,Admin Block,Admin Zone,15147,35.7,14.9,0,Thursday,September
+2026-09-24,Library,Academic Zone,10940,37.0,7.7,0,Thursday,September
+2026-09-24,Cafeteria,Recreation Zone,20039,30.8,2.9,0,Thursday,September
+2026-09-25,Block A,Hostel Zone,62704,36.7,35.1,0,Friday,September
+2026-09-25,Block B,Hostel Zone,52957,37.9,29.7,0,Friday,September
+2026-09-25,Block C,Hostel Zone,56426,36.0,18.2,0,Friday,September
+2026-09-25,Block D,Hostel Zone,48924,34.3,27.9,0,Friday,September
+2026-09-25,Admin Block,Admin Zone,14737,29.4,9.6,0,Friday,September
+2026-09-25,Library,Academic Zone,9294,31.8,3.6,0,Friday,September
+2026-09-25,Cafeteria,Recreation Zone,16918,39.6,2.8,0,Friday,September
+2026-09-26,Block A,Hostel Zone,44857,33.9,1.8,0,Saturday,September
+2026-09-26,Block B,Hostel Zone,43676,36.6,21.4,0,Saturday,September
+2026-09-26,Block C,Hostel Zone,38184,35.5,13.9,0,Saturday,September
+2026-09-26,Block D,Hostel Zone,42246,31.1,54.0,0,Saturday,September
+2026-09-26,Admin Block,Admin Zone,8238,39.9,19.2,0,Saturday,September
+2026-09-26,Library,Academic Zone,5997,37.0,28.8,0,Saturday,September
+2026-09-26,Cafeteria,Recreation Zone,12494,36.2,24.5,0,Saturday,September
+2026-09-27,Block A,Hostel Zone,42036,31.5,11.1,0,Sunday,September
+2026-09-27,Block B,Hostel Zone,37929,33.9,58.9,0,Sunday,September
+2026-09-27,Block C,Hostel Zone,36986,34.2,37.3,0,Sunday,September
+2026-09-27,Block D,Hostel Zone,38251,36.6,6.6,0,Sunday,September
+2026-09-27,Admin Block,Admin Zone,8973,31.5,8.7,0,Sunday,September
+2026-09-27,Library,Academic Zone,6988,34.8,4.0,0,Sunday,September
+2026-09-27,Cafeteria,Recreation Zone,12468,37.3,21.8,0,Sunday,September
+2026-09-28,Block A,Hostel Zone,58329,35.1,18.4,0,Monday,September
+2026-09-28,Block B,Hostel Zone,63573,35.8,30.5,0,Monday,September
+2026-09-28,Block C,Hostel Zone,49773,37.8,6.2,0,Monday,September
+2026-09-28,Block D,Hostel Zone,60380,33.9,10.0,0,Monday,September
+2026-09-28,Admin Block,Admin Zone,14237,28.8,10.6,0,Monday,September
+2026-09-28,Library,Academic Zone,8563,32.9,27.8,0,Monday,September
+2026-09-28,Cafeteria,Recreation Zone,16543,34.0,12.6,0,Monday,September
+2026-09-29,Block A,Hostel Zone,58160,40.6,8.7,0,Tuesday,September
+2026-09-29,Block B,Hostel Zone,57679,34.7,19.5,0,Tuesday,September
+2026-09-29,Block C,Hostel Zone,55786,35.9,18.5,0,Tuesday,September
+2026-09-29,Block D,Hostel Zone,65348,34.2,20.5,0,Tuesday,September
+2026-09-29,Admin Block,Admin Zone,13424,38.2,17.7,0,Tuesday,September
+2026-09-29,Library,Academic Zone,8885,32.7,13.4,0,Tuesday,September
+2026-09-29,Cafeteria,Recreation Zone,16237,28.5,12.3,0,Tuesday,September
+2026-09-30,Block A,Hostel Zone,58410,38.5,21.4,0,Wednesday,September
+2026-09-30,Block B,Hostel Zone,60571,34.1,24.5,0,Wednesday,September
+2026-09-30,Block C,Hostel Zone,59080,30.4,24.5,0,Wednesday,September
+2026-09-30,Block D,Hostel Zone,60232,34.7,19.6,0,Wednesday,September
+2026-09-30,Admin Block,Admin Zone,14552,32.4,11.8,0,Wednesday,September
+2026-09-30,Library,Academic Zone,9012,36.7,27.2,0,Wednesday,September
+2026-09-30,Cafeteria,Recreation Zone,16938,29.1,2.9,0,Wednesday,September
+2026-10-01,Block A,Hostel Zone,52195,30.4,14.1,0,Thursday,October
+2026-10-01,Block B,Hostel Zone,50632,29.4,6.3,0,Thursday,October
+2026-10-01,Block C,Hostel Zone,47396,32.6,17.8,0,Thursday,October
+2026-10-01,Block D,Hostel Zone,37419,36.0,6.4,0,Thursday,October
+2026-10-01,Admin Block,Admin Zone,14434,37.9,50.0,0,Thursday,October
+2026-10-01,Library,Academic Zone,7787,28.1,13.3,0,Thursday,October
+2026-10-01,Cafeteria,Recreation Zone,15526,34.4,5.1,0,Thursday,October
+2026-10-02,Block A,Hostel Zone,50070,32.9,5.3,0,Friday,October
+2026-10-02,Block B,Hostel Zone,50533,35.0,13.9,0,Friday,October
+2026-10-02,Block C,Hostel Zone,45895,32.8,25.0,0,Friday,October
+2026-10-02,Block D,Hostel Zone,43802,35.3,41.4,0,Friday,October
+2026-10-02,Admin Block,Admin Zone,13731,32.4,27.6,0,Friday,October
+2026-10-02,Library,Academic Zone,7564,35.5,13.0,0,Friday,October
+2026-10-02,Cafeteria,Recreation Zone,16201,31.7,14.4,0,Friday,October
+2026-10-03,Block A,Hostel Zone,34798,31.6,9.3,0,Saturday,October
+2026-10-03,Block B,Hostel Zone,36306,37.9,13.8,0,Saturday,October
+2026-10-03,Block C,Hostel Zone,26742,33.6,16.8,0,Saturday,October
+2026-10-03,Block D,Hostel Zone,34581,30.6,8.7,0,Saturday,October
+2026-10-03,Admin Block,Admin Zone,8683,35.2,1.9,0,Saturday,October
+2026-10-03,Library,Academic Zone,5883,33.3,19.5,0,Saturday,October
+2026-10-03,Cafeteria,Recreation Zone,11137,26.1,17.4,0,Saturday,October
+2026-10-04,Block A,Hostel Zone,30732,33.2,2.7,0,Sunday,October
+2026-10-04,Block B,Hostel Zone,32642,34.2,44.1,0,Sunday,October
+2026-10-04,Block C,Hostel Zone,34461,34.0,19.4,0,Sunday,October
+2026-10-04,Block D,Hostel Zone,31509,35.1,5.2,0,Sunday,October
+2026-10-04,Admin Block,Admin Zone,9028,33.2,26.9,0,Sunday,October
+2026-10-04,Library,Academic Zone,5437,34.9,2.3,0,Sunday,October
+2026-10-04,Cafeteria,Recreation Zone,9552,25.2,13.3,0,Sunday,October
+2026-10-05,Block A,Hostel Zone,52473,34.9,5.5,0,Monday,October
+2026-10-05,Block B,Hostel Zone,52728,33.6,2.6,0,Monday,October
+2026-10-05,Block C,Hostel Zone,44329,33.1,14.2,0,Monday,October
+2026-10-05,Block D,Hostel Zone,54981,30.1,20.9,0,Monday,October
+2026-10-05,Admin Block,Admin Zone,11468,31.0,23.5,0,Monday,October
+2026-10-05,Library,Academic Zone,7554,37.1,3.2,0,Monday,October
+2026-10-05,Cafeteria,Recreation Zone,17124,32.7,5.4,0,Monday,October
+2026-10-06,Block A,Hostel Zone,54549,32.0,13.9,0,Tuesday,October
+2026-10-06,Block B,Hostel Zone,53278,39.8,54.0,0,Tuesday,October
+2026-10-06,Block C,Hostel Zone,41215,31.6,25.6,0,Tuesday,October
+2026-10-06,Block D,Hostel Zone,48590,37.3,17.5,0,Tuesday,October
+2026-10-06,Admin Block,Admin Zone,11793,30.8,16.9,0,Tuesday,October
+2026-10-06,Library,Academic Zone,7834,35.9,38.8,0,Tuesday,October
+2026-10-06,Cafeteria,Recreation Zone,15831,31.4,42.3,0,Tuesday,October
+2026-10-07,Block A,Hostel Zone,50607,39.2,23.0,0,Wednesday,October
+2026-10-07,Block B,Hostel Zone,50872,30.8,15.7,0,Wednesday,October
+2026-10-07,Block C,Hostel Zone,50339,33.4,38.7,0,Wednesday,October
+2026-10-07,Block D,Hostel Zone,51296,25.5,24.0,0,Wednesday,October
+2026-10-07,Admin Block,Admin Zone,12303,35.4,30.9,0,Wednesday,October
+2026-10-07,Library,Academic Zone,8876,34.3,3.5,0,Wednesday,October
+2026-10-07,Cafeteria,Recreation Zone,14650,31.8,27.2,0,Wednesday,October
+2026-10-08,Block A,Hostel Zone,45256,33.6,10.9,0,Thursday,October
+2026-10-08,Block B,Hostel Zone,44925,32.1,21.1,0,Thursday,October
+2026-10-08,Block C,Hostel Zone,47837,35.4,12.3,0,Thursday,October
+2026-10-08,Block D,Hostel Zone,48129,37.9,34.8,0,Thursday,October
+2026-10-08,Admin Block,Admin Zone,11943,39.6,4.8,0,Thursday,October
+2026-10-08,Library,Academic Zone,7508,30.4,16.1,0,Thursday,October
+2026-10-08,Cafeteria,Recreation Zone,13888,38.4,36.1,0,Thursday,October
+2026-10-09,Block A,Hostel Zone,46871,33.4,11.3,0,Friday,October
+2026-10-09,Block B,Hostel Zone,48964,31.7,13.6,0,Friday,October
+2026-10-09,Block C,Hostel Zone,46672,28.5,20.8,0,Friday,October
+2026-10-09,Block D,Hostel Zone,41427,33.1,24.2,0,Friday,October
+2026-10-09,Admin Block,Admin Zone,12579,38.3,39.6,0,Friday,October
+2026-10-09,Library,Academic Zone,8271,33.6,45.4,0,Friday,October
+2026-10-09,Cafeteria,Recreation Zone,14717,30.3,2.7,0,Friday,October
+2026-10-10,Block A,Hostel Zone,31340,37.0,18.7,0,Saturday,October
+2026-10-10,Block B,Hostel Zone,37140,29.3,6.9,0,Saturday,October
+2026-10-10,Block C,Hostel Zone,32838,35.6,35.1,0,Saturday,October
+2026-10-10,Block D,Hostel Zone,34037,31.0,11.1,0,Saturday,October
+2026-10-10,Admin Block,Admin Zone,7702,30.6,3.6,0,Saturday,October
+2026-10-10,Library,Academic Zone,5519,28.4,15.8,0,Saturday,October
+2026-10-10,Cafeteria,Recreation Zone,9632,33.5,34.5,0,Saturday,October
+2026-10-11,Block A,Hostel Zone,29213,31.1,5.0,0,Sunday,October
+2026-10-11,Block B,Hostel Zone,31963,33.6,20.6,0,Sunday,October
+2026-10-11,Block C,Hostel Zone,28800,37.6,2.8,0,Sunday,October
+2026-10-11,Block D,Hostel Zone,34261,31.5,10.9,0,Sunday,October
+2026-10-11,Admin Block,Admin Zone,7302,31.2,5.7,0,Sunday,October
+2026-10-11,Library,Academic Zone,5431,37.0,2.0,0,Sunday,October
+2026-10-11,Cafeteria,Recreation Zone,11419,30.9,25.2,0,Sunday,October
+2026-10-12,Block A,Hostel Zone,38564,29.8,41.4,0,Monday,October
+2026-10-12,Block B,Hostel Zone,57340,31.7,2.2,0,Monday,October
+2026-10-12,Block C,Hostel Zone,47247,30.6,7.4,0,Monday,October
+2026-10-12,Block D,Hostel Zone,52787,34.9,20.8,0,Monday,October
+2026-10-12,Admin Block,Admin Zone,14141,33.9,3.3,0,Monday,October
+2026-10-12,Library,Academic Zone,8426,31.4,8.5,0,Monday,October
+2026-10-12,Cafeteria,Recreation Zone,14394,32.5,21.2,0,Monday,October
+2026-10-13,Block A,Hostel Zone,52277,36.6,29.8,0,Tuesday,October
+2026-10-13,Block B,Hostel Zone,45126,39.3,32.5,0,Tuesday,October
+2026-10-13,Block C,Hostel Zone,46596,32.8,6.4,0,Tuesday,October
+2026-10-13,Block D,Hostel Zone,44572,29.3,10.7,0,Tuesday,October
+2026-10-13,Admin Block,Admin Zone,11842,29.3,20.3,0,Tuesday,October
+2026-10-13,Library,Academic Zone,8490,33.0,39.5,0,Tuesday,October
+2026-10-13,Cafeteria,Recreation Zone,14921,35.2,13.4,0,Tuesday,October
+2026-10-14,Block A,Hostel Zone,48735,31.9,15.9,0,Wednesday,October
+2026-10-14,Block B,Hostel Zone,52108,37.9,21.5,0,Wednesday,October
+2026-10-14,Block C,Hostel Zone,50407,34.3,24.1,0,Wednesday,October
+2026-10-14,Block D,Hostel Zone,48653,30.6,17.7,0,Wednesday,October
+2026-10-14,Admin Block,Admin Zone,13392,31.9,11.3,0,Wednesday,October
+2026-10-14,Library,Academic Zone,8362,37.9,2.9,0,Wednesday,October
+2026-10-14,Cafeteria,Recreation Zone,14073,39.4,6.1,0,Wednesday,October
+2026-10-15,Block A,Hostel Zone,43062,33.5,12.3,0,Thursday,October
+2026-10-15,Block B,Hostel Zone,50167,38.6,6.6,0,Thursday,October
+2026-10-15,Block C,Hostel Zone,46912,30.5,11.4,0,Thursday,October
+2026-10-15,Block D,Hostel Zone,49268,38.7,8.6,0,Thursday,October
+2026-10-15,Admin Block,Admin Zone,12123,38.2,4.6,0,Thursday,October
+2026-10-15,Library,Academic Zone,8452,34.7,20.3,0,Thursday,October
+2026-10-15,Cafeteria,Recreation Zone,24534,32.5,3.2,1,Thursday,October
+2026-10-16,Block A,Hostel Zone,48148,30.1,11.0,0,Friday,October
+2026-10-16,Block B,Hostel Zone,48505,33.1,23.3,0,Friday,October
+2026-10-16,Block C,Hostel Zone,45401,30.0,7.1,0,Friday,October
+2026-10-16,Block D,Hostel Zone,53511,35.2,19.3,0,Friday,October
+2026-10-16,Admin Block,Admin Zone,12352,30.7,9.3,0,Friday,October
+2026-10-16,Library,Academic Zone,8837,33.3,28.4,0,Friday,October
+2026-10-16,Cafeteria,Recreation Zone,14284,38.3,4.0,0,Friday,October
+2026-10-17,Block A,Hostel Zone,32217,37.0,2.5,0,Saturday,October
+2026-10-17,Block B,Hostel Zone,65441,32.9,7.2,1,Saturday,October
+2026-10-17,Block C,Hostel Zone,29278,32.0,20.6,0,Saturday,October
+2026-10-17,Block D,Hostel Zone,32876,33.3,13.2,0,Saturday,October
+2026-10-17,Admin Block,Admin Zone,8670,33.8,13.8,0,Saturday,October
+2026-10-17,Library,Academic Zone,5906,35.9,11.9,0,Saturday,October
+2026-10-17,Cafeteria,Recreation Zone,10638,29.9,11.6,0,Saturday,October
+2026-10-18,Block A,Hostel Zone,33601,37.0,18.6,0,Sunday,October
+2026-10-18,Block B,Hostel Zone,32780,33.4,2.9,0,Sunday,October
+2026-10-18,Block C,Hostel Zone,36510,37.3,8.1,0,Sunday,October
+2026-10-18,Block D,Hostel Zone,33642,36.8,17.9,0,Sunday,October
+2026-10-18,Admin Block,Admin Zone,8912,36.7,11.1,0,Sunday,October
+2026-10-18,Library,Academic Zone,5231,34.5,10.3,0,Sunday,October
+2026-10-18,Cafeteria,Recreation Zone,9577,36.1,27.8,0,Sunday,October
+2026-10-19,Block A,Hostel Zone,47911,37.6,23.9,0,Monday,October
+2026-10-19,Block B,Hostel Zone,52373,35.4,18.1,0,Monday,October
+2026-10-19,Block C,Hostel Zone,45405,36.1,5.7,0,Monday,October
+2026-10-19,Block D,Hostel Zone,48907,33.0,18.7,0,Monday,October
+2026-10-19,Admin Block,Admin Zone,14049,37.2,28.5,0,Monday,October
+2026-10-19,Library,Academic Zone,7220,28.5,20.5,0,Monday,October
+2026-10-19,Cafeteria,Recreation Zone,13845,35.0,20.5,0,Monday,October
+2026-10-20,Block A,Hostel Zone,51200,31.7,30.3,0,Tuesday,October
+2026-10-20,Block B,Hostel Zone,48698,36.7,15.3,0,Tuesday,October
+2026-10-20,Block C,Hostel Zone,46855,33.5,7.7,0,Tuesday,October
+2026-10-20,Block D,Hostel Zone,52664,35.9,5.8,0,Tuesday,October
+2026-10-20,Admin Block,Admin Zone,12060,34.7,10.9,0,Tuesday,October
+2026-10-20,Library,Academic Zone,9471,31.9,11.8,0,Tuesday,October
+2026-10-20,Cafeteria,Recreation Zone,16795,31.5,21.9,0,Tuesday,October
+2026-10-21,Block A,Hostel Zone,49365,40.1,11.4,0,Wednesday,October
+2026-10-21,Block B,Hostel Zone,50173,29.0,21.0,0,Wednesday,October
+2026-10-21,Block C,Hostel Zone,43746,30.4,11.8,0,Wednesday,October
+2026-10-21,Block D,Hostel Zone,53130,40.1,33.9,0,Wednesday,October
+2026-10-21,Admin Block,Admin Zone,10698,27.5,27.3,0,Wednesday,October
+2026-10-21,Library,Academic Zone,8054,33.9,6.5,0,Wednesday,October
+2026-10-21,Cafeteria,Recreation Zone,15254,27.1,36.4,0,Wednesday,October
+2026-10-22,Block A,Hostel Zone,52874,36.8,21.4,0,Thursday,October
+2026-10-22,Block B,Hostel Zone,52552,35.6,38.5,0,Thursday,October
+2026-10-22,Block C,Hostel Zone,46076,30.2,33.6,0,Thursday,October
+2026-10-22,Block D,Hostel Zone,51429,32.1,2.3,0,Thursday,October
+2026-10-22,Admin Block,Admin Zone,13221,34.4,15.6,0,Thursday,October
+2026-10-22,Library,Academic Zone,7597,39.8,8.9,0,Thursday,October
+2026-10-22,Cafeteria,Recreation Zone,15670,38.2,14.6,0,Thursday,October
+2026-10-23,Block A,Hostel Zone,46567,32.9,26.2,0,Friday,October
+2026-10-23,Block B,Hostel Zone,45935,33.2,19.7,0,Friday,October
+2026-10-23,Block C,Hostel Zone,47727,37.0,25.2,0,Friday,October
+2026-10-23,Block D,Hostel Zone,55665,34.2,24.1,0,Friday,October
+2026-10-23,Admin Block,Admin Zone,10436,33.5,19.2,0,Friday,October
+2026-10-23,Library,Academic Zone,8282,32.8,14.2,0,Friday,October
+2026-10-23,Cafeteria,Recreation Zone,14832,34.2,20.7,0,Friday,October
+2026-10-24,Block A,Hostel Zone,36436,31.7,6.2,0,Saturday,October
+2026-10-24,Block B,Hostel Zone,39090,32.5,4.1,0,Saturday,October
+2026-10-24,Block C,Hostel Zone,33182,35.9,3.5,0,Saturday,October
+2026-10-24,Block D,Hostel Zone,34612,32.8,7.5,0,Saturday,October
+2026-10-24,Admin Block,Admin Zone,8293,28.4,31.2,0,Saturday,October
+2026-10-24,Library,Academic Zone,5333,35.0,26.9,0,Saturday,October
+2026-10-24,Cafeteria,Recreation Zone,11413,37.1,5.4,0,Saturday,October
+2026-10-25,Block A,Hostel Zone,66654,32.7,21.7,1,Sunday,October
+2026-10-25,Block B,Hostel Zone,34496,35.4,9.3,0,Sunday,October
+2026-10-25,Block C,Hostel Zone,32417,30.0,8.1,0,Sunday,October
+2026-10-25,Block D,Hostel Zone,32522,32.3,20.7,0,Sunday,October
+2026-10-25,Admin Block,Admin Zone,7406,29.8,38.3,0,Sunday,October
+2026-10-25,Library,Academic Zone,5378,36.4,21.0,0,Sunday,October
+2026-10-25,Cafeteria,Recreation Zone,10550,27.7,23.5,0,Sunday,October
+2026-10-26,Block A,Hostel Zone,51510,31.6,34.0,0,Monday,October
+2026-10-26,Block B,Hostel Zone,52564,32.0,10.7,0,Monday,October
+2026-10-26,Block C,Hostel Zone,50849,33.3,9.8,0,Monday,October
+2026-10-26,Block D,Hostel Zone,51901,32.9,17.4,0,Monday,October
+2026-10-26,Admin Block,Admin Zone,11945,35.8,2.5,0,Monday,October
+2026-10-26,Library,Academic Zone,6190,31.5,12.2,0,Monday,October
+2026-10-26,Cafeteria,Recreation Zone,17243,34.9,17.6,0,Monday,October
+2026-10-27,Block A,Hostel Zone,49476,34.1,5.6,0,Tuesday,October
+2026-10-27,Block B,Hostel Zone,53365,34.2,45.7,0,Tuesday,October
+2026-10-27,Block C,Hostel Zone,45913,34.7,17.8,0,Tuesday,October
+2026-10-27,Block D,Hostel Zone,46157,33.5,20.5,0,Tuesday,October
+2026-10-27,Admin Block,Admin Zone,14173,32.5,63.1,0,Tuesday,October
+2026-10-27,Library,Academic Zone,7497,34.1,30.5,0,Tuesday,October
+2026-10-27,Cafeteria,Recreation Zone,15273,35.5,9.7,0,Tuesday,October
+2026-10-28,Block A,Hostel Zone,46211,33.3,18.2,0,Wednesday,October
+2026-10-28,Block B,Hostel Zone,52035,33.0,5.8,0,Wednesday,October
+2026-10-28,Block C,Hostel Zone,51081,31.2,10.6,0,Wednesday,October
+2026-10-28,Block D,Hostel Zone,40041,30.5,22.7,0,Wednesday,October
+2026-10-28,Admin Block,Admin Zone,11600,30.6,7.7,0,Wednesday,October
+2026-10-28,Library,Academic Zone,8262,30.4,31.4,0,Wednesday,October
+2026-10-28,Cafeteria,Recreation Zone,16730,30.3,37.8,0,Wednesday,October
+2026-10-29,Block A,Hostel Zone,43417,31.3,19.0,0,Thursday,October
+2026-10-29,Block B,Hostel Zone,53064,31.2,25.4,0,Thursday,October
+2026-10-29,Block C,Hostel Zone,49141,35.4,7.3,0,Thursday,October
+2026-10-29,Block D,Hostel Zone,48441,35.3,55.7,0,Thursday,October
+2026-10-29,Admin Block,Admin Zone,20830,35.0,5.1,1,Thursday,October
+2026-10-29,Library,Academic Zone,9139,32.4,27.7,0,Thursday,October
+2026-10-29,Cafeteria,Recreation Zone,15372,30.0,0.7,0,Thursday,October
+2026-10-30,Block A,Hostel Zone,46685,34.1,5.6,0,Friday,October
+2026-10-30,Block B,Hostel Zone,59148,30.1,21.6,0,Friday,October
+2026-10-30,Block C,Hostel Zone,45212,34.1,18.8,0,Friday,October
+2026-10-30,Block D,Hostel Zone,45505,32.6,13.1,0,Friday,October
+2026-10-30,Admin Block,Admin Zone,12854,33.3,10.8,0,Friday,October
+2026-10-30,Library,Academic Zone,7984,36.5,20.4,0,Friday,October
+2026-10-30,Cafeteria,Recreation Zone,14796,31.5,24.5,0,Friday,October
+2026-10-31,Block A,Hostel Zone,38705,34.3,30.4,0,Saturday,October
+2026-10-31,Block B,Hostel Zone,36914,30.3,37.4,0,Saturday,October
+2026-10-31,Block C,Hostel Zone,29932,30.6,18.4,0,Saturday,October
+2026-10-31,Block D,Hostel Zone,33163,33.8,2.7,0,Saturday,October
+2026-10-31,Admin Block,Admin Zone,8843,31.2,12.9,0,Saturday,October
+2026-10-31,Library,Academic Zone,5511,34.5,8.5,0,Saturday,October
+2026-10-31,Cafeteria,Recreation Zone,9510,33.8,17.1,0,Saturday,October
+2026-11-01,Block A,Hostel Zone,25518,34.7,7.8,0,Sunday,November
+2026-11-01,Block B,Hostel Zone,34552,29.4,2.0,0,Sunday,November
+2026-11-01,Block C,Hostel Zone,29800,28.8,22.9,0,Sunday,November
+2026-11-01,Block D,Hostel Zone,29543,27.3,5.3,0,Sunday,November
+2026-11-01,Admin Block,Admin Zone,6737,30.7,16.7,0,Sunday,November
+2026-11-01,Library,Academic Zone,4345,26.8,6.3,0,Sunday,November
+2026-11-01,Cafeteria,Recreation Zone,8987,32.4,8.4,0,Sunday,November
+2026-11-02,Block A,Hostel Zone,42600,27.3,20.6,0,Monday,November
+2026-11-02,Block B,Hostel Zone,43992,33.8,36.7,0,Monday,November
+2026-11-02,Block C,Hostel Zone,37914,27.0,2.0,0,Monday,November
+2026-11-02,Block D,Hostel Zone,45766,27.0,4.1,0,Monday,November
+2026-11-02,Admin Block,Admin Zone,10324,27.1,6.4,0,Monday,November
+2026-11-02,Library,Academic Zone,7116,29.3,20.1,0,Monday,November
+2026-11-02,Cafeteria,Recreation Zone,11726,24.0,6.8,0,Monday,November
+2026-11-03,Block A,Hostel Zone,39991,33.4,7.6,0,Tuesday,November
+2026-11-03,Block B,Hostel Zone,45700,33.0,6.4,0,Tuesday,November
+2026-11-03,Block C,Hostel Zone,43554,27.3,3.6,0,Tuesday,November
+2026-11-03,Block D,Hostel Zone,41901,26.8,17.5,0,Tuesday,November
+2026-11-03,Admin Block,Admin Zone,12268,25.5,30.9,0,Tuesday,November
+2026-11-03,Library,Academic Zone,7143,30.7,10.2,0,Tuesday,November
+2026-11-03,Cafeteria,Recreation Zone,13284,26.6,22.3,0,Tuesday,November
+2026-11-04,Block A,Hostel Zone,45860,31.5,8.0,0,Wednesday,November
+2026-11-04,Block B,Hostel Zone,41947,28.6,19.5,0,Wednesday,November
+2026-11-04,Block C,Hostel Zone,47349,30.4,10.5,0,Wednesday,November
+2026-11-04,Block D,Hostel Zone,43843,28.0,17.4,0,Wednesday,November
+2026-11-04,Admin Block,Admin Zone,10838,24.7,19.7,0,Wednesday,November
+2026-11-04,Library,Academic Zone,7729,25.6,10.5,0,Wednesday,November
+2026-11-04,Cafeteria,Recreation Zone,11531,30.4,15.0,0,Wednesday,November
+2026-11-05,Block A,Hostel Zone,41320,37.9,10.0,0,Thursday,November
+2026-11-05,Block B,Hostel Zone,46872,28.7,4.5,0,Thursday,November
+2026-11-05,Block C,Hostel Zone,40188,29.3,24.7,0,Thursday,November
+2026-11-05,Block D,Hostel Zone,45122,28.0,4.7,0,Thursday,November
+2026-11-05,Admin Block,Admin Zone,9608,35.6,15.3,0,Thursday,November
+2026-11-05,Library,Academic Zone,7997,27.1,3.3,0,Thursday,November
+2026-11-05,Cafeteria,Recreation Zone,12073,31.2,0.6,0,Thursday,November
+2026-11-06,Block A,Hostel Zone,39290,29.7,35.3,0,Friday,November
+2026-11-06,Block B,Hostel Zone,46308,25.1,1.2,0,Friday,November
+2026-11-06,Block C,Hostel Zone,38657,31.7,11.5,0,Friday,November
+2026-11-06,Block D,Hostel Zone,50615,29.3,7.1,0,Friday,November
+2026-11-06,Admin Block,Admin Zone,10735,31.3,17.2,0,Friday,November
+2026-11-06,Library,Academic Zone,6984,23.9,20.6,0,Friday,November
+2026-11-06,Cafeteria,Recreation Zone,11610,31.4,0.3,0,Friday,November
+2026-11-07,Block A,Hostel Zone,25832,30.5,5.9,0,Saturday,November
+2026-11-07,Block B,Hostel Zone,29539,26.4,1.8,0,Saturday,November
+2026-11-07,Block C,Hostel Zone,28603,30.7,7.4,0,Saturday,November
+2026-11-07,Block D,Hostel Zone,27100,26.5,11.1,0,Saturday,November
+2026-11-07,Admin Block,Admin Zone,7203,29.7,12.8,0,Saturday,November
+2026-11-07,Library,Academic Zone,4413,30.2,25.8,0,Saturday,November
+2026-11-07,Cafeteria,Recreation Zone,9311,28.2,2.9,0,Saturday,November
+2026-11-08,Block A,Hostel Zone,28040,22.6,18.0,0,Sunday,November
+2026-11-08,Block B,Hostel Zone,28604,33.5,38.7,0,Sunday,November
+2026-11-08,Block C,Hostel Zone,29222,28.0,10.7,0,Sunday,November
+2026-11-08,Block D,Hostel Zone,33657,26.8,3.2,0,Sunday,November
+2026-11-08,Admin Block,Admin Zone,7233,28.1,67.3,0,Sunday,November
+2026-11-08,Library,Academic Zone,4645,28.1,14.9,0,Sunday,November
+2026-11-08,Cafeteria,Recreation Zone,10386,27.5,10.1,0,Sunday,November
+2026-11-09,Block A,Hostel Zone,47597,35.6,15.5,0,Monday,November
+2026-11-09,Block B,Hostel Zone,46076,30.0,28.0,0,Monday,November
+2026-11-09,Block C,Hostel Zone,38987,30.4,9.7,0,Monday,November
+2026-11-09,Block D,Hostel Zone,44925,24.3,5.3,0,Monday,November
+2026-11-09,Admin Block,Admin Zone,12598,31.0,30.1,0,Monday,November
+2026-11-09,Library,Academic Zone,6993,33.8,23.8,0,Monday,November
+2026-11-09,Cafeteria,Recreation Zone,12259,27.0,5.7,0,Monday,November
+2026-11-10,Block A,Hostel Zone,38869,33.5,10.8,0,Tuesday,November
+2026-11-10,Block B,Hostel Zone,42973,25.0,8.4,0,Tuesday,November
+2026-11-10,Block C,Hostel Zone,42544,34.9,8.1,0,Tuesday,November
+2026-11-10,Block D,Hostel Zone,43593,25.2,7.8,0,Tuesday,November
+2026-11-10,Admin Block,Admin Zone,11507,31.6,6.4,0,Tuesday,November
+2026-11-10,Library,Academic Zone,6590,30.1,20.4,0,Tuesday,November
+2026-11-10,Cafeteria,Recreation Zone,24409,27.6,12.8,1,Tuesday,November
+2026-11-11,Block A,Hostel Zone,44651,29.5,9.5,0,Wednesday,November
+2026-11-11,Block B,Hostel Zone,48676,30.8,3.7,0,Wednesday,November
+2026-11-11,Block C,Hostel Zone,38372,31.7,24.9,0,Wednesday,November
+2026-11-11,Block D,Hostel Zone,44918,30.2,16.2,0,Wednesday,November
+2026-11-11,Admin Block,Admin Zone,10762,30.9,7.9,0,Wednesday,November
+2026-11-11,Library,Academic Zone,6810,26.8,1.8,0,Wednesday,November
+2026-11-11,Cafeteria,Recreation Zone,13433,29.2,44.7,0,Wednesday,November
+2026-11-12,Block A,Hostel Zone,39728,31.3,13.8,0,Thursday,November
+2026-11-12,Block B,Hostel Zone,52140,27.1,16.1,0,Thursday,November
+2026-11-12,Block C,Hostel Zone,41000,28.4,13.4,0,Thursday,November
+2026-11-12,Block D,Hostel Zone,41550,32.4,5.7,0,Thursday,November
+2026-11-12,Admin Block,Admin Zone,10130,34.8,33.2,0,Thursday,November
+2026-11-12,Library,Academic Zone,7249,31.8,10.3,0,Thursday,November
+2026-11-12,Cafeteria,Recreation Zone,13623,33.5,17.4,0,Thursday,November
+2026-11-13,Block A,Hostel Zone,39992,28.4,5.1,0,Friday,November
+2026-11-13,Block B,Hostel Zone,47984,26.2,9.0,0,Friday,November
+2026-11-13,Block C,Hostel Zone,39385,24.0,5.3,0,Friday,November
+2026-11-13,Block D,Hostel Zone,41307,26.1,34.7,0,Friday,November
+2026-11-13,Admin Block,Admin Zone,10779,25.4,43.2,0,Friday,November
+2026-11-13,Library,Academic Zone,6231,31.7,13.0,0,Friday,November
+2026-11-13,Cafeteria,Recreation Zone,12938,30.4,5.4,0,Friday,November
+2026-11-14,Block A,Hostel Zone,28705,35.3,18.8,0,Saturday,November
+2026-11-14,Block B,Hostel Zone,27746,31.6,5.0,0,Saturday,November
+2026-11-14,Block C,Hostel Zone,25503,25.6,16.0,0,Saturday,November
+2026-11-14,Block D,Hostel Zone,27703,32.9,21.8,0,Saturday,November
+2026-11-14,Admin Block,Admin Zone,6399,27.8,10.9,0,Saturday,November
+2026-11-14,Library,Academic Zone,4682,37.0,24.1,0,Saturday,November
+2026-11-14,Cafeteria,Recreation Zone,8673,28.0,4.0,0,Saturday,November
+2026-11-15,Block A,Hostel Zone,27487,22.5,28.4,0,Sunday,November
+2026-11-15,Block B,Hostel Zone,29125,31.6,8.5,0,Sunday,November
+2026-11-15,Block C,Hostel Zone,30505,29.8,11.8,0,Sunday,November
+2026-11-15,Block D,Hostel Zone,27995,31.7,8.8,0,Sunday,November
+2026-11-15,Admin Block,Admin Zone,7700,33.5,14.5,0,Sunday,November
+2026-11-15,Library,Academic Zone,3918,30.3,12.5,0,Sunday,November
+2026-11-15,Cafeteria,Recreation Zone,8744,32.6,12.6,0,Sunday,November
+2026-11-16,Block A,Hostel Zone,41918,30.6,5.3,0,Monday,November
+2026-11-16,Block B,Hostel Zone,47137,29.9,8.2,0,Monday,November
+2026-11-16,Block C,Hostel Zone,43974,31.4,15.8,0,Monday,November
+2026-11-16,Block D,Hostel Zone,43357,25.5,9.4,0,Monday,November
+2026-11-16,Admin Block,Admin Zone,10156,31.0,11.7,0,Monday,November
+2026-11-16,Library,Academic Zone,6774,31.5,14.5,0,Monday,November
+2026-11-16,Cafeteria,Recreation Zone,14448,32.8,5.2,0,Monday,November
+2026-11-17,Block A,Hostel Zone,40961,28.7,36.8,0,Tuesday,November
+2026-11-17,Block B,Hostel Zone,41848,28.0,10.1,0,Tuesday,November
+2026-11-17,Block C,Hostel Zone,38542,27.5,27.4,0,Tuesday,November
+2026-11-17,Block D,Hostel Zone,45665,34.9,8.3,0,Tuesday,November
+2026-11-17,Admin Block,Admin Zone,9846,27.0,27.3,0,Tuesday,November
+2026-11-17,Library,Academic Zone,6699,35.2,3.5,0,Tuesday,November
+2026-11-17,Cafeteria,Recreation Zone,13976,29.3,24.3,0,Tuesday,November
+2026-11-18,Block A,Hostel Zone,43291,25.3,4.6,0,Wednesday,November
+2026-11-18,Block B,Hostel Zone,42820,27.9,10.1,0,Wednesday,November
+2026-11-18,Block C,Hostel Zone,41469,25.6,34.2,0,Wednesday,November
+2026-11-18,Block D,Hostel Zone,48168,30.1,21.4,0,Wednesday,November
+2026-11-18,Admin Block,Admin Zone,9513,29.5,5.3,0,Wednesday,November
+2026-11-18,Library,Academic Zone,7106,30.5,24.4,0,Wednesday,November
+2026-11-18,Cafeteria,Recreation Zone,14207,24.4,8.9,0,Wednesday,November
+2026-11-19,Block A,Hostel Zone,43132,30.7,11.7,0,Thursday,November
+2026-11-19,Block B,Hostel Zone,45674,24.1,34.1,0,Thursday,November
+2026-11-19,Block C,Hostel Zone,39138,25.1,4.0,0,Thursday,November
+2026-11-19,Block D,Hostel Zone,43234,29.4,1.9,0,Thursday,November
+2026-11-19,Admin Block,Admin Zone,12252,30.2,19.3,0,Thursday,November
+2026-11-19,Library,Academic Zone,6882,26.9,5.8,0,Thursday,November
+2026-11-19,Cafeteria,Recreation Zone,11940,25.6,4.6,0,Thursday,November
+2026-11-20,Block A,Hostel Zone,43979,33.5,11.8,0,Friday,November
+2026-11-20,Block B,Hostel Zone,45436,29.5,23.5,0,Friday,November
+2026-11-20,Block C,Hostel Zone,41357,29.4,13.8,0,Friday,November
+2026-11-20,Block D,Hostel Zone,41854,34.9,23.2,0,Friday,November
+2026-11-20,Admin Block,Admin Zone,9309,26.6,6.8,0,Friday,November
+2026-11-20,Library,Academic Zone,6487,38.4,4.1,0,Friday,November
+2026-11-20,Cafeteria,Recreation Zone,14846,33.8,3.6,0,Friday,November
+2026-11-21,Block A,Hostel Zone,29330,28.9,6.2,0,Saturday,November
+2026-11-21,Block B,Hostel Zone,30013,31.7,8.5,0,Saturday,November
+2026-11-21,Block C,Hostel Zone,27867,31.1,6.6,0,Saturday,November
+2026-11-21,Block D,Hostel Zone,31002,29.5,16.1,0,Saturday,November
+2026-11-21,Admin Block,Admin Zone,7369,29.7,18.0,0,Saturday,November
+2026-11-21,Library,Academic Zone,4886,31.0,14.5,0,Saturday,November
+2026-11-21,Cafeteria,Recreation Zone,9148,29.2,28.3,0,Saturday,November
+2026-11-22,Block A,Hostel Zone,29056,32.7,14.7,0,Sunday,November
+2026-11-22,Block B,Hostel Zone,52613,29.1,29.8,1,Sunday,November
+2026-11-22,Block C,Hostel Zone,25683,33.6,13.6,0,Sunday,November
+2026-11-22,Block D,Hostel Zone,26273,29.4,6.3,0,Sunday,November
+2026-11-22,Admin Block,Admin Zone,6429,30.8,7.5,0,Sunday,November
+2026-11-22,Library,Academic Zone,9753,32.3,13.8,1,Sunday,November
+2026-11-22,Cafeteria,Recreation Zone,8753,26.7,21.4,0,Sunday,November
+2026-11-23,Block A,Hostel Zone,41887,30.7,38.4,0,Monday,November
+2026-11-23,Block B,Hostel Zone,43661,29.3,6.5,0,Monday,November
+2026-11-23,Block C,Hostel Zone,43058,26.5,13.4,0,Monday,November
+2026-11-23,Block D,Hostel Zone,46144,29.6,22.7,0,Monday,November
+2026-11-23,Admin Block,Admin Zone,11439,32.3,11.9,0,Monday,November
+2026-11-23,Library,Academic Zone,6762,25.3,26.5,0,Monday,November
+2026-11-23,Cafeteria,Recreation Zone,13513,27.5,13.4,0,Monday,November
+2026-11-24,Block A,Hostel Zone,36965,25.5,2.4,0,Tuesday,November
+2026-11-24,Block B,Hostel Zone,44359,28.5,23.0,0,Tuesday,November
+2026-11-24,Block C,Hostel Zone,40083,31.0,31.2,0,Tuesday,November
+2026-11-24,Block D,Hostel Zone,51005,31.6,1.2,0,Tuesday,November
+2026-11-24,Admin Block,Admin Zone,11196,28.2,19.1,0,Tuesday,November
+2026-11-24,Library,Academic Zone,6704,29.5,7.9,0,Tuesday,November
+2026-11-24,Cafeteria,Recreation Zone,11067,33.7,10.3,0,Tuesday,November
+2026-11-25,Block A,Hostel Zone,37456,30.1,21.2,0,Wednesday,November
+2026-11-25,Block B,Hostel Zone,42786,33.2,12.8,0,Wednesday,November
+2026-11-25,Block C,Hostel Zone,41092,31.9,6.8,0,Wednesday,November
+2026-11-25,Block D,Hostel Zone,40850,27.7,0.9,0,Wednesday,November
+2026-11-25,Admin Block,Admin Zone,9714,28.4,8.0,0,Wednesday,November
+2026-11-25,Library,Academic Zone,6886,30.0,33.5,0,Wednesday,November
+2026-11-25,Cafeteria,Recreation Zone,12257,32.9,13.9,0,Wednesday,November
+2026-11-26,Block A,Hostel Zone,42524,26.7,10.8,0,Thursday,November
+2026-11-26,Block B,Hostel Zone,41888,24.3,11.0,0,Thursday,November
+2026-11-26,Block C,Hostel Zone,37572,36.7,7.7,0,Thursday,November
+2026-11-26,Block D,Hostel Zone,43511,29.6,11.4,0,Thursday,November
+2026-11-26,Admin Block,Admin Zone,11729,33.8,9.7,0,Thursday,November
+2026-11-26,Library,Academic Zone,8016,20.9,34.9,0,Thursday,November
+2026-11-26,Cafeteria,Recreation Zone,15466,32.4,23.1,0,Thursday,November
+2026-11-27,Block A,Hostel Zone,47235,25.3,9.8,0,Friday,November
+2026-11-27,Block B,Hostel Zone,52768,34.1,3.9,0,Friday,November
+2026-11-27,Block C,Hostel Zone,35527,27.8,22.1,0,Friday,November
+2026-11-27,Block D,Hostel Zone,42486,35.8,2.1,0,Friday,November
+2026-11-27,Admin Block,Admin Zone,10271,29.2,8.3,0,Friday,November
+2026-11-27,Library,Academic Zone,5940,32.8,8.4,0,Friday,November
+2026-11-27,Cafeteria,Recreation Zone,13370,33.7,15.5,0,Friday,November
+2026-11-28,Block A,Hostel Zone,25554,29.9,32.5,0,Saturday,November
+2026-11-28,Block B,Hostel Zone,28653,31.5,5.2,0,Saturday,November
+2026-11-28,Block C,Hostel Zone,25623,33.0,23.1,0,Saturday,November
+2026-11-28,Block D,Hostel Zone,26716,29.8,9.1,0,Saturday,November
+2026-11-28,Admin Block,Admin Zone,7862,29.4,10.4,0,Saturday,November
+2026-11-28,Library,Academic Zone,5281,30.9,11.8,0,Saturday,November
+2026-11-28,Cafeteria,Recreation Zone,8278,28.4,18.1,0,Saturday,November
+2026-11-29,Block A,Hostel Zone,25514,26.6,20.4,0,Sunday,November
+2026-11-29,Block B,Hostel Zone,32336,28.9,16.2,0,Sunday,November
+2026-11-29,Block C,Hostel Zone,26408,29.4,6.8,0,Sunday,November
+2026-11-29,Block D,Hostel Zone,29639,33.5,23.4,0,Sunday,November
+2026-11-29,Admin Block,Admin Zone,6989,28.8,6.9,0,Sunday,November
+2026-11-29,Library,Academic Zone,4511,28.6,17.5,0,Sunday,November
+2026-11-29,Cafeteria,Recreation Zone,8874,29.0,5.8,0,Sunday,November
+2026-11-30,Block A,Hostel Zone,42564,30.9,3.6,0,Monday,November
+2026-11-30,Block B,Hostel Zone,47796,31.8,11.2,0,Monday,November
+2026-11-30,Block C,Hostel Zone,42981,27.1,5.7,0,Monday,November
+2026-11-30,Block D,Hostel Zone,41846,30.7,4.7,0,Monday,November
+2026-11-30,Admin Block,Admin Zone,11368,31.4,16.0,0,Monday,November
+2026-11-30,Library,Academic Zone,7153,31.4,32.0,0,Monday,November
+2026-11-30,Cafeteria,Recreation Zone,13188,27.2,5.0,0,Monday,November
+2026-12-01,Block A,Hostel Zone,37331,23.4,3.9,0,Tuesday,December
+2026-12-01,Block B,Hostel Zone,39850,24.8,7.8,0,Tuesday,December
+2026-12-01,Block C,Hostel Zone,38409,26.0,8.0,0,Tuesday,December
+2026-12-01,Block D,Hostel Zone,35817,17.9,4.4,0,Tuesday,December
+2026-12-01,Admin Block,Admin Zone,11391,20.9,7.5,0,Tuesday,December
+2026-12-01,Library,Academic Zone,7400,19.6,9.0,0,Tuesday,December
+2026-12-01,Cafeteria,Recreation Zone,11546,24.4,25.3,0,Tuesday,December
+2026-12-02,Block A,Hostel Zone,32469,25.7,8.6,0,Wednesday,December
+2026-12-02,Block B,Hostel Zone,45194,23.8,8.8,0,Wednesday,December
+2026-12-02,Block C,Hostel Zone,41923,21.8,3.1,0,Wednesday,December
+2026-12-02,Block D,Hostel Zone,44182,28.6,13.6,0,Wednesday,December
+2026-12-02,Admin Block,Admin Zone,8942,28.1,2.2,0,Wednesday,December
+2026-12-02,Library,Academic Zone,6360,24.5,20.0,0,Wednesday,December
+2026-12-02,Cafeteria,Recreation Zone,11419,31.3,5.7,0,Wednesday,December
+2026-12-03,Block A,Hostel Zone,41253,24.5,17.6,0,Thursday,December
+2026-12-03,Block B,Hostel Zone,45431,25.3,14.1,0,Thursday,December
+2026-12-03,Block C,Hostel Zone,35647,25.7,6.2,0,Thursday,December
+2026-12-03,Block D,Hostel Zone,39364,25.2,19.3,0,Thursday,December
+2026-12-03,Admin Block,Admin Zone,9753,26.6,10.0,0,Thursday,December
+2026-12-03,Library,Academic Zone,6143,27.3,13.0,0,Thursday,December
+2026-12-03,Cafeteria,Recreation Zone,12502,27.3,9.6,0,Thursday,December
+2026-12-04,Block A,Hostel Zone,36693,19.7,18.0,0,Friday,December
+2026-12-04,Block B,Hostel Zone,38802,26.3,6.0,0,Friday,December
+2026-12-04,Block C,Hostel Zone,43289,23.5,6.7,0,Friday,December
+2026-12-04,Block D,Hostel Zone,41841,24.6,17.7,0,Friday,December
+2026-12-04,Admin Block,Admin Zone,8083,23.6,9.9,0,Friday,December
+2026-12-04,Library,Academic Zone,6004,28.9,13.7,0,Friday,December
+2026-12-04,Cafeteria,Recreation Zone,12726,20.7,9.0,0,Friday,December
+2026-12-05,Block A,Hostel Zone,27665,25.7,11.3,0,Saturday,December
+2026-12-05,Block B,Hostel Zone,42608,22.4,3.5,1,Saturday,December
+2026-12-05,Block C,Hostel Zone,24453,23.9,9.4,0,Saturday,December
+2026-12-05,Block D,Hostel Zone,25810,24.3,17.4,0,Saturday,December
+2026-12-05,Admin Block,Admin Zone,5361,24.8,7.2,0,Saturday,December
+2026-12-05,Library,Academic Zone,5258,29.3,1.5,0,Saturday,December
+2026-12-05,Cafeteria,Recreation Zone,8259,26.1,4.0,0,Saturday,December
+2026-12-06,Block A,Hostel Zone,57775,25.9,6.3,1,Sunday,December
+2026-12-06,Block B,Hostel Zone,25861,23.1,20.0,0,Sunday,December
+2026-12-06,Block C,Hostel Zone,23158,24.5,3.8,0,Sunday,December
+2026-12-06,Block D,Hostel Zone,26786,26.4,4.3,0,Sunday,December
+2026-12-06,Admin Block,Admin Zone,7242,26.1,3.3,0,Sunday,December
+2026-12-06,Library,Academic Zone,4282,21.8,23.0,0,Sunday,December
+2026-12-06,Cafeteria,Recreation Zone,7699,24.9,18.8,0,Sunday,December
+2026-12-07,Block A,Hostel Zone,41032,24.9,8.4,0,Monday,December
+2026-12-07,Block B,Hostel Zone,44653,28.1,5.0,0,Monday,December
+2026-12-07,Block C,Hostel Zone,34599,25.6,19.0,0,Monday,December
+2026-12-07,Block D,Hostel Zone,46886,21.1,10.2,0,Monday,December
+2026-12-07,Admin Block,Admin Zone,9925,21.0,12.7,0,Monday,December
+2026-12-07,Library,Academic Zone,6748,26.5,13.3,0,Monday,December
+2026-12-07,Cafeteria,Recreation Zone,12917,21.9,3.1,0,Monday,December
+2026-12-08,Block A,Hostel Zone,42079,19.7,10.9,0,Tuesday,December
+2026-12-08,Block B,Hostel Zone,46825,22.1,2.8,0,Tuesday,December
+2026-12-08,Block C,Hostel Zone,38825,24.5,2.4,0,Tuesday,December
+2026-12-08,Block D,Hostel Zone,45592,22.9,10.7,0,Tuesday,December
+2026-12-08,Admin Block,Admin Zone,8852,19.1,3.3,0,Tuesday,December
+2026-12-08,Library,Academic Zone,7318,27.0,26.3,0,Tuesday,December
+2026-12-08,Cafeteria,Recreation Zone,12938,30.5,33.2,0,Tuesday,December
+2026-12-09,Block A,Hostel Zone,40928,24.7,7.6,0,Wednesday,December
+2026-12-09,Block B,Hostel Zone,42008,28.0,13.4,0,Wednesday,December
+2026-12-09,Block C,Hostel Zone,40217,23.9,9.5,0,Wednesday,December
+2026-12-09,Block D,Hostel Zone,34770,24.2,5.7,0,Wednesday,December
+2026-12-09,Admin Block,Admin Zone,9240,28.0,12.4,0,Wednesday,December
+2026-12-09,Library,Academic Zone,6522,27.3,7.3,0,Wednesday,December
+2026-12-09,Cafeteria,Recreation Zone,12318,24.0,15.1,0,Wednesday,December
+2026-12-10,Block A,Hostel Zone,35709,18.0,15.7,0,Thursday,December
+2026-12-10,Block B,Hostel Zone,37864,29.1,8.0,0,Thursday,December
+2026-12-10,Block C,Hostel Zone,41060,27.8,16.6,0,Thursday,December
+2026-12-10,Block D,Hostel Zone,40892,26.5,17.8,0,Thursday,December
+2026-12-10,Admin Block,Admin Zone,9850,27.9,7.9,0,Thursday,December
+2026-12-10,Library,Academic Zone,5827,27.6,19.7,0,Thursday,December
+2026-12-10,Cafeteria,Recreation Zone,24423,25.9,5.1,1,Thursday,December
+2026-12-11,Block A,Hostel Zone,40565,19.7,9.4,0,Friday,December
+2026-12-11,Block B,Hostel Zone,43282,23.9,9.9,0,Friday,December
+2026-12-11,Block C,Hostel Zone,37243,29.6,19.8,0,Friday,December
+2026-12-11,Block D,Hostel Zone,40899,25.6,7.7,0,Friday,December
+2026-12-11,Admin Block,Admin Zone,9974,22.6,19.7,0,Friday,December
+2026-12-11,Library,Academic Zone,6664,24.1,13.0,0,Friday,December
+2026-12-11,Cafeteria,Recreation Zone,11369,24.1,5.2,0,Friday,December
+2026-12-12,Block A,Hostel Zone,25646,25.9,20.6,0,Saturday,December
+2026-12-12,Block B,Hostel Zone,31795,28.1,27.2,0,Saturday,December
+2026-12-12,Block C,Hostel Zone,24731,22.8,14.5,0,Saturday,December
+2026-12-12,Block D,Hostel Zone,55136,26.7,4.1,1,Saturday,December
+2026-12-12,Admin Block,Admin Zone,6978,24.7,2.3,0,Saturday,December
+2026-12-12,Library,Academic Zone,4370,24.0,4.3,0,Saturday,December
+2026-12-12,Cafeteria,Recreation Zone,7909,29.4,6.4,0,Saturday,December
+2026-12-13,Block A,Hostel Zone,29411,30.5,7.0,0,Sunday,December
+2026-12-13,Block B,Hostel Zone,30698,22.6,3.2,0,Sunday,December
+2026-12-13,Block C,Hostel Zone,26212,25.1,1.0,0,Sunday,December
+2026-12-13,Block D,Hostel Zone,26399,21.1,6.5,0,Sunday,December
+2026-12-13,Admin Block,Admin Zone,6652,21.8,4.5,0,Sunday,December
+2026-12-13,Library,Academic Zone,4386,27.4,6.2,0,Sunday,December
+2026-12-13,Cafeteria,Recreation Zone,9009,26.2,10.2,0,Sunday,December
+2026-12-14,Block A,Hostel Zone,40253,26.2,10.5,0,Monday,December
+2026-12-14,Block B,Hostel Zone,43329,29.8,10.7,0,Monday,December
+2026-12-14,Block C,Hostel Zone,39637,20.0,13.8,0,Monday,December
+2026-12-14,Block D,Hostel Zone,42310,26.0,2.4,0,Monday,December
+2026-12-14,Admin Block,Admin Zone,24316,25.7,4.5,1,Monday,December
+2026-12-14,Library,Academic Zone,7145,25.1,7.8,0,Monday,December
+2026-12-14,Cafeteria,Recreation Zone,12080,23.6,8.5,0,Monday,December
+2026-12-15,Block A,Hostel Zone,44277,26.4,20.8,0,Tuesday,December
+2026-12-15,Block B,Hostel Zone,43704,29.7,20.7,0,Tuesday,December
+2026-12-15,Block C,Hostel Zone,39700,25.3,8.7,0,Tuesday,December
+2026-12-15,Block D,Hostel Zone,43228,29.0,5.1,0,Tuesday,December
+2026-12-15,Admin Block,Admin Zone,10126,23.3,7.0,0,Tuesday,December
+2026-12-15,Library,Academic Zone,7069,21.1,19.3,0,Tuesday,December
+2026-12-15,Cafeteria,Recreation Zone,11481,24.3,3.0,0,Tuesday,December
+2026-12-16,Block A,Hostel Zone,34897,26.8,8.7,0,Wednesday,December
+2026-12-16,Block B,Hostel Zone,42485,21.2,2.1,0,Wednesday,December
+2026-12-16,Block C,Hostel Zone,34248,27.6,14.2,0,Wednesday,December
+2026-12-16,Block D,Hostel Zone,38743,27.3,12.9,0,Wednesday,December
+2026-12-16,Admin Block,Admin Zone,9854,26.6,6.7,0,Wednesday,December
+2026-12-16,Library,Academic Zone,6739,23.5,7.7,0,Wednesday,December
+2026-12-16,Cafeteria,Recreation Zone,11956,21.8,4.1,0,Wednesday,December
+2026-12-17,Block A,Hostel Zone,42615,29.1,5.2,0,Thursday,December
+2026-12-17,Block B,Hostel Zone,40639,18.9,5.4,0,Thursday,December
+2026-12-17,Block C,Hostel Zone,38722,26.8,7.2,0,Thursday,December
+2026-12-17,Block D,Hostel Zone,40397,24.0,8.2,0,Thursday,December
+2026-12-17,Admin Block,Admin Zone,9040,29.3,6.4,0,Thursday,December
+2026-12-17,Library,Academic Zone,6576,26.0,3.0,0,Thursday,December
+2026-12-17,Cafeteria,Recreation Zone,10908,29.0,8.2,0,Thursday,December
+2026-12-18,Block A,Hostel Zone,38018,20.8,12.8,0,Friday,December
+2026-12-18,Block B,Hostel Zone,38748,21.4,5.1,0,Friday,December
+2026-12-18,Block C,Hostel Zone,35995,32.3,12.9,0,Friday,December
+2026-12-18,Block D,Hostel Zone,36838,28.2,12.7,0,Friday,December
+2026-12-18,Admin Block,Admin Zone,10433,34.9,7.5,0,Friday,December
+2026-12-18,Library,Academic Zone,6692,22.8,2.9,0,Friday,December
+2026-12-18,Cafeteria,Recreation Zone,12437,23.6,21.3,0,Friday,December
+2026-12-19,Block A,Hostel Zone,26990,27.1,2.7,0,Saturday,December
+2026-12-19,Block B,Hostel Zone,27704,23.6,8.0,0,Saturday,December
+2026-12-19,Block C,Hostel Zone,24559,26.1,2.6,0,Saturday,December
+2026-12-19,Block D,Hostel Zone,27937,28.9,6.3,0,Saturday,December
+2026-12-19,Admin Block,Admin Zone,6606,26.2,12.1,0,Saturday,December
+2026-12-19,Library,Academic Zone,5148,25.4,11.8,0,Saturday,December
+2026-12-19,Cafeteria,Recreation Zone,9011,24.0,12.0,0,Saturday,December
+2026-12-20,Block A,Hostel Zone,26794,29.6,2.6,0,Sunday,December
+2026-12-20,Block B,Hostel Zone,25243,18.8,9.7,0,Sunday,December
+2026-12-20,Block C,Hostel Zone,24071,26.0,4.9,0,Sunday,December
+2026-12-20,Block D,Hostel Zone,28696,23.2,4.1,0,Sunday,December
+2026-12-20,Admin Block,Admin Zone,7242,29.2,14.2,0,Sunday,December
+2026-12-20,Library,Academic Zone,4761,27.4,6.3,0,Sunday,December
+2026-12-20,Cafeteria,Recreation Zone,8525,28.9,0.7,0,Sunday,December
+2026-12-21,Block A,Hostel Zone,42623,26.5,15.8,0,Monday,December
+2026-12-21,Block B,Hostel Zone,44314,26.5,3.0,0,Monday,December
+2026-12-21,Block C,Hostel Zone,38979,31.1,13.9,0,Monday,December
+2026-12-21,Block D,Hostel Zone,44681,25.0,5.3,0,Monday,December
+2026-12-21,Admin Block,Admin Zone,10463,23.5,21.4,0,Monday,December
+2026-12-21,Library,Academic Zone,6494,25.1,9.7,0,Monday,December
+2026-12-21,Cafeteria,Recreation Zone,12322,28.3,5.9,0,Monday,December
+2026-12-22,Block A,Hostel Zone,42111,28.2,4.4,0,Tuesday,December
+2026-12-22,Block B,Hostel Zone,41467,25.1,6.6,0,Tuesday,December
+2026-12-22,Block C,Hostel Zone,38679,27.6,1.4,0,Tuesday,December
+2026-12-22,Block D,Hostel Zone,40459,25.2,4.8,0,Tuesday,December
+2026-12-22,Admin Block,Admin Zone,9188,25.3,18.1,0,Tuesday,December
+2026-12-22,Library,Academic Zone,5872,25.9,7.2,0,Tuesday,December
+2026-12-22,Cafeteria,Recreation Zone,13269,32.8,11.7,0,Tuesday,December
+2026-12-23,Block A,Hostel Zone,46642,27.4,6.6,0,Wednesday,December
+2026-12-23,Block B,Hostel Zone,41762,29.0,2.0,0,Wednesday,December
+2026-12-23,Block C,Hostel Zone,31577,25.4,2.1,0,Wednesday,December
+2026-12-23,Block D,Hostel Zone,46079,24.0,22.2,0,Wednesday,December
+2026-12-23,Admin Block,Admin Zone,10672,27.2,7.3,0,Wednesday,December
+2026-12-23,Library,Academic Zone,6917,24.9,7.8,0,Wednesday,December
+2026-12-23,Cafeteria,Recreation Zone,13705,22.3,15.6,0,Wednesday,December
+2026-12-24,Block A,Hostel Zone,44020,24.8,2.0,0,Thursday,December
+2026-12-24,Block B,Hostel Zone,50050,22.4,8.9,0,Thursday,December
+2026-12-24,Block C,Hostel Zone,32074,22.9,3.1,0,Thursday,December
+2026-12-24,Block D,Hostel Zone,43286,23.9,2.6,0,Thursday,December
+2026-12-24,Admin Block,Admin Zone,10162,22.7,12.1,0,Thursday,December
+2026-12-24,Library,Academic Zone,7242,26.0,2.4,0,Thursday,December
+2026-12-24,Cafeteria,Recreation Zone,14722,25.1,6.2,0,Thursday,December
+2026-12-25,Block A,Hostel Zone,37961,20.4,28.3,0,Friday,December
+2026-12-25,Block B,Hostel Zone,43107,28.3,25.3,0,Friday,December
+2026-12-25,Block C,Hostel Zone,36718,23.0,12.3,0,Friday,December
+2026-12-25,Block D,Hostel Zone,39087,21.3,20.4,0,Friday,December
+2026-12-25,Admin Block,Admin Zone,10368,25.1,9.2,0,Friday,December
+2026-12-25,Library,Academic Zone,6996,27.2,7.4,0,Friday,December
+2026-12-25,Cafeteria,Recreation Zone,11193,27.5,25.0,0,Friday,December
+2026-12-26,Block A,Hostel Zone,28139,20.0,17.7,0,Saturday,December
+2026-12-26,Block B,Hostel Zone,30631,22.0,7.0,0,Saturday,December
+2026-12-26,Block C,Hostel Zone,25020,21.1,15.1,0,Saturday,December
+2026-12-26,Block D,Hostel Zone,29068,25.6,11.7,0,Saturday,December
+2026-12-26,Admin Block,Admin Zone,6451,26.6,3.3,0,Saturday,December
+2026-12-26,Library,Academic Zone,4564,26.6,2.7,0,Saturday,December
+2026-12-26,Cafeteria,Recreation Zone,8491,24.7,7.6,0,Saturday,December
+2026-12-27,Block A,Hostel Zone,28302,22.3,11.3,0,Sunday,December
+2026-12-27,Block B,Hostel Zone,21628,25.9,1.6,0,Sunday,December
+2026-12-27,Block C,Hostel Zone,22524,29.6,5.0,0,Sunday,December
+2026-12-27,Block D,Hostel Zone,30152,26.2,10.0,0,Sunday,December
+2026-12-27,Admin Block,Admin Zone,7261,34.2,7.9,0,Sunday,December
+2026-12-27,Library,Academic Zone,4740,25.0,3.1,0,Sunday,December
+2026-12-27,Cafeteria,Recreation Zone,8028,24.4,12.7,0,Sunday,December
+2026-12-28,Block A,Hostel Zone,41827,20.7,7.9,0,Monday,December
+2026-12-28,Block B,Hostel Zone,39767,23.8,7.8,0,Monday,December
+2026-12-28,Block C,Hostel Zone,36749,21.6,9.9,0,Monday,December
+2026-12-28,Block D,Hostel Zone,44254,19.8,1.8,0,Monday,December
+2026-12-28,Admin Block,Admin Zone,11294,29.0,5.3,0,Monday,December
+2026-12-28,Library,Academic Zone,6225,19.8,8.3,0,Monday,December
+2026-12-28,Cafeteria,Recreation Zone,12634,25.2,5.2,0,Monday,December
+2026-12-29,Block A,Hostel Zone,42417,22.1,4.1,0,Tuesday,December
+2026-12-29,Block B,Hostel Zone,38552,24.1,23.1,0,Tuesday,December
+2026-12-29,Block C,Hostel Zone,40848,28.4,9.1,0,Tuesday,December
+2026-12-29,Block D,Hostel Zone,43341,27.2,19.1,0,Tuesday,December
+2026-12-29,Admin Block,Admin Zone,10188,24.0,24.6,0,Tuesday,December
+2026-12-29,Library,Academic Zone,6719,23.3,5.0,0,Tuesday,December
+2026-12-29,Cafeteria,Recreation Zone,12774,33.5,8.2,0,Tuesday,December
+2026-12-30,Block A,Hostel Zone,41428,30.6,9.0,0,Wednesday,December
+2026-12-30,Block B,Hostel Zone,39010,27.8,8.8,0,Wednesday,December
+2026-12-30,Block C,Hostel Zone,38304,28.1,2.4,0,Wednesday,December
+2026-12-30,Block D,Hostel Zone,45832,21.1,19.1,0,Wednesday,December
+2026-12-30,Admin Block,Admin Zone,10433,24.3,16.9,0,Wednesday,December
+2026-12-30,Library,Academic Zone,7450,27.7,7.3,0,Wednesday,December
+2026-12-30,Cafeteria,Recreation Zone,11462,26.0,11.6,0,Wednesday,December
+2026-12-31,Block A,Hostel Zone,40090,28.0,11.3,0,Thursday,December
+2026-12-31,Block B,Hostel Zone,39888,24.4,6.5,0,Thursday,December
+2026-12-31,Block C,Hostel Zone,35534,26.0,6.4,0,Thursday,December
+2026-12-31,Block D,Hostel Zone,41425,24.6,6.3,0,Thursday,December
+2026-12-31,Admin Block,Admin Zone,11383,21.9,3.7,0,Thursday,December
+2026-12-31,Library,Academic Zone,6570,24.0,10.3,0,Thursday,December
+2026-12-31,Cafeteria,Recreation Zone,11415,23.0,0.6,0,Thursday,December

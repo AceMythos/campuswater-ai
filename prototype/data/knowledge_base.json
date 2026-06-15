@@ -1,0 +1,26 @@
+[
+  {
+    "topic": "overview",
+    "content": "CampusWater AI monitors water usage across Government SKSJTI KR Circle Bengaluru campus. It tracks 7 buildings across 4 zones, processing daily consumption data to detect anomalies and provide conservation insights."
+  },
+  {
+    "topic": "water sources",
+    "content": "The campus water supply comes from BWSSB mains (70%) and a borewell (30%). Total daily capacity is approximately 250,000 liters. Peak demand months are March-May."
+  },
+  {
+    "topic": "conservation tips",
+    "content": "1) Fix leaking taps immediately - a dripping tap wastes 15L/day. 2) Use dual-flush toilets. 3) Report leaks via the chatbot. 4) Rainwater harvesting recharges the borewell. 5) Water gardens in early morning to reduce evaporation."
+  },
+  {
+    "topic": "sdg",
+    "content": "This project aligns with SDG 6 (Clean Water and Sanitation) - Target 6.4: Water-use efficiency, and SDG 11 (Sustainable Cities and Communities) - Target 11.6: Environmental impact."
+  },
+  {
+    "topic": "buildings",
+    "content": "Block A (hostel, 300 students), Block B (hostel, 350 students), Block C (hostel, 280 students), Block D (hostel, 320 students), Admin Block, Library, and Cafeteria."
+  },
+  {
+    "topic": "anomaly",
+    "content": "Anomalies are detected when daily usage exceeds 2 standard deviations above the 14-day rolling average. Common causes: pipe leaks, stuck valves, unattended taps, or construction activity."
+  }
+]
