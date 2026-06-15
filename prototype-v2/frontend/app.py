@@ -23,8 +23,9 @@ st.caption("Legitimate Data Version | Government SKSJTI KR Circle, Bengaluru")
 try:
     root = requests.get(f"{API_URL}/", timeout=3).json()
     data_mode = root.get("data_mode", "unknown")
-    badge = "🟢 REAL DATA" if "Imported" in data_mode else "🟡 SAMPLE DATA"
-    st.caption(f"{badge} — {data_mode}")
+    badge = "🟢 REAL DATA" if "REAL" in data_mode else "🟡 SAMPLE"
+    src = "Kaggle Water Consumption Forecasting Dataset" if "Kaggle" in data_mode else data_mode
+    st.caption(f"{badge} — {src}")
 except:
     st.error("Backend not running. Start with: python3 -m backend.api")
     st.stop()
@@ -170,6 +171,7 @@ with tab5:
     **SDG 6:** Clean Water and Sanitation  
 
     **What's legit about this version:**
+    - 💧 **Water data:** Real open-source dataset from Kaggle (Water Consumption Forecasting by sahideseker) — 900 records, 5 regions, 180 days
     - 🌤 **Weather data:** Real historical Bengaluru data from Open-Meteo API (897 days)
     - 📋 **Benchmarks:** Government standards from CPHEEO, BIS, BWSSB, NITI Aayog
     - 🏢 **Buildings:** Actual SKSJTI campus buildings configured

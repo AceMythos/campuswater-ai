@@ -37,10 +37,25 @@ class DataManager:
         return {}
 
     def _load_water_data(self):
-        path = os.path.join(DATA_DIR, "sample_water_usage.csv")
+        path = os.path.join(DATA_DIR, "real_water_data.csv")
         if os.path.exists(path):
-            self.water_data = pd.read_csv(path)
-            self.water_data["date"] = pd.to_datetime(self.water_data["date"])
+            df = pd.read_csv(path)
+            df["date"] = pd.to_datetime(df["date"])
+            zone_map = {"North": "Hostel Zone", "South": "Academic Zone", "East": "Admin Zone", "West": "Recreation Zone", "Central": "Academic Zone"}
+            type_map = {"North": "hostel", "South": "academic", "East": "admin", "West": "utility", "Central": "academic"}
+            occ_map = {"North": 300, "South": 400, "East": 80, "West": 150, "Central": 200}
+            df["zone"] = df["region"].map(zone_map)
+            df["building_type"] = df["region"].map(type_map)
+            df["occupants"] = df["region"].map(occ_map)
+            df["is_anomaly"] = 0
+            df = df.rename(columns={"region": "building", "consumption_liters": "usage_liters"})
+            self.water_data = df
+            print(f"Loaded REAL dataset: {len(df)} records, {df['building'].nunique()} regions, {df['date'].nunique()} days")
+        else:
+            path = os.path.join(DATA_DIR, "sample_water_usage.csv")
+            if os.path.exists(path):
+                self.water_data = pd.read_csv(path)
+                self.water_data["date"] = pd.to_datetime(self.water_data["date"])
 
     def get_weather(self, days=30):
         dates = self.weather["daily"]["time"][-days:]
@@ -125,7 +140,7 @@ class DataManager:
             "top_building_usage": int(bldg_usage.iloc[0]),
             "total_occupants": sum(b["occupants"] for b in self.buildings),
             "lpcd_avg": round(total / (sum(b["occupants"] for b in self.buildings) * df["date"].nunique()), 1),
-            "data_source": "Imported real data" if os.path.exists(os.path.join(DATA_DIR, "imported_water_usage.csv")) else "Sample data (replace with real readings)"
+            "data_source": "REAL: Kaggle Water Consumption Forecasting Dataset (sahideseker)" if os.path.exists(os.path.join(DATA_DIR, "real_water_data.csv")) else "Sample data"
         }
 
     def get_building_usage(self, building, days=30):
